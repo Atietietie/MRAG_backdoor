@@ -1,0 +1,3097 @@
+[
+  {
+    "qid": "ebd963cf83f32a01f2f223536cd08543",
+    "question": "What animal is on the cover of The Littlest Hobo",
+    "answers": [
+      {
+        "answer": "dog",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "5d107bb5a4062da61c892620a2880928",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "The Littlest Hobo",
+          "wiki_title": "The Littlest Hobo",
+          "url": "https://en.wikipedia.org/wiki/The_Littlest_Hobo"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "5d107bb5a4062da61c892620a2880928",
+        "9fed01a9406aac708068c9227b0518ef",
+        "0d91b3c4ed001ca496d9d7c5b4ec3ae2",
+        "e35f5ff9db74222ebd183e5581021524",
+        "661ae0c408739e098e3c047b34cb31b6",
+        "fd77a0afe52497ee17ec111af760b9b5",
+        "c214508dcb0cfd650167d997d7698566",
+        "1ccf51564205c7d8f3b28251c93f17eb",
+        "05eb8ba40320cb4b567d617193f21ecf",
+        "3a5a629c59641e12de8cb65e21aac938",
+        "54918bb7c9b904a02b04181c192f9be9"
+      ],
+      "text_doc_ids": [
+        "9a32c7dfce1be9c50bc0f80862766983",
+        "3a813c3da3d9ecc65fa1e89138c14951",
+        "b4657c700d57a8aef3a00fd9b728a893",
+        "675b832c751149afa9597d2d022e6f21",
+        "06962004574bbc066b816eb2d8189e44",
+        "699df44d6d7c6834642700754bf03dc0",
+        "56a840c39f5829780560d50ff57ef5fa",
+        "fe55873b62aa142c54fa141d82309c5d",
+        "37d3fa7a19169247476d7d6e0ef7e332",
+        "9b8013397ea4450cbc29a1b7e35457b4"
+      ],
+      "intermediate_answers": [],
+      "table_id": "6fe0ddb27b570cb1922679f9daeb5ab6"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "5d107bb5a4062da61c892620a2880928",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "1428f985d00f4861f9b128bee5e09a08",
+    "question": "What animal is on the flag flown at the Malaysia Open (badminton)?",
+    "answers": [
+      {
+        "answer": "tiger",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "fb77f93793830af3331f0a56304320b4",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "Malaysia Open (badminton)",
+          "wiki_title": "Malaysia Open (badminton)",
+          "url": "https://en.wikipedia.org/wiki/Malaysia_Open_(badminton)"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "fb77f93793830af3331f0a56304320b4",
+        "c26ee91ac8fb9b2b98930983e0a44df7",
+        "26e70c2fc12c1ebae0b4cb0bc600dce9",
+        "5116f01affda9c23db2ab347cfc99177",
+        "3eecfc9a64d80125c302670c7e95ddc5",
+        "81f11090d7045d8ed5b8586a807be275",
+        "2df8a9706e7a5e78494b4b110b19341d",
+        "d4dc2f55f445eeef5258145c3cf91741",
+        "d8cc9bc84fafb8cd7a95ace2db33c410",
+        "3128284231d9764931938e348233ec7b",
+        "7f806747b2e2c54f7290281a123d4198",
+        "7509840f0f1024c7e98e93ee28ff712a",
+        "d7f7cab4b8fc5ed9e12ded200adf9dab",
+        "aa2d0cd1920a1b0def8fbf1cf6c7687e"
+      ],
+      "text_doc_ids": [
+        "9313688b12b9e055fc85f81e1168891b",
+        "0f7b964e24624efc289cf9f8ca64e33c",
+        "8a1bf6f7c872a4ebf119742e68844e41",
+        "25e7455472ca547fdc5a26edf333b5e3",
+        "d77facf2e066489cfc22aaebdc310d63",
+        "6749a80d4b4ee83b9b9d2879ec994403",
+        "f119c66089a482a68be5fdee881ae5ae",
+        "0af7dc85fc7c42e094d1eb3dd2e1752c",
+        "46e8f03216cc6b78fe69cbecb37116a0",
+        "1df002eb0b0ad853d70879198b67161d"
+      ],
+      "intermediate_answers": [],
+      "table_id": "c5c4caa15f072a861a92c44c96959850"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "fb77f93793830af3331f0a56304320b4",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "e1a36e1b79f4ad265f742d777b5d115a",
+    "question": "What animal is in the Los Angeles Aztecs logo?",
+    "answers": [
+      {
+        "answer": "bird",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "af0abc68a36192cf0ce973a136d2e7e9",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "Los Angeles Aztecs",
+          "wiki_title": "Los Angeles Aztecs",
+          "url": "https://en.wikipedia.org/wiki/Los_Angeles_Aztecs"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "af0abc68a36192cf0ce973a136d2e7e9",
+        "e0e1b15ca840790bddbb4190fa2de463",
+        "a4b418dbe4ee982736fb9f9af0dbd564",
+        "a591569f4778751421a1de6439081c1e",
+        "fc76ecc05a5e61a0de55cb3f58dc9d13",
+        "b28af8e4f9127992f382253cd840bb7f",
+        "b8d6f8be832b73e94eb78a99723fd64a"
+      ],
+      "text_doc_ids": [
+        "59d042986c384a48d77b49efd43c43d4",
+        "ab0001a894bdcc398633f11d55622e33",
+        "de0ac029aff157caeddab50d65c54069",
+        "efd0a1c8b58608afa60b80a2a356348d",
+        "e8854db43338d0be8fb982badddfc640",
+        "5012c100dced829e72a70347199670e3",
+        "f0e0fb0508e9a223936105d4b96c6c6e",
+        "597064bd0470378641ea9e639884cb8c",
+        "ecfe0597c2051187814758edae35acf1",
+        "97bb4a32898a77c39cd698715840a3c4"
+      ],
+      "intermediate_answers": [],
+      "table_id": "d23d36b59f77d705c0c10be1b77c00c1"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "af0abc68a36192cf0ce973a136d2e7e9",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "bf378ded18e95cd3f999bc33a7974931",
+    "question": "Is the mouth of the animal on the Brabham logo open or closed?",
+    "answers": [
+      {
+        "answer": "open",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "54dd6dd01cecc8e13ccbf0456a2b937b",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "Brabham",
+          "wiki_title": "Brabham",
+          "url": "https://en.wikipedia.org/wiki/Brabham"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "54dd6dd01cecc8e13ccbf0456a2b937b",
+        "406162629298c626e0070fa076ad3bbd",
+        "14cf261ee27f8b42905741d078c65743",
+        "52f62aa54b4f7454ae8ef5b8e3654d88",
+        "afaf4caa3dd53ccb2ea473226429aa29",
+        "86506c6e4f982b730f0a14a1c7ab9b0b",
+        "5c96fdedf21c035415f50dc63e1709a7",
+        "18c0656eecd09433eff5d6784d490372",
+        "557add8a05f72dfcad9019b698ddd7b6",
+        "a86a60142170659baf762e2079cc3d77",
+        "3a0e59c852fc5338e09838180468b2bb",
+        "157a488f95298b66ee1554b147b1b647"
+      ],
+      "text_doc_ids": [
+        "d1a3f74a80326d56d5ceb4c555751d92",
+        "49c94da8199981b81793d81fbc5d8700",
+        "c2ddda88bff8898b867492d150f9eabd",
+        "e8af66a5d76a076d5612da476ce15eb1",
+        "6efc2d39b73bcfc4b7417f87646f0796",
+        "37988f6047b29cf986a61b13530a706e",
+        "2e034fce232e6bd85c068b5a94ce638e",
+        "585731b8fea033d4fd282692e69d3ccd",
+        "6ad2630b16aeffa94877912d218656b2",
+        "354249706206435a896ade9e1dffb3c0"
+      ],
+      "intermediate_answers": [],
+      "table_id": "4867c2fba838fb37ec042a31a1ce80de"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "54dd6dd01cecc8e13ccbf0456a2b937b",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "2e37983903aab6b92e5af57ebfc659fe",
+    "question": "Based on the logo over the title what animals seem to race at the Preakness Stakes?",
+    "answers": [
+      {
+        "answer": "horses",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "88bbe06edd9e515daa05409507b75b4f",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "Preakness Stakes",
+          "wiki_title": "Preakness Stakes",
+          "url": "https://en.wikipedia.org/wiki/Preakness_Stakes"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "88bbe06edd9e515daa05409507b75b4f",
+        "0f1828cb4980f8c1926201ec7c057447",
+        "7532ddd2f69172518f5931d430a2a79d",
+        "117d500aaa630023c4038b8268b309c0",
+        "d109d7f12737da231780ee5ab8f20c9c",
+        "171b4f77371e1f256f41f710a4f4cf18",
+        "1d485bc338f7af27a197beb12e84a5d0",
+        "4bbb0f124398d15c63baf9acef96c41d",
+        "efa73b7420cb4bb45f4f4fb0fbcdc997",
+        "26662237da050832d0d6e68a62bf38fe",
+        "5588a1833b8fa95fe1b0ed520e447d64",
+        "fe4d933f2056507d2bb241ee69db19a7",
+        "0d180524ae46b8e2a5912cf3a393b3ee"
+      ],
+      "text_doc_ids": [
+        "1c3ba08b73af372d8bbb35c835c56208",
+        "91b4f7e40b2b49336dc57b596af9adde",
+        "eb5a707564209de948bd02cb06d2c992",
+        "d5c19e9483c71a30436c8cc1bc44fd69",
+        "d3d942c1eb139aed243a8cf967dabbe8",
+        "3231189749b9412829d5496980d384f1",
+        "42f563cf0ecb301ed5ede55e792bf801",
+        "f06b863209fb637eb3cbfba55354e714",
+        "1a103156302d9f89743010933cf385fc",
+        "bb3cf2ff2fdaa5caf19dd09b75d6da0a"
+      ],
+      "intermediate_answers": [],
+      "table_id": "7f98d5b49695c092f668ebb48579e41a"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "88bbe06edd9e515daa05409507b75b4f",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "b2f2da2565b9b7fd6f6d4a81f94b1b88",
+    "question": "What animal is at the top of the Bradford City A.F.C. logo?",
+    "answers": [
+      {
+        "answer": "rooster",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "620b60cb3110c6b00d0ca9d00fd0bf01",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "Bradford City A.F.C.",
+          "wiki_title": "Bradford City A.F.C.",
+          "url": "https://en.wikipedia.org/wiki/Bradford_City_A.F.C."
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "620b60cb3110c6b00d0ca9d00fd0bf01",
+        "e209b5aa6b50e179da8fe338baa8c446",
+        "d05bf34c50b1676a75f66e917cf9f027",
+        "4b07a82075f207dd3d36b9ac3f2652cb",
+        "49841bd4cb53cf6e0552b2bca1375065",
+        "573f4492421035feab3c2899ff939667",
+        "c09105aad17ba7b161cc51992e80172a",
+        "deade291b7ab1704226a5611f30f2a2e",
+        "7c11dffcdb14c7c6c2e82e683269d7c6",
+        "3be96d3d62ebf9e6b0a3f46e90696eed",
+        "aed1b89aace4dc675bc34549b33dffa5",
+        "92fa8f17f6069b3e0701c8b0106c70ae",
+        "aca573b712d361c4ed4b73986f7e8314",
+        "4e8444d04f6c7a859f38ef4581a76302"
+      ],
+      "text_doc_ids": [
+        "f938a18f20ab79178892f5f325f49a0f",
+        "68a025ce917307142e8a652bbee6b1f1",
+        "f2a0e985a64b0ad5dfcd8cc989ba9827",
+        "913454320e7c013ea2f0fba38234cba4",
+        "c352bd878adfd4c0cbbede916de64114",
+        "c73926f337453fe07d5d6f27e3965064",
+        "1e2a0e52f8a184c9109182ec48ef86fe",
+        "d2abe0a65120906337f58f9ed7d0f271",
+        "97576af29cbdd1c0ea2c926fb182fcd2",
+        "6f1d515a258a788c522ddec16a49947e"
+      ],
+      "intermediate_answers": [],
+      "table_id": "378a7c97de777412b892f2f5e0420fe9"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "620b60cb3110c6b00d0ca9d00fd0bf01",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "3f866720704894d2227afd1624919f22",
+    "question": "What animal is the symbol for Great Northern Railway (U.S.)?",
+    "answers": [
+      {
+        "answer": "goat",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "463d9ba547ec81b0aafa1bea802a6150",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "Great Northern Railway (U.S.)",
+          "wiki_title": "Great Northern Railway (U.S.)",
+          "url": "https://en.wikipedia.org/wiki/Great_Northern_Railway_(U.S.)"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "463d9ba547ec81b0aafa1bea802a6150",
+        "fa3b9f327c9a2f14f971039cea53f7cc",
+        "77e569a6089ce183fe2120b17d23721f",
+        "3c2e404b835a815fe92f094d4374cd0c",
+        "efe62075aa7388833658a54bb9d56792",
+        "cac7f8b75213611f5afa1f229f26c590",
+        "589b1bc5f2728cc2e56278e869ca7f82",
+        "cfd14666e30b6edea1a305b8e6c47707",
+        "ddb13df19fc6934e588428bbe6633389",
+        "50ab93e9b113e67266a9dca1c14bd858",
+        "c5430fbb54224c488e1f88f03e9883d1",
+        "66d76773668337379efae8dcc4fc2691",
+        "9150f9f87650721a6fb0cadc228ea13c",
+        "cc3f1fbb5ac8c989288ca89f4c9c344c",
+        "65afee95a75aea3b1eea88cd81c8fd65"
+      ],
+      "text_doc_ids": [
+        "e62883f1ec55bb4ff0c4912320b2b896",
+        "2610ba47f7cd15ab8deefc84ebb10075",
+        "e3c7e647cd7a286c0f88267eba614c3a",
+        "8e5f0aa9cdc10e3dff8604d451abb044",
+        "c7691d631e154220cc7615ca4aa9e2e5",
+        "6f017ef2cd86ce570b14e25f969c6668",
+        "842759f38d92a7a7304422ad3092965d",
+        "b6ba9eb6789054b9efc9957bd5e16865",
+        "e483d13ec4a911ddc25e34927a2b0f50",
+        "700f9e5e8cac94ab97c46a63194caefc"
+      ],
+      "intermediate_answers": [],
+      "table_id": "b0303e7a98600e19aa5cbb632def36da"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "463d9ba547ec81b0aafa1bea802a6150",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "d713c96519687dc01e620195eb7affd5",
+    "question": "What animal is the pin being worn by Lark Voorhies?",
+    "answers": [
+      {
+        "answer": "turtle",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "4ebb6d6a8b4d8cc03271a0b9f09eda3b",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "Lark Voorhies",
+          "wiki_title": "Lark Voorhies",
+          "url": "https://en.wikipedia.org/wiki/Lark_Voorhies"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "4ebb6d6a8b4d8cc03271a0b9f09eda3b",
+        "e47535c8deb10e8ee07197a28f6c02da",
+        "5d7cd50b52782f9df64ed88e3dd28494",
+        "5e2e7261dac6ddc8adf906206c3c4d0a",
+        "8d0d7e5d6fd28d470a51a0ed3a487784",
+        "842fd1c4e61b93f91ec850e48b40436f",
+        "1179a5fd15d8fad94163be386a867232",
+        "dc938494efa35de858d0dbf67ec083b7",
+        "c9fb3e82d30695a4ca5ef74e6914ba19",
+        "e91c1875813a2ca224460b0882072a66",
+        "619ac0046d44cb0230221e44a7d7574f",
+        "e81fac30816f81bc89f72c17bb01df1e",
+        "eacb4ae29bceea887c5fab89b186c062"
+      ],
+      "text_doc_ids": [
+        "2300695206d7fb80bf9ef81e0f5831e5",
+        "ef9111f4f591c2e437e4164d5b85dd72",
+        "d4d8866d10e6c3806ad8ab2ffc7f3a5c",
+        "bc897654d4f2ff0981c48af1475e3e8f",
+        "f30266383d3178af014e7799c3a21e54",
+        "fbc422b0add57706a3087ae4b45cbf37",
+        "5f3db30d983107e0eb8fc194017cd700",
+        "809de7faee41bde6d629975ed6fa5d5f",
+        "a2db6c2f751d7d4e95dad369fdedf63e",
+        "63b6d89f454e5810ff159a2c22d1ab24"
+      ],
+      "intermediate_answers": [],
+      "table_id": "66c6596feca55c8ac3cb5e3e91b17bdc"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "4ebb6d6a8b4d8cc03271a0b9f09eda3b",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "616ca105777a6ff244a02342475f8e59",
+    "question": "What animal is at the top of the The Forest (2009 film)",
+    "answers": [
+      {
+        "answer": "cheetah",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "4fc8cf1ae02638d1df68ef84241e2093",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "The Forest (2009 film)",
+          "wiki_title": "The Forest (2009 film)",
+          "url": "https://en.wikipedia.org/wiki/The_Forest_(2009_film)"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "4fc8cf1ae02638d1df68ef84241e2093",
+        "144b2ab6be6c6960dd63c358f2d7c075",
+        "98d3abc4f57faaf573bd357c54ba291f",
+        "644a73504aebf9237b9c38a6cf4dee84",
+        "3a3c6857bae8c0ab89c5f6adc31d4808",
+        "13b3b86760cacdee051a5586bada0081",
+        "857557c1ff2618f32f8404836773574a",
+        "237fc88fe86d371eeb2996fde284f0ab",
+        "b8e0455ca859745286396033c8d9ed9e",
+        "7b917692bdd3fef137fa20db222d5faa",
+        "34b6b98ff5c53d7714601f061a991c68",
+        "637b6fd9bda02ba1c83f62e9e9630ce5",
+        "0a9e7c7ee4e45f34b855caa45c908206",
+        "1556d2a364042b2cda53fd3aa9d33365"
+      ],
+      "text_doc_ids": [
+        "a25e08a9debc140aba1b7587c10fb2a4",
+        "0e00ea5c138830fb7383ed5188036550",
+        "dfc44f70bcf5f4cf682e8f9ed6d4ab3b",
+        "a1466e6ee3c7713adadd764bd8649c95",
+        "1effc3050b7528dc39b837eb59feb56f",
+        "03f7fe67c2912469e210e284cb7b54fe",
+        "e4e4fe23eb8949689a7a59cdff45c117",
+        "fab20e66bbfece83245fc78cc41f8ce5",
+        "a202222ab8af40b0302326df419d4b15",
+        "11f69ad4bbd24ff14b5eb29cf9f4cb00"
+      ],
+      "intermediate_answers": [],
+      "table_id": "32d572faee2831265e84c061f0ebe397"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "4fc8cf1ae02638d1df68ef84241e2093",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "9a94e2c9b23a0eebcb51e2fa9b278477",
+    "question": "What kind of animal is the main character in Crash Bandicoot 2: Cortex Strikes Back?",
+    "answers": [
+      {
+        "answer": "fox",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "f8c6b8a3e5e23beb09475a5952969639",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "Crash Bandicoot 2: Cortex Strikes Back",
+          "wiki_title": "Crash Bandicoot 2: Cortex Strikes Back",
+          "url": "https://en.wikipedia.org/wiki/Crash_Bandicoot_2:_Cortex_Strikes_Back"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "f8c6b8a3e5e23beb09475a5952969639",
+        "1a7524701412ef03681f6ded23cfc848",
+        "ef116efe4a933de18511c789c9674a3b",
+        "32361ca07921e2e88b59d21f01081ec5",
+        "543f4d32593fda2c2d1f4af865bcf350",
+        "fe1aac3d9ceac432e1de8e068e8394c4",
+        "63e4d7616d41075fedb83e02663831fc",
+        "d5042a7404b21aedbe51bc1c5f47a5d5",
+        "c0bcd7fe62cb04c9eb16b5d98802923c",
+        "82f67a722e624223fe02ec9a38318eb4",
+        "739cf74bb57639e97b499155214144f9",
+        "ee4401eb5a27da0707f1bbff754f5dc6",
+        "d7720b48883dbcb84e1d3dec5e420c6e",
+        "2525fc2367f61eb21a1c46abcb9735f2"
+      ],
+      "text_doc_ids": [
+        "54d776dae9675ab9ad157421cfe562cb",
+        "2008c01b41a37afba156376f3dd52e04",
+        "33d73192acf527106e9eac8e7e5fb7a8",
+        "4c314145ca29ba2ee31f38b1f89360f3",
+        "c4a8c18260a0748245fbd8926b0c63ae",
+        "e2966d552fd0746a80394c1c46e058a2",
+        "a2823d0818b06ffcbb75e420d8c914d7",
+        "bec223bd37009171d6fbad508a46bb6f",
+        "449f483b3dc25161646bdd646b9c7fcb",
+        "2e46d53a75503501ebe7a3680475cbc6"
+      ],
+      "intermediate_answers": [],
+      "table_id": "39d7d2fe1da399094de7db58375d65ca"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "f8c6b8a3e5e23beb09475a5952969639",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "fce6ebbfa223ef92e4f0492c5b713583",
+    "question": "What animal is at the bottom left of Game of Thrones logo?",
+    "answers": [
+      {
+        "answer": "wolf",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "1ae83e2b5402090faff196e5b7e356f3",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "Game of Thrones",
+          "wiki_title": "Game of Thrones",
+          "url": "https://en.wikipedia.org/wiki/Game_of_Thrones"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "1ae83e2b5402090faff196e5b7e356f3",
+        "9b104ff84ae09e8217ecc2b42125a42e",
+        "93b9deaf461b38dbae3b2ae1acfe7fae",
+        "ac383e2c4352507658901ea2357e2db5",
+        "d3fc4a38f7323a4a7c065c4379664c3b",
+        "40292f1fe139dbc97d53473474881af4",
+        "4cccc81e11e83aaef1ac7f54f18ea53a",
+        "a658f526b1edcf01650d419343eb5855",
+        "27cba1553aeffd789a0c2597c5949e77",
+        "93a7bdd8f4c979d1a84129fd4d83dbb7",
+        "e9f25b439cf6106cd9e1ad9c722764a9",
+        "2162d18ea3b19bfa6a6bad158d6ac5a1",
+        "fd6f9e2978313e459847fa5896a1a474"
+      ],
+      "text_doc_ids": [
+        "e00793de38d497606ae14df506d2929f",
+        "7f2628ee2c7fd904df49eda5ba2a56c4",
+        "a2fc18ffbe6a75e89392489523417801",
+        "e3e3d8cddd1466fb9f1065c5dbc45262",
+        "e1813f2e8039687026f8bd889057145a",
+        "577307a631873ecaf8490dcdde85014c",
+        "08463950ce4d0071b94bb500cd4e9bcb",
+        "161bbfc8fa25d57fd91607cea804e183",
+        "a83419b5585415a2f3d06086c7526fb0",
+        "dad24c30f7049ad8eb526559b1640ae1"
+      ],
+      "intermediate_answers": [],
+      "table_id": "026de798d66fb6c71f210c59572a0327"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "1ae83e2b5402090faff196e5b7e356f3",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "06075819e69d94f100cd932d9cf78882",
+    "question": "What animals are on the rood of the Hampstead Theatre?",
+    "answers": [
+      {
+        "answer": "birds",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "24b851f7f48751e696401f0365d3de01",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "Hampstead Theatre",
+          "wiki_title": "Hampstead Theatre",
+          "url": "https://en.wikipedia.org/wiki/Hampstead_Theatre"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "24b851f7f48751e696401f0365d3de01",
+        "2975029acc55e10179adfb759a983af7",
+        "dbe9f5ea12069a38913d3dc22e0e6ad7",
+        "c1403c696634ae69e2250d6dd7e0ff99",
+        "7298a809fc2414d670856d1ef60d53e3",
+        "8df4601e5b3d1a7374a3c4019c2d41cb",
+        "8b2df8b9991725744d29b4551ae6a9a0",
+        "346f62f0e4526c199df4992d0f05fc6d",
+        "d4d127547c20292094093f00a7bdfc29",
+        "bf219b90b34b05778204262155236ce5",
+        "ad0ddd575c38e004d20e2c557e7045a9",
+        "56a5c3895e9e3e3c89255a445e3b3dac",
+        "8c44781eee00ac97793085151878d75b",
+        "b3545e799e30c8a87a59a55715812b8d",
+        "3660026b2789078ae449a2193167bc69"
+      ],
+      "text_doc_ids": [
+        "37850386e9f09faaa1ca65650c66ea21",
+        "18fe154138153ad96d61e2143db30430",
+        "8bbbdf82f0fc0d95ac7c770093b193a7",
+        "0fb8c18fac60503a0809bc4f508c0c49",
+        "e514d2b69c880274256d889cddc8154e",
+        "978d179e979a168862e51f7e2fce6afb",
+        "8658021d958ddddcd1a7e80cb48b3883",
+        "a74f441a0cf005157d8282d6ba43ac1b",
+        "e2514ba750bf67b9456b36481ccacb4b",
+        "12c8943b94de6b87044c49e68b9d1b51"
+      ],
+      "intermediate_answers": [],
+      "table_id": "55df8a3e22cc5741392ded39e0ae4d04"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "24b851f7f48751e696401f0365d3de01",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "234c5253abef579754c8521f7e2e49fb",
+    "question": "What type of animal is on the helmet for the 2016 Arizona Cardinals season?",
+    "answers": [
+      {
+        "answer": "bird",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "aaf1dd667eaa8a28f58935dc26742f78",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "2016 Arizona Cardinals season",
+          "wiki_title": "2016 Arizona Cardinals season",
+          "url": "https://en.wikipedia.org/wiki/2016_Arizona_Cardinals_season"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "aaf1dd667eaa8a28f58935dc26742f78",
+        "551d7b77ca1af2150b30b9c9f5d2a13c",
+        "bfab16105dea39357586e5248c30a7a3",
+        "6ebeaf6b68a9644bac3b4e4bd4fd0f34",
+        "d2ef61451bf88b7341fe6c1dd1c0fdff",
+        "caa1b7492ce926a73fc98bfed204438b",
+        "55220772c49f357836fdd6c25ae126aa",
+        "1d05d7b2c6030d869107c217bf24a71c",
+        "35162c9e15c8b804fc0a1eb7671ab471",
+        "2e090a6f1f4aa86fa8578021232adc28",
+        "f0e4fe539a0dceaadd62ede131d19b0e",
+        "183cb2d7a82d112a086038d2dcd33292"
+      ],
+      "text_doc_ids": [
+        "1debb084b43bc48e25d16bb35f0b2cf5",
+        "8c3bf0ffb3a59f6deab6efa6d48dff3d",
+        "55c9c2b92c4ab7b28de0e8bf16c999b4",
+        "7be765ba5be5fe9f8c1c459147ba216a",
+        "09f54fa4950bd48b1cba46e2e483b09f",
+        "043fb31e53db74c21e978d5c9b59b6b0",
+        "7bc1f818d41a2aff1a1949ea445369b5",
+        "cd7afbb6b1d247c213bac440b34334a2",
+        "95d80ac4bf58acf1a660430959b20a3c",
+        "e30be1aa8336fcbeb56c1734fa342a09"
+      ],
+      "intermediate_answers": [],
+      "table_id": "dd34dec1a90e04ceb2b4f6ed6b482c43"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "aaf1dd667eaa8a28f58935dc26742f78",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "2f04a2cd9eb317d568de6a00182a1f5d",
+    "question": "What animal is displayed on Ric O'Barrys shirt?",
+    "answers": [
+      {
+        "answer": "dolphin",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "1225a18cf1404c30ded2b6fa203d2909",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "Ric O'Barry",
+          "wiki_title": "Ric O'Barry",
+          "url": "https://en.wikipedia.org/wiki/Ric_O'Barry"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "1225a18cf1404c30ded2b6fa203d2909",
+        "1ef0dd1bf66b6f6d7790f976dc4f20d0",
+        "31e11983720d4d1e2757a77ce5c49527",
+        "a12fe1e6b0f18454b9def451f54b6480",
+        "372cadfd18057f98539ff823c68a2c64",
+        "f2c6693a65bf36e110f373681a60ea01"
+      ],
+      "text_doc_ids": [
+        "844311bfcddb3e6df74889b6ffbff56d",
+        "dfa2febefd6de0ce75295f205028ad21",
+        "66357e25628933ed174b5aa836a31f23",
+        "f21202dddf040aed2e4e3caed1998c71",
+        "ab22470925de95e5d086ef4c9905d7bc",
+        "a1001283d05edf40740290425620d8a4",
+        "331c7a3c7005b2b9fcd75a1525729c41",
+        "47d398d5c173d4765f60e1e012e426ed",
+        "5c4ce839180f3733e8fb6bcaf3313ad4",
+        "3d743a74a4c0d77d6c5ba6bcdb558088"
+      ],
+      "intermediate_answers": [],
+      "table_id": "44648742e524a8b6b45a3eb7528741e1"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "1225a18cf1404c30ded2b6fa203d2909",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "08cac19f57d5ba07137d896a33b631a8",
+    "question": "What main color is the animal on the logo for Panther Racing?",
+    "answers": [
+      {
+        "answer": "black",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "94ce1d98cf0e9410ad1175c3616518dd",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "Panther Racing",
+          "wiki_title": "Panther Racing",
+          "url": "https://en.wikipedia.org/wiki/Panther_Racing"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "94ce1d98cf0e9410ad1175c3616518dd",
+        "9dc854ad6a10337824fe499038a73937",
+        "cea30dcc3f486399817924f744d274c0",
+        "8a7e6fa94d02f4aa6209e31e6d30aabb",
+        "fc18b5e98cd3e6e0a90c7c8ab321e089",
+        "a438f50d37ad14da4dc8aad9fecda142",
+        "09ad4cf6e66e55939f0855b8afa34528",
+        "3666acc91bbbca7ca60a73fd517b943e",
+        "6c4f18eb6e573295e18f90e1ee24522f",
+        "c9e71d250b29c6b1d45bbbca56096546",
+        "d7c31feee593688b3eaacc3000826cd1",
+        "35dc6c2976a4aee88d896fb867befd24",
+        "b79ad4c02c19b54b398edd6699db91ad"
+      ],
+      "text_doc_ids": [
+        "d3b16d95c95cfd75b1e223e3a329d4b0",
+        "41e3ba89e37b3a8f22daeed39435179a",
+        "aaee48d9319aa79dcdac94187da7ea20",
+        "83afb0f189cf2b91428e026688fe4a3a",
+        "dba54bbd300cb549f2b9698a29d382fb",
+        "b7e80c4864b317f9e2700a44c886cd0b",
+        "aa3439f56d91e039b61f1e455a1255f4",
+        "f167e7b756c20dc03b9b8f19bdfb57de",
+        "b1ea27487ea7be150f6bbbc6113860ec",
+        "8821e550f0c3bf74300d72212f4b7f25"
+      ],
+      "intermediate_answers": [],
+      "table_id": "fef58d92f5998dbd00cd7ce434cbe162"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "94ce1d98cf0e9410ad1175c3616518dd",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "fa37bf0e19b0d6e6c10a734f7e0f3cb9",
+    "question": "What color is the animal on the 2016–17 Nemzeti Bajnokság II logo?",
+    "answers": [
+      {
+        "answer": "yellow",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "e00c44785fb13e5f6cf662c051cf8b1a",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "2016–17 Nemzeti Bajnokság II",
+          "wiki_title": "2016–17 Nemzeti Bajnokság II",
+          "url": "https://en.wikipedia.org/wiki/2016–17_Nemzeti_Bajnokság_II"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "e00c44785fb13e5f6cf662c051cf8b1a",
+        "938cc02cac45fc7d40fd0cb3d5064d23",
+        "4c139bd5f30f14d68ad4c404a79b9e31",
+        "84cafa339667ec71097837044d00c1cb",
+        "2c7d1f9b7d9c83d80aa1801cb9e25d65",
+        "6d559d00e28d8200f526cbc6dc73d2a9",
+        "e91fa8e38a68a578e376692bbb48fbdc",
+        "a8b71701a279e125990cd3d38d00adc6",
+        "5c9363ae2a4e1c617dbea5ca24e37278",
+        "4c941fc323450b8880c75a3d488f7315",
+        "7578db7b0bdb345efd88b94413f32594",
+        "cc45ec357bc907bf6de31ca00cb14730",
+        "45cdcff77ec9bbd5f59da5100748c26a"
+      ],
+      "text_doc_ids": [
+        "dc374e5bfd9e37059d3d148f48308ff0",
+        "90d6d34392d16447447d5b87f235293a",
+        "0133e4f922451dab73dd79a18b76baf4",
+        "216665779351950befdea0392eba7405",
+        "fab1357341a3e9796887693c6a8b5c80",
+        "03a0b8a19604d2388ba6e6bc118118a7",
+        "af3ed9d82dae5b455536de5a5dbcd047",
+        "e392f328b91f8d1baec7be7b0a5d9bd3",
+        "02076d1b6cd73d70aa700cff714c6bd3",
+        "9579ae17b2746621d3db7f7feccb0aaf"
+      ],
+      "intermediate_answers": [],
+      "table_id": "de99126992917703f66dd7e8684004b2"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "e00c44785fb13e5f6cf662c051cf8b1a",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "75039b3b4e8199d67e23a06e9e6d7438",
+    "question": "What animal is in The Night of the Grizzly?",
+    "answers": [
+      {
+        "answer": "bear",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "f8c6becec72a684835503a24149b9eaa",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "The Night of the Grizzly",
+          "wiki_title": "The Night of the Grizzly",
+          "url": "https://en.wikipedia.org/wiki/The_Night_of_the_Grizzly"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "f8c6becec72a684835503a24149b9eaa",
+        "09462d10c95872f1a6992245d39614b8",
+        "d65a06a957ab7e0889aa0f42699f5fea",
+        "e9792418ce1160bba20c0321a3fcffde",
+        "43d11e860ccd21b1d76efbcd100e6483",
+        "adf25098c11551ee6c75a71d6872e6ab",
+        "a8182e1edfb9d13149781882c2874e53",
+        "ad518b3ca72fe9933ed3c154182566f5"
+      ],
+      "text_doc_ids": [
+        "e588f6181a4aae129666702814286f89",
+        "8a57c636764e3e22c4c535544f15b1e5",
+        "ddc26cda933483a3944605752ff19766",
+        "c81c99053a8d0dbdbf8207edf5ca2c53",
+        "df9df1193fc79ff9af5368755bb4e3c3",
+        "814dd1b698830f894c5e4589f305fcc7",
+        "d6e051ad2d2577495238fbaf9e81186c",
+        "5319413ad773f95cef4bf8f7f7c06b0a",
+        "aae227684366aa0feef26c9a74f7d1b5",
+        "24154b19b23db078ca866105c3baa8a6"
+      ],
+      "intermediate_answers": [],
+      "table_id": "e525fbdfa7072d1632a1e4a7e494672e"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "f8c6becec72a684835503a24149b9eaa",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "c272539d2851cd0b92b99ab5600c3274",
+    "question": "What animals are on the DVD cover to  World Without End (miniseries)?",
+    "answers": [
+      {
+        "answer": "horses",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "3278374191718b9e3fd8f40f9a5e3547",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "World Without End (miniseries)",
+          "wiki_title": "World Without End (miniseries)",
+          "url": "https://en.wikipedia.org/wiki/World_Without_End_(miniseries)"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "3278374191718b9e3fd8f40f9a5e3547",
+        "584b14f69a08d854d5ca7c3adea7f406",
+        "8349538d8d16f22e786218b98327cd57",
+        "1bc3f6d584b3f51cb66a20aa6915c320",
+        "2ec2dda72980a3d46e46516b79ac51c7",
+        "f59949d58c26e1058d97d32c89d59872",
+        "177eb6f9ef7b81f5ee578a1cc97166c7",
+        "d7e678d2681b8c05b4318508a7d21740",
+        "7a2e464dfa7944b0f6356abdceabc4d8",
+        "2c1b12c8f344fbb9b464ace209fa6e1d",
+        "8ea3e1ec1e12a19597f4d9afef3ffe34",
+        "4f20d8180dc61dbcb4098dad702c2540",
+        "0516c004a7d4b6c9ba7b110658148a59",
+        "76366eccd1b0506cf3cda2e7b330d05e"
+      ],
+      "text_doc_ids": [
+        "2fd31529da1fd1860173637ff6834998",
+        "81afd8321bb5b95d09c39454f7fa508e",
+        "1858e0a6a28e18eceb4b0f788be49e7e",
+        "68bf1afb357768efe49ae344b0308811",
+        "fdb65a984ccce2f5fca805bb673a97fe",
+        "07d2da654888e4f8146d00a84102014d",
+        "dda77577a76456a8c44886b5e9f1388e",
+        "c667ec131074b24ed259ebdf2fbc1e1e",
+        "81358a10d0cd03f42237b48d9a4a14a2",
+        "742287b213f77154e6bbaef71efa4b99"
+      ],
+      "intermediate_answers": [],
+      "table_id": "373f42fcde8e2d8d03ce887b98abc344"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "3278374191718b9e3fd8f40f9a5e3547",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "3b49b2da7733a75f2fa09bcbcf1bcb61",
+    "question": "What animal is seen in the upper left side of the Game of Thrones circle?",
+    "answers": [
+      {
+        "answer": "dragon",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "1ae83e2b5402090faff196e5b7e356f3",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "Game of Thrones",
+          "wiki_title": "Game of Thrones",
+          "url": "https://en.wikipedia.org/wiki/Game_of_Thrones"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "1ae83e2b5402090faff196e5b7e356f3",
+        "dca96d299dfc7d69370772ce885d84d4",
+        "60cf0a0d35850416574b52822401562f",
+        "c438427a129e5bbd10918f8b1beadfbf",
+        "fbc783daab284c021911b99f74a18e4b",
+        "366008303e652d7d41d223b15369202b",
+        "57a77546587ee2a274950a31843c95e5",
+        "04208faf87f6bf5472670659c310a2ec",
+        "102d2b9ae5c2aea4aa10d58079e7187a",
+        "e36abf0630fadd067e39ab61c10c49e8",
+        "54f162b861e827ef5d2ed5751e1ebd76",
+        "c0b54476aeb0ad69aae3a3a07c5b0972",
+        "93f1abf9b2556830425c86d05d4d9d8f",
+        "b903a952b751a4a0c2f25a25c195f21a",
+        "bc37e7f517464c271fab8d15224f0d3e"
+      ],
+      "text_doc_ids": [
+        "c7ee8725a4d8a3393fde000a3ca02074",
+        "7c4366433cc26698552c1e3c8bb28202",
+        "44df79fa89877b12ccf1a44c9d4134d4",
+        "528e6b65bea9ca83bbb0cdec7381023d",
+        "1b1edbc387bd64790afe71d958257db6",
+        "00e0795e27fe4ec2da47276228ff2755",
+        "e59516ce08c400c2acdf5d4eecf069b8",
+        "295fcf9f39b4b502a058ed448c8ce58a",
+        "97953d3837ce406d8b120ad9cc61568f",
+        "0ab6121dc36326e9b73f1127549eba98"
+      ],
+      "intermediate_answers": [],
+      "table_id": "923444ff63fa81c4a29b14cf9b0cfacc"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "1ae83e2b5402090faff196e5b7e356f3",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "805d0f5b1436971997c1d2af5493aaec",
+    "question": "What animal is in the bottom left of the Grand Theft Auto V cover?",
+    "answers": [
+      {
+        "answer": "dog",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "9b79c45edb6b5e084089c9c11d79ca02",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "Grand Theft Auto V",
+          "wiki_title": "Grand Theft Auto V",
+          "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_V"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "9b79c45edb6b5e084089c9c11d79ca02",
+        "69fe7196e438a7472b4d87de0e85a74c",
+        "0840bd984826c987d83cb12c9763e09d",
+        "ff28d1a4c158e54c98a74ad059522426",
+        "82a3317ad2404178c0fb85de2863a272",
+        "34e58e6bebd14b3523f032aaab352fe0",
+        "1339ad5a7727b4ac91bb2b7b9f59aa90",
+        "ab319070d009176f68c63c047336c4ce",
+        "02408e8146b258e04036cb0ea8af04f0",
+        "fe41da3382e6f61a87719c0c3d9969c4"
+      ],
+      "text_doc_ids": [
+        "0025e9055dafa757d609e23649b4728d",
+        "1d6a2c73ee98f67d9480b365cb630c35",
+        "75037f86facbe2a493628dea4d0c9af0",
+        "1d0ac11f0d343dd90348493aa3c63c22",
+        "5f83a2fed22695f47d868146a0854abf",
+        "7f75aa84071a13585a70d535ec523d33",
+        "d75b37ff53efb119aec38a79a3fb7c26",
+        "2815641f40fb7899d94ef86325fade71",
+        "64689d3210a75f33985738e6a44e8137",
+        "f6a2df8e53b21244e254d7eeab066707"
+      ],
+      "intermediate_answers": [],
+      "table_id": "669a2a2e894ddbb40d0cf6afbba8d6f8"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "9b79c45edb6b5e084089c9c11d79ca02",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "6db49c5bbe2e20c90ea96e42c41b995f",
+    "question": "What type of animal is featured in the Al-Arabi SC (Qatar) logo?",
+    "answers": [
+      {
+        "answer": "bird",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "b8025b4025ebc4d2e3fa3fd1609bcb66",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "Al-Arabi SC (Qatar)",
+          "wiki_title": "Al-Arabi SC (Qatar)",
+          "url": "https://en.wikipedia.org/wiki/Al-Arabi_SC_(Qatar)"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "b8025b4025ebc4d2e3fa3fd1609bcb66",
+        "a82f97ab14b2f40f4f8726bff42fe7b1",
+        "29093aa42e46ee360355ed7a5b86bfaa",
+        "33264223e41e1e0c60ba5753f3b7c2d6"
+      ],
+      "text_doc_ids": [
+        "d11c0c670928eb778361b884ffb9da94",
+        "5ab00bb0b2e9f0f08db5b1a4d7118fdf",
+        "07b689587374a62dd12480527fed5cc9",
+        "b83f1ff83e0fc1e2fd565f1501b1a62c",
+        "c3ceb118345855b4df72b2d1316154ba",
+        "35c8cbe8de8e62316c75ad203f801215",
+        "61b9c4d271f4e5fc695122a40b89e9dd",
+        "e4ead469216cd8f30f739a12b9d7b12e",
+        "b5b80f695eee11163c80ae3d81363a2e",
+        "9d9b67e992e502cfdadd1bf6b44a9f51"
+      ],
+      "intermediate_answers": [],
+      "table_id": "b737c2d9869340b28eeeadb73c14488e"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "b8025b4025ebc4d2e3fa3fd1609bcb66",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "98db971c7ca7e238fba0370eae43e666",
+    "question": "What color eyes does the animal on the Penrith Panthers have?",
+    "answers": [
+      {
+        "answer": "yellow",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "61b7bc59323a947ee99699185b2f8fa2",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "Penrith Panthers",
+          "wiki_title": "Penrith Panthers",
+          "url": "https://en.wikipedia.org/wiki/Penrith_Panthers"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "61b7bc59323a947ee99699185b2f8fa2",
+        "bf8cd0af73df52e04b3b8501b0d2db44",
+        "6e32ce7f1c6a911d13d87722ad5c98fd",
+        "635a2ff6176424682790c0fd379612a0",
+        "e1682b3f20602cf19d79a5d3eb8aa346",
+        "e750acc3c853077514484a55d33048dc",
+        "6f885f3b44c4c937a1a29e44db18cbcc",
+        "b5fafc9de980037c99a86c0855730a93",
+        "1d597006225d1c3589dc92113c4a7a2b",
+        "86c8d376fb9bd434717ceb6c2f394f9a",
+        "1700411243001a55511bd7cf86c63525",
+        "488d98a6c0b8440819be6dcb289c49a0",
+        "439ac02a062e303b7aa7fa6afdfbab9a"
+      ],
+      "text_doc_ids": [
+        "e3a11efbfb9bd4c5966c7ca89bcff033",
+        "3412a79ce5330db404467d7d30c6ccb7",
+        "e08a0a0a9aada45b8bf09f8e0c75285f",
+        "5938dc7ef1c2a2caa5801e905046f8f0",
+        "2cb9673a7169954f77a53e4598351643",
+        "778f700ab8fd16afceb4577b77b2e2bc",
+        "af62114ee297689037c953fa48d9c993",
+        "41befe5ca2551b41fbcaa5e79e5750ea",
+        "afe6561d38314673349175f162ba5840",
+        "5696712f8ef2981b54f276383defc923"
+      ],
+      "intermediate_answers": [],
+      "table_id": "5ed45b8b9efa9271028aaf3e359b1965"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "61b7bc59323a947ee99699185b2f8fa2",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "ef8a769409e18e9a630c36fe0e648788",
+    "question": "How many different animals are depicted on the Game of Thrones circle?",
+    "answers": [
+      {
+        "answer": "four",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "1ae83e2b5402090faff196e5b7e356f3",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "Game of Thrones",
+          "wiki_title": "Game of Thrones",
+          "url": "https://en.wikipedia.org/wiki/Game_of_Thrones"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "1ae83e2b5402090faff196e5b7e356f3",
+        "f52f5aaf9f82be803f0e3028d7dbb6aa",
+        "00d63695342186ddbf6d296ea6f43e22",
+        "ae8c348a6e6bda789bca91e8f423a31e",
+        "21a473c584c46ef3083b5ee049c4a546",
+        "b01b873a6dc08e03e5a49eb290987c88",
+        "760634a2f903c0aa277f0113d2cd6077",
+        "43ebc92f81cbb87a5989eb9686c12cf9",
+        "d31ef0508673038cbaf5cb9003d03428",
+        "ba0dcd05c79ab394517afba487b41b17",
+        "f637a90f3b83e629b7b2fad4fe509ee7",
+        "696a32acd1d2dcc0215d722816fe742c",
+        "37f99741195ab2045e7b135d488d4be9"
+      ],
+      "text_doc_ids": [
+        "00d82445fddb354269569a8873a5cdb1",
+        "aa686fa724394e040ecaefbc1108a441",
+        "54c8dd90dec3dd89f974dd0728c87e9d",
+        "44df79fa89877b12ccf1a44c9d4134d4",
+        "be896f95ee73b4dcddfc9dbb69d991e0",
+        "ee642ca48bd8b6f6e25b2c3ae4787e9f",
+        "86d308b1e6f46f7a3213e65c437dbed5",
+        "128a64e6f1d1ed19e4f80b205c0a9e7a",
+        "caa9a667ef763a1631c2751b6dbfcc70",
+        "b21f48906a9d61fb96d49e06e6c09f4f"
+      ],
+      "intermediate_answers": [],
+      "table_id": "203f4085f029b71f221993ce8d2d1416"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "1ae83e2b5402090faff196e5b7e356f3",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "6c10a310a4fdb037b22e142c08c0aef3",
+    "question": "What animal is featured on the statue in the middle left of this collage of Liverpool?",
+    "answers": [
+      {
+        "answer": "horse",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "938da5676a7dfc85000936fe87f84bb4",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "Liverpool",
+          "wiki_title": "Liverpool",
+          "url": "https://en.wikipedia.org/wiki/Liverpool"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "938da5676a7dfc85000936fe87f84bb4",
+        "01b2cf6589c7dbdb57aac3784a10c103",
+        "87150e9f8c1ece6a29903820245a4d58",
+        "6aa171121a180cd1d121551c51b7c9b8",
+        "7245d920b914309a4c162cba5def05bf",
+        "87cb9e8d75efd7f8f78110b5d76bd095",
+        "dfb7b7a5cf225c83714dbff6bbe234c8",
+        "6ab1c2bf477aabb507fca7ad542b833f",
+        "edda61d6ace989ed6a5aa01af7ffcd32",
+        "f9661a42e82f9bed50e3fbb0412d50c8",
+        "72a58628d082beef19dca1dd05b80112",
+        "65b82af08da1827b5e4743ce19cb7794",
+        "f98c4b4c68ddf7478569ebaffc72cde6"
+      ],
+      "text_doc_ids": [
+        "8d597604d4f73a740af06b66db5b562e",
+        "b72e02379c51c2d026ef0f240197488d",
+        "094d9bf4bed528d572ece75005799a25",
+        "bbda51df129a24eca60caf03b28a4acc",
+        "90e0eab5745c5dfb6c8ae87108eff7ca",
+        "378e6197433ec6f55566885ca1cc1e3a",
+        "52da80bfc6296874462084429895481b",
+        "63c4c9a1e272bcf34e1ac51ff55c97ba",
+        "142fa9b4c6b9fc4709699258901efc50",
+        "d4ead9fd79ec371862457ef1eeba17d9"
+      ],
+      "intermediate_answers": [],
+      "table_id": "d0090c11e5c54ce3cac7158562119e35"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "938da5676a7dfc85000936fe87f84bb4",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "5e6e8096feb1c7e97f167ff70125a11a",
+    "question": "What animal is standing behind Lakshmana?",
+    "answers": [
+      {
+        "answer": "deer",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "593470f2cd9262de3304ac0309d84af9",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "Lakshmana",
+          "wiki_title": "Lakshmana",
+          "url": "https://en.wikipedia.org/wiki/Lakshmana"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "593470f2cd9262de3304ac0309d84af9",
+        "bc84b5cf0ac97991027284abe1edff4e",
+        "e9b3c83c2570a4455c578bc9d3277793",
+        "b7bd00376bc1d730c01d172ade69a1a7",
+        "5894424f7d3eb2c62a155f34ab41a37e",
+        "2bde3e2137ef912119ba2ba93eb87d92",
+        "012ba5e565b92953a50bf5cc22cad51c",
+        "2a7dd16d3772dbf67082f265b60b57b2",
+        "bbdfad399558da0a74ef8db234b997de",
+        "0fe509fdb8ccb5eeefd76d79f2fc5ddb",
+        "8e18a3a3224c7764fbe07e0688626b82",
+        "db6b08e1ba55f6f2aca8990a74d0a615",
+        "1b1852c6c3723dc3d2749556d7e18455",
+        "b4533e99acebdedc9bc133703d9176c7",
+        "d86708a03df02c9bb1bc72e9672a45f4"
+      ],
+      "text_doc_ids": [
+        "5ab8a247b19ac05ac0875d4aca702e53",
+        "bcb5398759d9aab4d17b1b80dda5f05a",
+        "1529bcf922bbd92888486a142fd94a6d",
+        "e69839f2cff8b6350e10e7ff9e700bcc",
+        "63543d69d2c79e8922d6442e50df87f6",
+        "8ad7edceb8a85363a978da393baefb08",
+        "6bd2653cddac0430bba8810713cd2244",
+        "6784f9e3709f9597f05f47a0a3382044",
+        "deac6b0e4cbd643d90b387b260c8724c",
+        "28af228b56cdc9087aeb592a9c875ded"
+      ],
+      "intermediate_answers": [],
+      "table_id": "4a65d2ec54ec0b6b8b90ccb9173f3595"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "593470f2cd9262de3304ac0309d84af9",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "ef5f3b373a2d0a0b7ce42c1920ee6ac6",
+    "question": "What animal is featured in the Paraná Clube logo?",
+    "answers": [
+      {
+        "answer": "bird",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "20b13252eef9f998aa393e0faf34530a",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "Paraná Clube",
+          "wiki_title": "Paraná Clube",
+          "url": "https://en.wikipedia.org/wiki/Paraná_Clube"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "20b13252eef9f998aa393e0faf34530a",
+        "aaf6288431f60824e80ae42c4fc5d823",
+        "d66cf291dbf48cc2fae44cf0a074abcb",
+        "ec318bb7d2f66504b6de384275439ca8",
+        "252120aef37481403279cf02c5e5c748",
+        "7e20b2c579fe673e2d089b52d5244bce",
+        "841fbd4d02e6f0975b46d51c8114ca59",
+        "58f34acaa6d44fb5b051c246fe431497",
+        "023dd287e90ac8df8963638ea6c16afe",
+        "bfa7f95345f789b6356fa5ce84f42fce"
+      ],
+      "text_doc_ids": [
+        "81a064ef83011e836df5a8d96ec8c276",
+        "3ce8d4da10d2f0e216c9fe19a67bc5c0",
+        "09fcef87ee09d5ef275dec662a75bfa0",
+        "bde7f04ebf2c9401b62931f5510603c1",
+        "9c6dea044835b0b560149e526207a3a8",
+        "cadb2d36809ec90f0a5c2e37455186ca",
+        "56f0f5c92d7cc6b96b04d99d1cb8591d",
+        "c6f235cea1fdc5983cac18802220171d",
+        "100c62d07ba8d6b0a7ba7b924b9d6fc2",
+        "d5539269a4233abacf67e00764ce726c"
+      ],
+      "intermediate_answers": [],
+      "table_id": "514be60d141250b22af563f99183ee71"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "20b13252eef9f998aa393e0faf34530a",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "8e466a12e28e90310e6767e3fc502c5d",
+    "question": "How many animals are in the advertisement for Ice Age (2002 film)?",
+    "answers": [
+      {
+        "answer": "four",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "5cdd7b16f0eb16b16e118ae19de08c74",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "Ice Age (2002 film)",
+          "wiki_title": "Ice Age (2002 film)",
+          "url": "https://en.wikipedia.org/wiki/Ice_Age_(2002_film)"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "5cdd7b16f0eb16b16e118ae19de08c74",
+        "158ca37d7e929beb6078c3df316650a0",
+        "23be7049ba6976d6dc9ef0e4294f09bf",
+        "980677c2ed1e82728413f9534802c212",
+        "a4597ea4ec06c042f7c1b77a54274549",
+        "9bd4bdf1441dd0114026b2edd3d70f9e",
+        "678d56a24d42af8730abc66d05c62542",
+        "1022df494f73c285c0d6e06c94cd4b88",
+        "5071e6042a05b7d92c1729bd70f59eb5",
+        "b899771fa632247ee9408fdaebb507ec"
+      ],
+      "text_doc_ids": [
+        "203406b5526e8c18be67a19c2e37cef1",
+        "2609d797fffff9d84034e455e2ab94f6",
+        "8b4d735a4d093b95f1fdf31413ff4a64",
+        "b325534defb32b85e6ba1dff4d240a4d",
+        "d19c4970cf2748bceeb5a2b3fd95d134",
+        "ac899e2cd2f507b36d46979d34c4bcf8",
+        "b9fb65862871cdcc644676481a1938de",
+        "5b63a781ebee81d884cdd12170e8f019",
+        "8419437bc0ad7f215ade8deb754d316a",
+        "070dee7b49a5c1a8e594b94b9a603fd6"
+      ],
+      "intermediate_answers": [],
+      "table_id": "ee7acaa6f77221d6d810acea07be25a8"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "5cdd7b16f0eb16b16e118ae19de08c74",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "35a6a46a1534ebc56a889b1e8537d888",
+    "question": "What appendages are coming out of the animal's backsides on the logo for Sutherland A.F.C.?",
+    "answers": [
+      {
+        "answer": "tails",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "4b07a82075f207dd3d36b9ac3f2652cb",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "Sutherland A.F.C.",
+          "wiki_title": "Sunderland A.F.C.",
+          "url": "https://en.wikipedia.org/wiki/Sunderland_A.F.C."
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "4b07a82075f207dd3d36b9ac3f2652cb",
+        "6bf603944d0b3dff1bb6114f040362aa",
+        "e5f9626f22c5b8fbb960f37e2bdce507",
+        "7da19a79cbcbb65eb8ce75f3978d259e",
+        "b0b78cde2db03cb77c6a6712b4099d8a",
+        "473100c9c5b42be0a3052472f95537b6",
+        "cac2fe9803d75993baf9014505edb998",
+        "473ccf281c874c7e95331dff82198e37",
+        "612f6e26528ec76ba9063d42e7e20a4e",
+        "0d1e588b71425619fdedd8ac47d99b19",
+        "c888ecb38bf3f72d05a62baec032c98a",
+        "1efc47672ba30d5b40a172dafc1fe77d",
+        "33ce5946af50f47d7eabe04b6c861a39",
+        "4f9001bad5d61a8ce46a2f6accaf5387",
+        "84e37fe6ee01a3d4f2c537c132d17aee"
+      ],
+      "text_doc_ids": [
+        "f09b9795af1f64f46007606047ebc889",
+        "41981d3b4fc68ec902ba1d9dab385186",
+        "08463950ce4d0071b94bb500cd4e9bcb",
+        "910b73033f19882e0ed475961353d76e",
+        "5c4ce839180f3733e8fb6bcaf3313ad4",
+        "97576af29cbdd1c0ea2c926fb182fcd2",
+        "0196da46fdbc766fbc467d902356e4db",
+        "9d1486cf6aa3612001e3c03bd37f60b8",
+        "66f263af001d801cb099e3090460c38e",
+        "3ce3f7080817e2ec4f07aaf312033099"
+      ],
+      "intermediate_answers": [],
+      "table_id": "da604cd1fd0b4fb1b60d6d56663bdf48"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "4b07a82075f207dd3d36b9ac3f2652cb",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "0d62b44b6c23865a9a0de58d96b37e1b",
+    "question": "What animal is on the arrow in Barrow A.F.C. logo?",
+    "answers": [
+      {
+        "answer": "bee",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "4f2212bf8a2512fe91a9833d27519bc9",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "Barrow A.F.C.",
+          "wiki_title": "Barrow A.F.C.",
+          "url": "https://en.wikipedia.org/wiki/Barrow_A.F.C."
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "4f2212bf8a2512fe91a9833d27519bc9",
+        "deee37a96e3c124377340794a89d1981",
+        "0f70a04721c762ddb180dcd72a5fb246",
+        "9b0a9ed1e6f385d489897553ae5b279f",
+        "af442ea0065895f60844cc3992a8b91e",
+        "97e36d22aebc632ca3bb06307a5e3be9",
+        "22e80ee234a9448f35b02848ce4ee061",
+        "05422d7bd7401ff7325e53e72a11c888",
+        "c34e045d2185b39782020dc9a6931cf2",
+        "b28af8e4f9127992f382253cd840bb7f",
+        "122997be5a2e9b3f3749ad10e0ebfe03"
+      ],
+      "text_doc_ids": [
+        "3847c332ea44ed602e25646ffc577814",
+        "15e458ddc55d07779c30ff762fc0616d",
+        "6f1d515a258a788c522ddec16a49947e",
+        "e022b93fba56c5bf9231821ff7044e92",
+        "fecc2f605f7bd0bd3a610e57f47dfd22",
+        "c788c94f5c0d12e69020b81ad70e5219",
+        "ff280afcac6b8530ba48085daa919bfb",
+        "e480dfb401c16b24956c6c6cde3ba8f0",
+        "7b2eeba0bbb620ecea6892523351be4f",
+        "d2abe0a65120906337f58f9ed7d0f271"
+      ],
+      "intermediate_answers": [],
+      "table_id": "7be1f0a5b0201d449150301083644ab5"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "4f2212bf8a2512fe91a9833d27519bc9",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "f162a260861d50d79498542293079325",
+    "question": "What kind of animal is in F Is for Family?",
+    "answers": [
+      {
+        "answer": "dog",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "09600af2a9cce8c6098312744d8e1195",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "F Is for Family",
+          "wiki_title": "F Is for Family",
+          "url": "https://en.wikipedia.org/wiki/F_Is_for_Family"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "09600af2a9cce8c6098312744d8e1195",
+        "d0e2752bd57653d01282608034b0244b",
+        "bb391d593d0e662e863b0f30786ff0ce",
+        "8c8c759c51a3634ce6622802ec0e76b4",
+        "9e75b22fce87f1d261cd7efc743739df",
+        "3cf189d61f101db12e1cdacc2ece6e35",
+        "49451131a84e036bfb9be928117558d1",
+        "6ff36d00974c0f349d6169fad5e8fe60",
+        "ceca962a3d5796d0824ee2926473697b",
+        "2659209d4248bf4b679907fbf576bcfc",
+        "8debd6cb4dcf8fc1414d807885601bf5",
+        "db36155e2e4d0c58e8a1659c61272878",
+        "c447b5a9b2623bc2b5dba38f8d2c18be"
+      ],
+      "text_doc_ids": [
+        "cbfbc6ed39c3532c7c765f6338d2cbb9",
+        "94f5004f377ab0f637f01ef8a79b3ab1",
+        "a901e96b285ad8db13c477411a942be0",
+        "549b828041353598bdc18f2c38c2a68e",
+        "b07044cbd64fa59e074580021fffbc52",
+        "31b2b4ebd5a2022b099d8ed1b9c75d5c",
+        "d0b1610b1567326d90f224812a1df427",
+        "ea92d7ad9a241e7bc79e1623c9afce14",
+        "4e60b2fc9218b85e3d61b8bc0192fe54",
+        "76ad2d28a810bdd11d0c43939f704d38"
+      ],
+      "intermediate_answers": [],
+      "table_id": "1ef37f224e58bcb0ead3dd877aa65803"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "09600af2a9cce8c6098312744d8e1195",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "f069fd07118ed6c198a4b53bef690fd7",
+    "question": "What animal is seen on the Long Beach Polytechnic High School logo?",
+    "answers": [
+      {
+        "answer": "rabbit",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "291f7a8a6e477112030d35b31fe4da33",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "Long Beach Polytechnic High School",
+          "wiki_title": "Long Beach Polytechnic High School",
+          "url": "https://en.wikipedia.org/wiki/Long_Beach_Polytechnic_High_School"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "291f7a8a6e477112030d35b31fe4da33",
+        "78536b542fda80b7e28370e03be1e791",
+        "f0ab760fcaff6c2200c35ba72a46dddc",
+        "0261558127c48759da3d141f39e532e4",
+        "a008045ce7846591a557058958c34286",
+        "70e23c78c95a6dad1b9eea470233d8c9",
+        "302df25d1f11f03ed1ac061cd9b526a4",
+        "17c736841f0ad905829eee694674fa62",
+        "360273e63e31c862e94fe3aa9e9d18d3",
+        "5db990c852f6d7000cc9bc0a42a27bf5",
+        "f75c9c876e0c146ee9ac35a2e6a68af0",
+        "bc71e39d5a815c6be5fb6deb7b13c44a",
+        "2859c8369c5d7321da708f6c0226d371"
+      ],
+      "text_doc_ids": [
+        "fb673c9ee81a1d8edbde29c8cdc3bd4f",
+        "c7868b79511c33be7eae5b90caa1bb0d",
+        "7be765ba5be5fe9f8c1c459147ba216a",
+        "fab00cc1f28edd0cb00f2236f01ba25c",
+        "30415915a97dbd0ff7bebd2649817ba2",
+        "7f360430b1d3bfdf6ff58f6bfc91af54",
+        "8b3626fe98ba86e7b33ed44c4d4ea821",
+        "7c09303938ed95d540f95e118a6fbae7",
+        "59f17396751b289778ef3bf1b7785381",
+        "9ef68e8eee9872b42d892f69b916bb5d"
+      ],
+      "intermediate_answers": [],
+      "table_id": "50090c788d1bf2c52170d94ae2dbd881"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "291f7a8a6e477112030d35b31fe4da33",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "4e2e24bf3288f0c383dcccb1f6c7f0ad",
+    "question": "What kind of animal is on a logo of Notts County F.C.?",
+    "answers": [
+      {
+        "answer": "bird",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "849675804d8fd6fd365fe2c8471425bf",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "Notts County F.C.",
+          "wiki_title": "Notts County F.C.",
+          "url": "https://en.wikipedia.org/wiki/Notts_County_F.C."
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "849675804d8fd6fd365fe2c8471425bf",
+        "9900b3b1ad08e392039b41e17e7e13dc",
+        "455e77330424c05a4f30eb0decf2bcb7",
+        "86abaddf816c8c3b05d1545e135df509",
+        "b765d34fe4a1c2e8530785bb4f9f28b9",
+        "91820aedccabe35b317cc1fb3913a049",
+        "5e8b1c3d853b8392f95fc99cf24ba03b",
+        "f16ab20ca41b94fd21c723405d86f3b6",
+        "6ed701400cb9902de57ed548b2940d78",
+        "58f0c5bafb0c7f3c7228dff6c56946a7",
+        "73b87bb89329c830512b669e9fe36e21",
+        "58e9d183ec6599a6f3f949442921e0d3",
+        "838c2a404a871af734d8df8bc781be2c",
+        "8d5f47e0a85e132d549e55f66cc6e930",
+        "48c95639a78b49f5e98fba41eba73445"
+      ],
+      "text_doc_ids": [
+        "c352bd878adfd4c0cbbede916de64114",
+        "a55a9b74a5870670645fd73c6bf6a266",
+        "b560ce31155c61ffe4dfc328bf3a29f5",
+        "f2a0e985a64b0ad5dfcd8cc989ba9827",
+        "f938a18f20ab79178892f5f325f49a0f",
+        "c0b6f9881479e0fe196fdabc5fa2d634",
+        "585731b8fea033d4fd282692e69d3ccd",
+        "6f1d515a258a788c522ddec16a49947e",
+        "e3e3d8cddd1466fb9f1065c5dbc45262",
+        "331c7a3c7005b2b9fcd75a1525729c41"
+      ],
+      "intermediate_answers": [],
+      "table_id": "551fa3d2ce8955df4497c96c3fe94c30"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "849675804d8fd6fd365fe2c8471425bf",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "27b38cfeee183b4519888d8903ad7f20",
+    "question": "What animal is the statue in the top picture portraying in Houston?",
+    "answers": [
+      {
+        "answer": "horse",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "8cde2f85b5d23b4b2eb5716e0d940023",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "Houston",
+          "wiki_title": "Houston",
+          "url": "https://en.wikipedia.org/wiki/Houston"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "8cde2f85b5d23b4b2eb5716e0d940023",
+        "1b4917e00c1cf00863f979e4c1b414b2",
+        "eef82eedeb6d430e5c0078b5ae53c65b",
+        "dcc0faa82ea7956e8527001496997284",
+        "6cfdd86522cf8af555210b4e02c8aa91",
+        "bb4af050c88ece89aae22b511b3718fc",
+        "4dcad69cdbc6d6787bda154aaa4830ff",
+        "0f90fd2ac19797878f8d588da4b58245",
+        "e6dc16d4ec07c3476ed5baeada7e7f8a",
+        "4c6e0c8d6b9223bd435809e52eecd008",
+        "4cd32f0665efe984ba5da8f8cdd11f0a",
+        "13c4d4d46af5349bd50c7bb879ccdb16",
+        "48987d3af867b9600a5cbccb8a320989",
+        "ca0b708d12b0125467c9ff61e9eb8348",
+        "9415a004cada10d27beb041034f04bcc"
+      ],
+      "text_doc_ids": [
+        "8c5b6ed2ea09f4ffb7752f98b7e608c5",
+        "066b4e61772768d1cd54633e19290a4f",
+        "b7ee4e4bbf57bd83be7f19e263bf318f",
+        "d4ad1657205e0fc837c23ba24cfbca86",
+        "67230f4d19f0267218a49ff86963128c",
+        "f00278a597ca3a92def6ea27818f4cd2",
+        "8755e9de9c03115fa50684d60af6827e",
+        "9536c902e10435f6d1ae2adf444ddb44",
+        "a9039a7c1753c3fdd600acc8cd293056",
+        "c40ae35ed0a5c31ef3bfb21d41929ab3"
+      ],
+      "intermediate_answers": [],
+      "table_id": "09b1cc3f9dff7c5c7ec8a718e40d3279"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "8cde2f85b5d23b4b2eb5716e0d940023",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "18196529edf5791609ca7c440398c9a2",
+    "question": "What type of animal is the Wales mascot?",
+    "answers": [
+      {
+        "answer": "griffin",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "b6ec23d244fa169d87aec926efcdb748",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "Wales",
+          "wiki_title": "Wales",
+          "url": "https://en.wikipedia.org/wiki/Wales"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "b6ec23d244fa169d87aec926efcdb748",
+        "64a49c83bc59a5d3db19b7693001fa3a",
+        "376cf3f1c4043eaec9d8fe7fa5b2c4fd",
+        "cba6a2b7cdffc74a28ad98296e2543b7",
+        "4c6e0c8d6b9223bd435809e52eecd008",
+        "5d6104ace774285344065a3e0d2b9f9b",
+        "5f1a87183ade3d53bb9fd1eae43a0d4d",
+        "6c231a61d689654107ee449d17ad6cab",
+        "c50d5855107945f787fa33f5600453f0",
+        "41c1accc04ca1662392f2898cf9ec83f",
+        "fb3555f06dcd6bc6be043fe26544cdf7",
+        "102142417c3503ed0e04cccd11ebe429",
+        "a4ca392239ef10d4889658a1f2d05385",
+        "08385781a9f5b82d0fab539f68e59399",
+        "218a3b42dddf881b63cf1fb2de3b1ed0"
+      ],
+      "text_doc_ids": [
+        "da4cb2aee06f0197607e3516f077c40a",
+        "a4a8da81ce0e510277f145f3976d2676",
+        "30313457230946f66d87e8fbafe026ec",
+        "8b3dd92ea64a9c16c153de442eabab96",
+        "397647b0420243a99e2fa220ed1d1f8d",
+        "8f27596cd71a02382d5cf80a001b1877",
+        "b8bb12168300339c5e59fe53b6b6b8c7",
+        "fe325190ceedab25f04e97fcb57d615f",
+        "2a4d84a8f8ad43c62f18023a3d498829",
+        "3163fe2895d06824d28ccdc6d46a481c"
+      ],
+      "intermediate_answers": [],
+      "table_id": "46a58b4abfe401399a02faf53c20baad"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "b6ec23d244fa169d87aec926efcdb748",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "80a6bf27ab86ae9b84a26a2f90dabbb5",
+    "question": "What  kind of  animal is on the  leash in Legally Blonde (musical)?",
+    "answers": [
+      {
+        "answer": "dog",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "c0aae4eed8bcfd67c8d3e26762bd902f",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "Legally Blonde (musical)",
+          "wiki_title": "Legally Blonde (musical)",
+          "url": "https://en.wikipedia.org/wiki/Legally_Blonde_(musical)"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "c0aae4eed8bcfd67c8d3e26762bd902f",
+        "1d599deedb1c7ee7cb31888fa014cc1b",
+        "f0dddfb510aa9601688b1b58bc4defe6",
+        "2c28bbae52dbf35d0e596f56ab6559e8",
+        "95edca070c3400a1d0ab2201cf006e0e",
+        "21d5cab4801d77dc1ef522c2204b9f32",
+        "b424f3898cf2ce24b4e7fbe497e77e64",
+        "7f493aab96db2386e83da1b3d7ce4712",
+        "dc49e945870e8706facbe43d09294052",
+        "160567c20b9d51c2dfded2d159b51cca",
+        "1a0f70d4beb8f55e3f384b3e4532c3ec",
+        "6d1107ea2f286c363a94135ce8bd657a"
+      ],
+      "text_doc_ids": [
+        "cac1af555617d06a6f89ef159f597218",
+        "953c9dc7c7468cf4642753e1e94c4901",
+        "9880472be25c6a2206139a28d03e1236",
+        "bf1dfb6fb7d0379ae623b0ac51a8b86b",
+        "c1e90487cb8c55f7d43f57601d922ec3",
+        "6674ad090a69171b985dd42ba9edc09c",
+        "6575b90e53f1246c08f369d3442b84fc",
+        "bf93e45872b869131e039daca3bdaac9",
+        "00ba0847bd78c4b9e1845cd368dbbaee",
+        "6115be5ce9e231849a042c6bb6e4961d"
+      ],
+      "intermediate_answers": [],
+      "table_id": "a72b3114aad2f9720ea19b605bda1a56"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "c0aae4eed8bcfd67c8d3e26762bd902f",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "434707dce04da576dc4379a3b83db545",
+    "question": "What type of animal is the South Sydney Rabbitohs logo?",
+    "answers": [
+      {
+        "answer": "rabbit",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "bf8cd0af73df52e04b3b8501b0d2db44",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "South Sydney Rabbitohs",
+          "wiki_title": "South Sydney Rabbitohs",
+          "url": "https://en.wikipedia.org/wiki/South_Sydney_Rabbitohs"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "bf8cd0af73df52e04b3b8501b0d2db44",
+        "b65bbf2ee077d39cd59d49ef7ba9c6c8",
+        "b31aaebff557f0fd3ed4e83c59f8409d",
+        "f116bf624c867899a83bc7bbc77ffdac",
+        "e750acc3c853077514484a55d33048dc",
+        "b5fafc9de980037c99a86c0855730a93",
+        "739843990561b6f57e0b55a1dc938fb1",
+        "61b7bc59323a947ee99699185b2f8fa2",
+        "ff6a7d3e813877b30fe4c949558396f9",
+        "c41f96e8ad927786cc730bc6a1c785ac",
+        "1700411243001a55511bd7cf86c63525",
+        "4f19cf41b3b5f78ae472403694271677",
+        "5a1a19cf4657d23d8a4f4cc102ef7384",
+        "c0666d977038359c67fc762f726daa03",
+        "58f5d10fe2fff9bb0a214286cbaf3008"
+      ],
+      "text_doc_ids": [
+        "f6d83513df3a217c4297d309958cc18c",
+        "dfe342ead7e1da7b2a13349a81f3d951",
+        "bcd35c5ecedcc44d1a97f5f7662c47c5",
+        "70ef02201829213459986522a87532af",
+        "96fa1974fdce16d5777a04cdeb13e6da",
+        "383448d5698d09f85b90b030cc0a4a02",
+        "3df713f4445ee5dc85157f5e50c637be",
+        "642ae31817ea6888bf6cac677be5d2a6",
+        "91a3c215b2098d458dcd277a42adb5cc",
+        "a2c6cdf1ccee373da964a49894f558bd"
+      ],
+      "intermediate_answers": [],
+      "table_id": "28b27744ba689dab0932fffa72b8e2c0"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "bf8cd0af73df52e04b3b8501b0d2db44",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "dfde77111518542abc0d1863b54c2daf",
+    "question": "The shadow of what animal is present on The Omen poster?",
+    "answers": [
+      {
+        "answer": "dog",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "36413089260bded4abaeca951f32f174",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "The Omen",
+          "wiki_title": "The Omen",
+          "url": "https://en.wikipedia.org/wiki/The_Omen"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "36413089260bded4abaeca951f32f174",
+        "60663add5b4ed964974e29062e75c9a2",
+        "9dfb200cce22b0b8249d8886da19efae",
+        "0ef82f11a9de5e9bd1a508db3c214641",
+        "301b707cc9b344eda07ef95155d9849b",
+        "234119279d4f8cbd5ed85e5476633ce2",
+        "a69ea102ecb79d6a5e58c0cb88ca4bfd",
+        "de6271b5db93351ad234692be6d564ce",
+        "00696e4edbca08ea47b19b7d3f04870a"
+      ],
+      "text_doc_ids": [
+        "90d648acf242b239fcad1b97becd0809",
+        "a1f18d39d6705409d1bf74b8d3919595",
+        "eec63835257e2b3b4e0c40ad226736c1",
+        "0951a0d1c35078c34c47b1ce4d73e60a",
+        "fd7388fa0a52d61928444edca22b22bc",
+        "d1d9fa174530411898276797fa6f8c9b",
+        "4fadeb1b335365ca3b719ad72b7a8487",
+        "efefbb6dafb6a8947cbe5c9b9f38d13d",
+        "14042a14e9c7c2ced633093aa570cfa2",
+        "a5ba358ef7886abf98edb8782d01b11b"
+      ],
+      "intermediate_answers": [],
+      "table_id": "ddf58eddfd440613c4788f8851275b6e"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "36413089260bded4abaeca951f32f174",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "5445ca1c2af7f62f8bed3d61d77d8d45",
+    "question": "What type of animal is depicted on the Atletico Madrid flag?",
+    "answers": [
+      {
+        "answer": "bear",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "5b2d30b7a13ff697030dde9488b0a88a",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "Atletico Madrid",
+          "wiki_title": "Atlético Madrid",
+          "url": "https://en.wikipedia.org/wiki/Atlético_Madrid"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "5b2d30b7a13ff697030dde9488b0a88a",
+        "ad6d486494840969f752f40575db00b9",
+        "2af2a6df70bea6fd11d996f5353b4907",
+        "6c7f2528f0d6819cbfaa24ef521a2797",
+        "fa7428d21c50669b44161b502a7e9db9",
+        "60576f6527140fca3f19388784cd0cef",
+        "52eccb92e0c993e28fede8985e1bba9c",
+        "deade291b7ab1704226a5611f30f2a2e",
+        "09fd83110baade8530362d17ff59842e",
+        "67db4d292fa753ab6d29c298f8ca6558",
+        "a591569f4778751421a1de6439081c1e",
+        "368dabf91d4e565e6ef1039c156e907d",
+        "58e9d183ec6599a6f3f949442921e0d3",
+        "a4ac225157b14717f58d7c3f77e46474",
+        "c075e30166ee93c6a8d2edd68b727ff0"
+      ],
+      "text_doc_ids": [
+        "4fca614dfc499d7ab61cb2de17233ee6",
+        "ffb07777fb58b32ce96f142849303a67",
+        "e352986cb996a3216072c0b942e9dee2",
+        "97b3810a0491d86eb094af9c15b895e3",
+        "b67afbab415f1d06c9cf9d23035f6819",
+        "f840028fec3eb7a6ac84f88e3e7355fb",
+        "1db8dd7f8cf6a358304fc57e14929a4b",
+        "e5400cbc9ae9d447109a244c402b07c7",
+        "5649f01acb0012e2abcef4b81a9482b5",
+        "75fdb52aee2f8b4dc52ee4816ce29a87"
+      ],
+      "intermediate_answers": [],
+      "table_id": "1eaef2cf28b4ba64d19616494176679a"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "5b2d30b7a13ff697030dde9488b0a88a",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "c69d424b8d9d7b2641b663289dd8b73d",
+    "question": "What animal is being ridden here with Barry Geraghty?",
+    "answers": [
+      {
+        "answer": "horse",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "7b36cf429373f0e91c6a009495349e8a",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "Barry Geraghty",
+          "wiki_title": "Barry Geraghty",
+          "url": "https://en.wikipedia.org/wiki/Barry_Geraghty"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "7b36cf429373f0e91c6a009495349e8a",
+        "1ca19521f6c571ddf5496f006851cfb8",
+        "9269cdb8dd40f777b2c6b5df863f77d4",
+        "7622e611314f509e385feacd3dc98fde",
+        "7829086dfb834fb58fe5c06a3f8eca94",
+        "27d133d752e53f5db9fb48fe32a757be"
+      ],
+      "text_doc_ids": [
+        "3a5c8d4082fb8441b4427e9fa9b99543",
+        "bf374273c638a30f93a74cd749ef4d3d",
+        "8f7a5a361a1c431794f07acff6b6c42f",
+        "f775178dcc4e24aea555d89e3e5adb49",
+        "1ed1174037a91d4f80a0c52fa8696e4b",
+        "c089d0464cbf291cb08856f821b4d90e",
+        "345146156ba410c5f2e0967e50d8394b",
+        "1ea22e066b66f236953301e6ff0a621c",
+        "d2c8390200509a60d83b2e7d46a3725e",
+        "48fa2ff46fc9eac01a2176409a13d233"
+      ],
+      "intermediate_answers": [],
+      "table_id": "70ecd0b22dbc11bc96d74b357d03436c"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "7b36cf429373f0e91c6a009495349e8a",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "2ca55576e3706f9e4a9928699b7d88cd",
+    "question": "What animal is shown on the cover of Grand Theft Auto V?",
+    "answers": [
+      {
+        "answer": "dog",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "9b79c45edb6b5e084089c9c11d79ca02",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "Grand Theft Auto V",
+          "wiki_title": "Grand Theft Auto V",
+          "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_V"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "9b79c45edb6b5e084089c9c11d79ca02",
+        "ecf15e9c1d3ec647595314f662005d6c",
+        "c12035f9674302c2cd7dafc65c040b6e",
+        "95cf65d12a7b4a9df20bc54dddb2f57e",
+        "4d2c23a07bdf21381d439efd7db80bd0",
+        "54f9db5857e0a1c6323217cbc561eca7",
+        "7e84f9c14788713c79217a6393dc4318",
+        "2c061ebddf45e3e229ba025e49ecbd97",
+        "2ca2b6480b705412a9354ab6695d82f7",
+        "c3d8dff9b8c82f7975dc44014eb8d093",
+        "46460924a6fb0d1242c7973582a94ad0",
+        "196026a77477e2ab0a4c45daf2d5ba29",
+        "d979abd2838a9a48c941cce997663b64"
+      ],
+      "text_doc_ids": [
+        "0464d5a3ef65677f1654bc47a61fbab4",
+        "9d5d0a22f90ead2ba57bf13996782897",
+        "2024e95aac05aefe91dc0a3eb1d24f52",
+        "12a42483229d5b1a92fd113b1c687b12",
+        "7f75aa84071a13585a70d535ec523d33",
+        "978eaf3416f39e22626a9f3bf6c1f90c",
+        "9da8b503e0988d1c29a786f59c875a7f",
+        "2815641f40fb7899d94ef86325fade71",
+        "0025e9055dafa757d609e23649b4728d",
+        "4f208ea87392508a9008ae7f547ba939"
+      ],
+      "intermediate_answers": [],
+      "table_id": "bb03f30fb6960c53290d3f0609e23ca0"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "9b79c45edb6b5e084089c9c11d79ca02",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "e7291d2a10558a18a68608fa44a6c27f",
+    "question": "What animal is featured in the yellow circle of the Western Australia flag?",
+    "answers": [
+      {
+        "answer": "swan",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "4fbb7040e9dc9f3b5677f20a71ca72bb",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "Western Australia",
+          "wiki_title": "Western Australia",
+          "url": "https://en.wikipedia.org/wiki/Western_Australia"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "4fbb7040e9dc9f3b5677f20a71ca72bb",
+        "bc266f5403a237eb29cd2d3a12f8e837",
+        "d37579e1b3af9802d410eb94a26b1ec4",
+        "11c1158ba2af3cdc12e5b60b85eac7d3",
+        "dce75a98d0c5cf6f5cfa93db9d17e3b3",
+        "4520514c654cea13276ff1e574de785c",
+        "1adb0bd4844c78c25ff0533a7d531a07",
+        "f0c2f301369d932acb6f04e24eda273a",
+        "0998cc8c3bc26ba04e355e04eb0f4071",
+        "f91ea2e5e6731f127073489f031c3fb3"
+      ],
+      "text_doc_ids": [
+        "6487679a61b0458faf2598b63c3aa58d",
+        "c03942c5c5891783c4d266bfcd2f0fc9",
+        "a65be0c03f5d618d4e468240b050bd0f",
+        "d0f38bcb8d10a93c70696423dedad9fb",
+        "a867db15560f7a4296ca694ff95015bd",
+        "7b43aa97db8bed99c9291fc93d5c13c9",
+        "c492a1db325b1ee9bef4e6921e3da35d",
+        "8c0100bea7519fd97b8e563cdc1acb06",
+        "8dbc13ebef91d832c6b15908910642cb",
+        "44e24b65e9b8e83ffffdae462e40fe80"
+      ],
+      "intermediate_answers": [],
+      "table_id": "d319d389c70999d59f5eae8c93ce2f2c"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "4fbb7040e9dc9f3b5677f20a71ca72bb",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "03870792a7dcd78891b629b02fbf096b",
+    "question": "What type of animal is the family pet in Family Guy?",
+    "answers": [
+      {
+        "answer": "dog",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "ccab3cabeaf253f735b480e97eb081c1",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "Family Guy",
+          "wiki_title": "Family Guy",
+          "url": "https://en.wikipedia.org/wiki/Family_Guy"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "ccab3cabeaf253f735b480e97eb081c1",
+        "3982ac827884cb0b91d1b7a6f8c8e6dd",
+        "96756841d8fd2d4f77e5b79a701385ef",
+        "739f6382231415e8dc40502120b35c64",
+        "27f0f1a14625d363e09024873dd2f4d2",
+        "187e85024db505c19a9210e3c85192cc",
+        "5469d52346381cb9ddeeda5185e70091",
+        "bc45b8bb499bb9318e84556361675695",
+        "e9dd0d4babc51935ce63eb46fab2e8c2",
+        "73a5a00007aed1e57e656c8cddc2877d",
+        "31d69bbc3274d6aba7ca42760f2df8a7",
+        "cac54f92575525212034e782607a146a",
+        "e9e70cb14f4625cf7c0267804ec19b28",
+        "d6293aa4b78e179856a587f0aaed6ac4",
+        "0d3693c086960186bd1efc1b0348d755"
+      ],
+      "text_doc_ids": [
+        "c47b4a0b02b277b4876f7dedf4d8aabd",
+        "78da097b9bce1ed56b9e2d0684205ee9",
+        "d03dd59368a304992cf9affbb44602f8",
+        "ad614010bd29cfd6d7f321e578b51c91",
+        "9ddf92a3ae00c2c78199eb55a71bacac",
+        "6b209d002abbfb337eb6d209e8da9b0c",
+        "aa1b21bc214c61edca2566323b2819ef",
+        "7a49917a874093d857535630b327260f",
+        "c8615ad5b59029a288d7fe62cad89ed4",
+        "d0550f4881bf80154baa671f96c34a6c"
+      ],
+      "intermediate_answers": [],
+      "table_id": "b1d2c1195f96c552eb224816028a2afb"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "ccab3cabeaf253f735b480e97eb081c1",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "2f24bbf59d497ec90f9dc86e4b66c45d",
+    "question": "What does the logo animal for Lincoln City F.C. have behind its ears?",
+    "answers": [
+      {
+        "answer": "horns",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "fb907daf5e88b9e35de699e6162f0331",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "Lincoln City F.C.",
+          "wiki_title": "Lincoln City F.C.",
+          "url": "https://en.wikipedia.org/wiki/Lincoln_City_F.C."
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "fb907daf5e88b9e35de699e6162f0331",
+        "e0e1b15ca840790bddbb4190fa2de463",
+        "91820aedccabe35b317cc1fb3913a049",
+        "c4991d2ef84cf2c3beef23a65d8270e1",
+        "74cef4bfc6ea256fe253f9138ef77952",
+        "933e581645365c5086c85f16b4b3c8af",
+        "223fbc38a5bfc93009e46a66b524b788",
+        "aa6c2c0ce7b010e89a3539940a1ca6f3",
+        "67b8276c5bf93d3a2f373cf0a1e53df5",
+        "58f0c5bafb0c7f3c7228dff6c56946a7",
+        "3972faec96488594d070e7abaa27e299",
+        "2998d424fa89c83508a1ae4d8c596b67",
+        "7831a540a05c790c0dcb4252bd072ea3",
+        "838d05e59cd69dc7152a8f68a61de3b5"
+      ],
+      "text_doc_ids": [
+        "3212de467f57195d293ac73fe688d76b",
+        "8551456a623cff2eb55a843604b74fe6",
+        "274e3e6f77ba15be8fdf7fc2507fc106",
+        "beda2949a76e4ea484cfc0010d911e5b",
+        "66357e25628933ed174b5aa836a31f23",
+        "585731b8fea033d4fd282692e69d3ccd",
+        "c2a2472f3da55ee3a708ce3614cbb95a",
+        "8f4ebeeb31adea81a00b93e98c9a6470",
+        "6f1d515a258a788c522ddec16a49947e",
+        "09fcef87ee09d5ef275dec662a75bfa0"
+      ],
+      "intermediate_answers": [],
+      "table_id": "8fb69d107b2080f0dd24496df882c747"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "fb907daf5e88b9e35de699e6162f0331",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "b6d92f590d71f00b60b0c2a212ba03f3",
+    "question": "What animal is pictured on the Poole Town F.C. logo?",
+    "answers": [
+      {
+        "answer": "dolphin",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "223fbc38a5bfc93009e46a66b524b788",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "Poole Town F.C.",
+          "wiki_title": "Poole Town F.C.",
+          "url": "https://en.wikipedia.org/wiki/Poole_Town_F.C."
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "223fbc38a5bfc93009e46a66b524b788",
+        "e0e1b15ca840790bddbb4190fa2de463",
+        "91820aedccabe35b317cc1fb3913a049",
+        "c4991d2ef84cf2c3beef23a65d8270e1",
+        "74cef4bfc6ea256fe253f9138ef77952",
+        "933e581645365c5086c85f16b4b3c8af",
+        "fb907daf5e88b9e35de699e6162f0331",
+        "aa6c2c0ce7b010e89a3539940a1ca6f3",
+        "67b8276c5bf93d3a2f373cf0a1e53df5",
+        "58f0c5bafb0c7f3c7228dff6c56946a7",
+        "3972faec96488594d070e7abaa27e299",
+        "2998d424fa89c83508a1ae4d8c596b67",
+        "7831a540a05c790c0dcb4252bd072ea3",
+        "838d05e59cd69dc7152a8f68a61de3b5"
+      ],
+      "text_doc_ids": [
+        "6f1d515a258a788c522ddec16a49947e",
+        "5aa36ecc45ed2775d4011bd07d230eba",
+        "69f1e4962a1a07b88519e395dea1ced1",
+        "a5b9e8531f2364c9939f12b66912ddf5",
+        "e3f84173201735af69c6a1506af1672b",
+        "d2abe0a65120906337f58f9ed7d0f271",
+        "16752b4a80f0eeb3f4e67228d2ca82ce",
+        "a38437e9ab00bb64809ac6aa982a2a30",
+        "2e89c96dfabc35cb62e98b98b8b499f1",
+        "61e6b6e5f407563bbce24e80ae8dedfa"
+      ],
+      "intermediate_answers": [],
+      "table_id": "8fb69d107b2080f0dd24496df882c747"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "223fbc38a5bfc93009e46a66b524b788",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "157ee11bfbe2d4208558477be59f7409",
+    "question": "What animal in yellow is near the top of the Burnley F.C. logo?",
+    "answers": [
+      {
+        "answer": "duck",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "73b87bb89329c830512b669e9fe36e21",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "Burnley F.C.",
+          "wiki_title": "Burnley F.C.",
+          "url": "https://en.wikipedia.org/wiki/Burnley_F.C."
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "73b87bb89329c830512b669e9fe36e21",
+        "b28af8e4f9127992f382253cd840bb7f",
+        "61d8d898179b34ab8fe563cd80a911d8",
+        "2cfb9b6b521d904ccc9758cc1085ba65",
+        "2998d424fa89c83508a1ae4d8c596b67",
+        "92fa8f17f6069b3e0701c8b0106c70ae"
+      ],
+      "text_doc_ids": [
+        "11bec573a873318e75aaf367fa4857e0",
+        "9bb93d32f4100726446a502247c768a4",
+        "93466e0e524360cadcc20b8a49a325c1",
+        "b7a367e0fc4c6d4d9e8b8f44c74e05fa",
+        "19969587b155adfb6dd6047d156b87cc",
+        "a10e13dd1b2255fd4f4ee761ae481516",
+        "c352bd878adfd4c0cbbede916de64114",
+        "881f9df76dd11a2fea15780312760cc8",
+        "b69230171be957e9eb7ff9b9f5fb83a1",
+        "ff280afcac6b8530ba48085daa919bfb"
+      ],
+      "intermediate_answers": [],
+      "table_id": "45f1bd419f38f20ae92c784ae9cd48ef"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "73b87bb89329c830512b669e9fe36e21",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "c4f9d16e797dd3c8ff033aa862a0c96a",
+    "question": "What type of animal is atop the Mumbai logo?",
+    "answers": [
+      {
+        "answer": "lion",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "70df27a89479f7ff67347ab2cbf62d6d",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "Mumbai",
+          "wiki_title": "Mumbai",
+          "url": "https://en.wikipedia.org/wiki/Mumbai"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "70df27a89479f7ff67347ab2cbf62d6d",
+        "55c23300aff16889f38bf31522d6b70c",
+        "35514d1b3b200ad123738a41b4a802cb",
+        "3b96cdfffc5d661e0e50251c4de4e401",
+        "3b8748bd30234b52797a9dd27d331c57",
+        "6fe409df0f81dfdf944686d40d5c3b9d",
+        "1f2f5038463b8e7d63c18e19aad00cd2",
+        "bab917f269984f83106d79c5554f9be5",
+        "9fe7226e9995d32b3ff38cfca29fbfc5",
+        "acf39ffa9fbb5d5cf83ef0b83c0b21ec",
+        "cb9ea04f6f5413ccbdfa9b69cf90b59e",
+        "c644c7656f943512ab3d80c69d8be215",
+        "507e84a54d3fbe726c7b18ea96fd5f30",
+        "6cea407da3d4e77278c9e7ae739eab25",
+        "2ac9c7410da4eaad8b99bcf5cf5455df"
+      ],
+      "text_doc_ids": [
+        "3212de467f57195d293ac73fe688d76b",
+        "85df586bf65b6bcf9ac0970c1374ae44",
+        "ef2064f78b405982a1e49ef33927f164",
+        "f58e64edcfb2557cb55ea6b5c022cdcc",
+        "55cd31cd1cd563246af90f36dd212fcf",
+        "5f276b82388635eae5dadda05f7a09e1",
+        "08463950ce4d0071b94bb500cd4e9bcb",
+        "6a43d5141bd00eeff4f11238b3afa72e",
+        "e6e08087595c42e73920dbf9fba0bf3a",
+        "07b03e2aefc0fa734921013358a28a3d"
+      ],
+      "intermediate_answers": [],
+      "table_id": "e77afffe30fc02014b80d3b992ec3402"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "70df27a89479f7ff67347ab2cbf62d6d",
+        "doc_part": "image"
+      }
+    ]
+  }
+]

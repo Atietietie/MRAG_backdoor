@@ -1,0 +1,3561 @@
+[
+  {
+    "qid": "ab96671a102bccc3641587fb6d22b998",
+    "question": "What is the man on the right wearing on his head in 2008 NFL season?",
+    "answers": [
+      {
+        "answer": "headphones",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "653e7a9347fee024a5ae421735cd4fc7",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "2008 NFL season",
+          "wiki_title": "2008 NFL season",
+          "url": "https://en.wikipedia.org/wiki/2008_NFL_season"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "653e7a9347fee024a5ae421735cd4fc7",
+        "fa414ac2db6b3677d27325e5f184b8e3",
+        "194c57196f762e916c790469e5b0abba",
+        "4b66fb1ee0dfa96b1a11864c73a75b72",
+        "750dd350bfff4d4a7336e165a8de48b9",
+        "c280c6d1e89bd7f6c77deb62f02ef40e",
+        "746fb7dae09fb1e917ad6ef1179c1488",
+        "fd385f1c637cb25ff589071667b795ae",
+        "d19d1da052ddb481b4309b1f043390cd",
+        "53d0f93e69259b58e41258595a1afd2a",
+        "66f4925b6054e69ab93b428750f7a78e",
+        "1c7e8ec5983003dacd256feebd809d98"
+      ],
+      "text_doc_ids": [
+        "60de65ab1f4a26a419a0d993bdf86d8c",
+        "3653e302bc413d317d62d88b62741c75",
+        "1ef52712d5ccc7908fc9cc88ac9d7426",
+        "108656b9ea35f9f06e4a72f7a7d4c30d",
+        "d1757f7fcd69dd6b7ba1d7ed4066f254",
+        "9030e8b4bd7815c34a7150e0fe523cab",
+        "ade7bc7144778250e3c2c2251d8efc60",
+        "27685c36c71691f09bbc8ba7f1e9b763",
+        "d9e61efd5fb14f5d62fbdbfddf8f16fe",
+        "103045aa53d0bfd50f43c043abc9f9ca"
+      ],
+      "intermediate_answers": [],
+      "table_id": "d603353219f01d6f579509d9a4f8f23b"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "653e7a9347fee024a5ae421735cd4fc7",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "eaefcda153dfbd3efc169b90c4c66444",
+    "question": "What color is the ring in the 2009 NFL season logo?",
+    "answers": [
+      {
+        "answer": "red",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "d19d1da052ddb481b4309b1f043390cd",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "2009 NFL season",
+          "wiki_title": "2009 NFL season",
+          "url": "https://en.wikipedia.org/wiki/2009_NFL_season"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "d19d1da052ddb481b4309b1f043390cd",
+        "fa414ac2db6b3677d27325e5f184b8e3",
+        "194c57196f762e916c790469e5b0abba",
+        "4b66fb1ee0dfa96b1a11864c73a75b72",
+        "653e7a9347fee024a5ae421735cd4fc7",
+        "750dd350bfff4d4a7336e165a8de48b9",
+        "c280c6d1e89bd7f6c77deb62f02ef40e",
+        "746fb7dae09fb1e917ad6ef1179c1488",
+        "fd385f1c637cb25ff589071667b795ae",
+        "53d0f93e69259b58e41258595a1afd2a",
+        "66f4925b6054e69ab93b428750f7a78e",
+        "1c7e8ec5983003dacd256feebd809d98"
+      ],
+      "text_doc_ids": [
+        "f8879ffb0a374e57e96e8a333c079a16",
+        "d7273056026e9cd0aed45f60cc245770",
+        "81fcf685547c4d379d7641d24fed806d",
+        "b23b9dc1aa4ae1a427f3431585b726cf",
+        "c17d276288771567757cbb0abca3663f",
+        "ca97f711a8802ecb8ac82b5082b03fa3",
+        "09f54fa4950bd48b1cba46e2e483b09f",
+        "9169ea45157178c76e4078af2a0c57aa",
+        "ba48861b43f154f1a49cc70f7a6db7df",
+        "5185c000ed8c0232db02d3f932d36176"
+      ],
+      "intermediate_answers": [],
+      "table_id": "d603353219f01d6f579509d9a4f8f23b"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "d19d1da052ddb481b4309b1f043390cd",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "bd8db31567bf334e6d1f6b0ef652459d",
+    "question": "What color do both teams have in common in 2010 NFL season?",
+    "answers": [
+      {
+        "answer": "blue",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "fa414ac2db6b3677d27325e5f184b8e3",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "2010 NFL season",
+          "wiki_title": "2010 NFL season",
+          "url": "https://en.wikipedia.org/wiki/2010_NFL_season"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "fa414ac2db6b3677d27325e5f184b8e3",
+        "194c57196f762e916c790469e5b0abba",
+        "4b66fb1ee0dfa96b1a11864c73a75b72",
+        "653e7a9347fee024a5ae421735cd4fc7",
+        "750dd350bfff4d4a7336e165a8de48b9",
+        "c280c6d1e89bd7f6c77deb62f02ef40e",
+        "746fb7dae09fb1e917ad6ef1179c1488",
+        "fd385f1c637cb25ff589071667b795ae",
+        "d19d1da052ddb481b4309b1f043390cd",
+        "53d0f93e69259b58e41258595a1afd2a",
+        "66f4925b6054e69ab93b428750f7a78e",
+        "1c7e8ec5983003dacd256feebd809d98"
+      ],
+      "text_doc_ids": [
+        "1afccc4d6bca100ea071ccb79cc31d4b",
+        "750ab9dcf1f263d81b6a3020d460eb21",
+        "fb1e0d607c7e2c7d3d77d6cbf6745212",
+        "a70bc69139ea32119de2811bc5202d49",
+        "8aaff304699c784ef8eb8d54fb5852f1",
+        "de2fe90990c4e4b757d5ff58d3a1ede3",
+        "816a866643be1d89f538c239a584a41c",
+        "cf2768bed21a1d79b6c4b43caba29fdf",
+        "1fc086424c328be5649e375e04306ab4",
+        "d7d3156e775d0b438d667b00bb84dedb"
+      ],
+      "intermediate_answers": [],
+      "table_id": "d603353219f01d6f579509d9a4f8f23b"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "fa414ac2db6b3677d27325e5f184b8e3",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "c3d16d865dca673f50517c784504a519",
+    "question": "On which arm does the man have a tattoo in 2013 NFL season?",
+    "answers": [
+      {
+        "answer": "right",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "194c57196f762e916c790469e5b0abba",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "2013 NFL season",
+          "wiki_title": "2013 NFL season",
+          "url": "https://en.wikipedia.org/wiki/2013_NFL_season"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "194c57196f762e916c790469e5b0abba",
+        "fa414ac2db6b3677d27325e5f184b8e3",
+        "4b66fb1ee0dfa96b1a11864c73a75b72",
+        "653e7a9347fee024a5ae421735cd4fc7",
+        "750dd350bfff4d4a7336e165a8de48b9",
+        "c280c6d1e89bd7f6c77deb62f02ef40e",
+        "746fb7dae09fb1e917ad6ef1179c1488",
+        "fd385f1c637cb25ff589071667b795ae",
+        "d19d1da052ddb481b4309b1f043390cd",
+        "53d0f93e69259b58e41258595a1afd2a",
+        "66f4925b6054e69ab93b428750f7a78e",
+        "1c7e8ec5983003dacd256feebd809d98"
+      ],
+      "text_doc_ids": [
+        "0808f4021b8b4756e89039ab00782ffa",
+        "50a54a88e99ecd9ddc8746a9601af4fa",
+        "b1062ffc7f658213fe79a2a694c495a3",
+        "cf96df8ac253cd36d1164785fff52773",
+        "f05a02c5da04ae87aa205fa76a13e011",
+        "e3720fb39cae27bb106a5426d2ecbb78",
+        "014bb1497daf545221da9fbb5fc6b367",
+        "7157c165a8313272c240919d92e6b50b",
+        "790467e18b2261a3d85c70b82a71e3e7",
+        "765f5e662aa4f4bb52e6af68a9fd13b4"
+      ],
+      "intermediate_answers": [],
+      "table_id": "d603353219f01d6f579509d9a4f8f23b"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "194c57196f762e916c790469e5b0abba",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "f621e4cd5051b2f260ed84aff9702be9",
+    "question": "What is this person from the 2016 NFL season wearing around his neck?",
+    "answers": [
+      {
+        "answer": "tie",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "1c7e8ec5983003dacd256feebd809d98",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "2016 NFL season",
+          "wiki_title": "2016 NFL season",
+          "url": "https://en.wikipedia.org/wiki/2016_NFL_season"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "1c7e8ec5983003dacd256feebd809d98",
+        "194c57196f762e916c790469e5b0abba",
+        "fa414ac2db6b3677d27325e5f184b8e3",
+        "4b66fb1ee0dfa96b1a11864c73a75b72",
+        "653e7a9347fee024a5ae421735cd4fc7",
+        "750dd350bfff4d4a7336e165a8de48b9",
+        "c280c6d1e89bd7f6c77deb62f02ef40e",
+        "746fb7dae09fb1e917ad6ef1179c1488",
+        "fd385f1c637cb25ff589071667b795ae",
+        "d19d1da052ddb481b4309b1f043390cd",
+        "53d0f93e69259b58e41258595a1afd2a",
+        "66f4925b6054e69ab93b428750f7a78e"
+      ],
+      "text_doc_ids": [
+        "63fdbd5135139439ba869fc71b5283e1",
+        "4326819b28ac2c101da633f40f7a032a",
+        "6f50931ca1f4f13d76e92d4057907856",
+        "d9e61efd5fb14f5d62fbdbfddf8f16fe",
+        "1ef52712d5ccc7908fc9cc88ac9d7426",
+        "4e70a8f723c420908301cb639aaf4913",
+        "12734d1982db4a0e6bd6f6827d9092ec",
+        "efd6f95f3455b6f28052606bc05f205b",
+        "b33cbd71a79743357b8695ac50521766",
+        "8510e89a8b8bc667e9cf4fe84a544e4f"
+      ],
+      "intermediate_answers": [],
+      "table_id": "d603353219f01d6f579509d9a4f8f23b"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "1c7e8ec5983003dacd256feebd809d98",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "6e3b22ce058cf459d6a21612423aadb5",
+    "question": "Were there a lot of fans at games during the 1999 NFL season?",
+    "answers": [
+      {
+        "answer": "yes",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "4e13d6f96d479400abde4c6eba6839d3",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "1999 NFL season",
+          "wiki_title": "1999 NFL season",
+          "url": "https://en.wikipedia.org/wiki/1999_NFL_season"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "4e13d6f96d479400abde4c6eba6839d3",
+        "1514958ebc891947524400916f35ce73",
+        "3cf59c460286fb52bdcb8df9af52a8c3",
+        "6439611676e451a2ac24859539660706",
+        "b308ae7c5e1f7b3ff9cb4bb7a54eacd6",
+        "632c30f9543d6b5e1eb107eff1444a11",
+        "a26a3a974c0f04d04db68f0f15f1fa0d",
+        "20f55a7a8b3c7c34ed0727b71f24e6e4",
+        "7b52760a9627a3eb17cd00a6de2a7a92",
+        "554dbe806142b6a5bbd097b2f2451eea"
+      ],
+      "text_doc_ids": [
+        "2431d76b5ad8693018d611b917b15333",
+        "d6f8b8272545503e71ed0f798947a03a",
+        "4051ecc2b2d1ad301e021ae9822a3388",
+        "2a56ef97a4ac136b96f756cdb31d11ef",
+        "da390e678531458c1fff9ddf6fa14437",
+        "99af906fdcb48a451623b42f28d52a5a",
+        "38ace7146e461055236f5afc66f0ed35",
+        "37f61084cb0d55d8a327abdd060b53d0",
+        "714776624e9b7cc76c1580fd777b1a02",
+        "bddcd972a47b306c452106d7d2c7189f"
+      ],
+      "intermediate_answers": [],
+      "table_id": "d6e5ad736c890f0ce3cd8675463b014f"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "4e13d6f96d479400abde4c6eba6839d3",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "0408b9f0e684717069a5f6b2466f4511",
+    "question": "What are all three men holding in this photo from the 2003 NFL season?",
+    "answers": [
+      {
+        "answer": "microphones",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "a26a3a974c0f04d04db68f0f15f1fa0d",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "2003 NFL season",
+          "wiki_title": "2003 NFL season",
+          "url": "https://en.wikipedia.org/wiki/2003_NFL_season"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "a26a3a974c0f04d04db68f0f15f1fa0d",
+        "fa414ac2db6b3677d27325e5f184b8e3",
+        "653e7a9347fee024a5ae421735cd4fc7",
+        "3cf59c460286fb52bdcb8df9af52a8c3",
+        "3f69cd396566b100b8245c5e3ddf021d",
+        "226f932b3e99c18e4bbb92008cdd2df5",
+        "d460bc4661ff17e906e6f492cceebaf8",
+        "731a2104ea0a5aeacd118046bebb4616",
+        "91e18e3021a5d8f3feb1e57d295109a9",
+        "d19d1da052ddb481b4309b1f043390cd",
+        "20f55a7a8b3c7c34ed0727b71f24e6e4",
+        "7b52760a9627a3eb17cd00a6de2a7a92",
+        "9f34694e9c1a6387cb244ce5096f65fe",
+        "554dbe806142b6a5bbd097b2f2451eea",
+        "2c08f14a07d398234b952339b0de6455"
+      ],
+      "text_doc_ids": [
+        "f7ae2a60685401ea9ab96f24f4f753d5",
+        "bee8a0f2382917730e44e631dec06889",
+        "d1309b2f26e72b645bca03ceab6773dc",
+        "197f2e659095337aeea1c90810ad1219",
+        "2bf36e4c2f3b07fc2c750959a879c47a",
+        "0d32ef03a5ba43c887ec20b11e34d4e3",
+        "f0b97545f8e89ee3860d769b677ff3a8",
+        "f434a7f01cc3bb68224395106ffffb30",
+        "310c7a0428ebed9de65ebd2adb5006fe",
+        "442cc1c07c3abc03015f3b6c9114a479"
+      ],
+      "intermediate_answers": [],
+      "table_id": "1d15c7e24bb44704ec1931e3c8558239"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "a26a3a974c0f04d04db68f0f15f1fa0d",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "aad59568e449e4de3cf3eb5b5b85962c",
+    "question": "Who are the two on the field with at least one arm raised with vertical lines on their chest in 2007 NFL season?",
+    "answers": [
+      {
+        "answer": "referees",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "2c08f14a07d398234b952339b0de6455",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "2007 NFL season",
+          "wiki_title": "2007 NFL season",
+          "url": "https://en.wikipedia.org/wiki/2007_NFL_season"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "2c08f14a07d398234b952339b0de6455",
+        "fa414ac2db6b3677d27325e5f184b8e3",
+        "653e7a9347fee024a5ae421735cd4fc7",
+        "3cf59c460286fb52bdcb8df9af52a8c3",
+        "3f69cd396566b100b8245c5e3ddf021d",
+        "226f932b3e99c18e4bbb92008cdd2df5",
+        "d460bc4661ff17e906e6f492cceebaf8",
+        "731a2104ea0a5aeacd118046bebb4616",
+        "a26a3a974c0f04d04db68f0f15f1fa0d",
+        "91e18e3021a5d8f3feb1e57d295109a9",
+        "d19d1da052ddb481b4309b1f043390cd",
+        "20f55a7a8b3c7c34ed0727b71f24e6e4",
+        "7b52760a9627a3eb17cd00a6de2a7a92",
+        "9f34694e9c1a6387cb244ce5096f65fe",
+        "554dbe806142b6a5bbd097b2f2451eea"
+      ],
+      "text_doc_ids": [
+        "6e4b87e6e373cc11e7da893b7a69ae9b",
+        "19ac7c64149f45a5d360b6643ef1b5ea",
+        "f27f0cf75c238a9abba811b392687293",
+        "d99405e777065b95f437893aaa113ba6",
+        "da2a1d47ffee7e12504884c9ff991430",
+        "6fb27429021104bdd12eea5042d86c8f",
+        "d9e61efd5fb14f5d62fbdbfddf8f16fe",
+        "bcfea9cb567f57bf9d73f6cb9cbf0945",
+        "442cc1c07c3abc03015f3b6c9114a479",
+        "b48273242b371d653b32460287d33909"
+      ],
+      "intermediate_answers": [],
+      "table_id": "1d15c7e24bb44704ec1931e3c8558239"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "2c08f14a07d398234b952339b0de6455",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "cfccc0e720b3abf76b60ae2f80e2b0b9",
+    "question": "What are the players and referee looking at in this photo from the 2002 NFL season",
+    "answers": [
+      {
+        "answer": "coin",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "7b52760a9627a3eb17cd00a6de2a7a92",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "2002 NFL season",
+          "wiki_title": "2002 NFL season",
+          "url": "https://en.wikipedia.org/wiki/2002_NFL_season"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "7b52760a9627a3eb17cd00a6de2a7a92",
+        "c2c59308a0f191d44528b98bc6393ddf",
+        "3cf59c460286fb52bdcb8df9af52a8c3",
+        "af0ca20a4552bc7bca9a5fab5692bc1d",
+        "3f69cd396566b100b8245c5e3ddf021d",
+        "f9153fe20b295b569e1ed02b69afee5c",
+        "457cb708e18a0ca187ca7a73f1f81e6f",
+        "0dadc04f0e5eef2b923b59e47b690869",
+        "a26a3a974c0f04d04db68f0f15f1fa0d",
+        "20f55a7a8b3c7c34ed0727b71f24e6e4",
+        "1066746d5a1f669746eb9a4e769c8e63",
+        "554dbe806142b6a5bbd097b2f2451eea",
+        "2c08f14a07d398234b952339b0de6455"
+      ],
+      "text_doc_ids": [
+        "310c7a0428ebed9de65ebd2adb5006fe",
+        "f86c1ff0393bc22cf0881cd12da43151",
+        "bee8a0f2382917730e44e631dec06889",
+        "a7f5a9368cefbb12f77b22007e49cdcb",
+        "2bf36e4c2f3b07fc2c750959a879c47a",
+        "b6734d39939da582e694151cb6a992bb",
+        "697312af38394a247eb700793ddf09fa",
+        "f7ae2a60685401ea9ab96f24f4f753d5",
+        "55c5e257e460a092312b95e008071df7",
+        "d20efe420cef2e9dfba27ab8a9954e52"
+      ],
+      "intermediate_answers": [],
+      "table_id": "483d28e137b4ce6295bd207737bf61db"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "7b52760a9627a3eb17cd00a6de2a7a92",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "4ed67c4422cbe28a2a192f73e829a1aa",
+    "question": "What white substance is on the ground in this photo from the 2006 NFL season?",
+    "answers": [
+      {
+        "answer": "snow",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "3f69cd396566b100b8245c5e3ddf021d",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "2006 NFL season",
+          "wiki_title": "2006 NFL season",
+          "url": "https://en.wikipedia.org/wiki/2006_NFL_season"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "3f69cd396566b100b8245c5e3ddf021d",
+        "c2c59308a0f191d44528b98bc6393ddf",
+        "3cf59c460286fb52bdcb8df9af52a8c3",
+        "af0ca20a4552bc7bca9a5fab5692bc1d",
+        "f9153fe20b295b569e1ed02b69afee5c",
+        "457cb708e18a0ca187ca7a73f1f81e6f",
+        "0dadc04f0e5eef2b923b59e47b690869",
+        "a26a3a974c0f04d04db68f0f15f1fa0d",
+        "7b52760a9627a3eb17cd00a6de2a7a92",
+        "20f55a7a8b3c7c34ed0727b71f24e6e4",
+        "1066746d5a1f669746eb9a4e769c8e63",
+        "554dbe806142b6a5bbd097b2f2451eea",
+        "2c08f14a07d398234b952339b0de6455"
+      ],
+      "text_doc_ids": [
+        "08b87fd0d9bda1133c64289c1d0fe2c4",
+        "310c7a0428ebed9de65ebd2adb5006fe",
+        "a2891b5792b80128e77b64e9ecea6077",
+        "c1620cb1405b1bf6aa446db2a5bd6715",
+        "0d32ef03a5ba43c887ec20b11e34d4e3",
+        "75f9306cee9b13c412a7bc1d6461344e",
+        "dbaa1cda1a5f82b0da2d5783d431b992",
+        "2bf36e4c2f3b07fc2c750959a879c47a",
+        "3fd63348cb9ec1b3137979f07f59aa77",
+        "8e46c670fd604907eeda75a12155b54d"
+      ],
+      "intermediate_answers": [],
+      "table_id": "483d28e137b4ce6295bd207737bf61db"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "3f69cd396566b100b8245c5e3ddf021d",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "95ebe967d675bd749f7a6d1c8f56a961",
+    "question": "How many people are shown in this image from the 2003 NFL season?",
+    "answers": [
+      {
+        "answer": "three",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "a26a3a974c0f04d04db68f0f15f1fa0d",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "2003 NFL season",
+          "wiki_title": "2003 NFL season",
+          "url": "https://en.wikipedia.org/wiki/2003_NFL_season"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "a26a3a974c0f04d04db68f0f15f1fa0d",
+        "fa414ac2db6b3677d27325e5f184b8e3",
+        "653e7a9347fee024a5ae421735cd4fc7",
+        "3cf59c460286fb52bdcb8df9af52a8c3",
+        "3f69cd396566b100b8245c5e3ddf021d",
+        "4e13d6f96d479400abde4c6eba6839d3",
+        "9da2aad180f636cd9c41560c20ca7e75",
+        "9f1f475a8a03aa86d4e447792432f704",
+        "897a4d4f22f34d395e185918fe1954de",
+        "69a9c368c18e08e206793fabe240021a",
+        "d19d1da052ddb481b4309b1f043390cd",
+        "20f55a7a8b3c7c34ed0727b71f24e6e4",
+        "7b52760a9627a3eb17cd00a6de2a7a92",
+        "554dbe806142b6a5bbd097b2f2451eea",
+        "2c08f14a07d398234b952339b0de6455"
+      ],
+      "text_doc_ids": [
+        "2bf36e4c2f3b07fc2c750959a879c47a",
+        "26c45edfd68a7edec42ffe3bef73ee0a",
+        "354d626ab0ef98a06bcffef5420d876e",
+        "98b486451ba3d285e73777f4691c6573",
+        "c81767180199f1855b6e8129a01d87e4",
+        "8b2a066285ac88ea1bcbbad59a428a0e",
+        "c817082da59c01b1ee34ba594f232109",
+        "98b24ac020c312c2618974c47aa8afe3",
+        "442cc1c07c3abc03015f3b6c9114a479",
+        "acddd0c2c3d19b22fd9331657362e233"
+      ],
+      "intermediate_answers": [],
+      "table_id": "dafaa94a6f64f065e8ff9e2e60a1c8c5"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "a26a3a974c0f04d04db68f0f15f1fa0d",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "d704cb3238230062c93323985efa63f2",
+    "question": "In the 2002 NFL season photo, where is everyone's gaze directed?",
+    "answers": [
+      {
+        "answer": "downward",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "7b52760a9627a3eb17cd00a6de2a7a92",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "2002 NFL season",
+          "wiki_title": "2002 NFL season",
+          "url": "https://en.wikipedia.org/wiki/2002_NFL_season"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "7b52760a9627a3eb17cd00a6de2a7a92",
+        "e6e05aff07817eb184bde19fce824c2d",
+        "3cf59c460286fb52bdcb8df9af52a8c3",
+        "4e13d6f96d479400abde4c6eba6839d3",
+        "1c3782542fa5f0bcd8996349f576c93d",
+        "a26a3a974c0f04d04db68f0f15f1fa0d",
+        "554dbe806142b6a5bbd097b2f2451eea"
+      ],
+      "text_doc_ids": [
+        "f86c1ff0393bc22cf0881cd12da43151",
+        "5ac4211f7ab8e75c119a4776ab70a1f6",
+        "ceb7757ac41d040ff5ffe33ddfe7f50a",
+        "55c5e257e460a092312b95e008071df7",
+        "b66ce252c5c776da101b4865faa1b623",
+        "9d61645dd3dd8acd71f03f31b93f836d",
+        "310c7a0428ebed9de65ebd2adb5006fe",
+        "c1620cb1405b1bf6aa446db2a5bd6715",
+        "052d4e88c82b07202a53e151c1b7611e",
+        "0c74f991dd2d73fd8e30fd3f2c445bf8"
+      ],
+      "intermediate_answers": [],
+      "table_id": "68ee20b5458c3eedd2c66864730a5cee"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "7b52760a9627a3eb17cd00a6de2a7a92",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "aa992e85dbe495b0e50426130abb93cc",
+    "question": "How many refs are in this photo of the 2002 NFL season?",
+    "answers": [
+      {
+        "answer": "one",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "7b52760a9627a3eb17cd00a6de2a7a92",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "2002 NFL season",
+          "wiki_title": "2002 NFL season",
+          "url": "https://en.wikipedia.org/wiki/2002_NFL_season"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "7b52760a9627a3eb17cd00a6de2a7a92",
+        "02a7a0374b133dec9a2c3f831773de7a",
+        "538b7e06a567551ba6e7180a9417a899",
+        "653e7a9347fee024a5ae421735cd4fc7",
+        "3cf59c460286fb52bdcb8df9af52a8c3",
+        "3f69cd396566b100b8245c5e3ddf021d",
+        "0b201aba48538c8cae3ec4bdb5b4917c",
+        "e44fea1ef006a7f7c61e726210aa646e",
+        "a26a3a974c0f04d04db68f0f15f1fa0d",
+        "99329727be423cd33ada13d079c49a2a",
+        "d19d1da052ddb481b4309b1f043390cd",
+        "20f55a7a8b3c7c34ed0727b71f24e6e4",
+        "58b9783c6ca65b1e9c30c60a115cb542",
+        "554dbe806142b6a5bbd097b2f2451eea",
+        "2c08f14a07d398234b952339b0de6455"
+      ],
+      "text_doc_ids": [
+        "0452ff1ac22cfa89194282e3d6eb61dc",
+        "1f1fc2530b976d2d2c7582150c9c0f41",
+        "2a4402491286d9681830034f86783174",
+        "c81767180199f1855b6e8129a01d87e4",
+        "26c45edfd68a7edec42ffe3bef73ee0a",
+        "354d626ab0ef98a06bcffef5420d876e",
+        "310c7a0428ebed9de65ebd2adb5006fe",
+        "64beb59e387d680ffca1498eede75945",
+        "c817082da59c01b1ee34ba594f232109",
+        "32234c0f1987403db366bdd2eb9e90f1"
+      ],
+      "intermediate_answers": [],
+      "table_id": "c551d833166bf3435e91ca89a69e091f"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "7b52760a9627a3eb17cd00a6de2a7a92",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "839d0d6a116c99d7e5807aa937b9f006",
+    "question": "How man refs can be seen in this game from the 2007 NFL season?",
+    "answers": [
+      {
+        "answer": "two",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "2c08f14a07d398234b952339b0de6455",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "2007 NFL season",
+          "wiki_title": "2007 NFL season",
+          "url": "https://en.wikipedia.org/wiki/2007_NFL_season"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "2c08f14a07d398234b952339b0de6455",
+        "02a7a0374b133dec9a2c3f831773de7a",
+        "538b7e06a567551ba6e7180a9417a899",
+        "653e7a9347fee024a5ae421735cd4fc7",
+        "3cf59c460286fb52bdcb8df9af52a8c3",
+        "3f69cd396566b100b8245c5e3ddf021d",
+        "0b201aba48538c8cae3ec4bdb5b4917c",
+        "e44fea1ef006a7f7c61e726210aa646e",
+        "a26a3a974c0f04d04db68f0f15f1fa0d",
+        "99329727be423cd33ada13d079c49a2a",
+        "d19d1da052ddb481b4309b1f043390cd",
+        "20f55a7a8b3c7c34ed0727b71f24e6e4",
+        "7b52760a9627a3eb17cd00a6de2a7a92",
+        "554dbe806142b6a5bbd097b2f2451eea",
+        "58b9783c6ca65b1e9c30c60a115cb542"
+      ],
+      "text_doc_ids": [
+        "58cabdf6dbeff17e21f46c9f5fb9e68d",
+        "65fc7bd0c8f8adf2364108c2b62069ae",
+        "fd7515e2b3547c1755ede68811c21225",
+        "20f059359cd9e3053a1b93735a78b98d",
+        "82fc64f8545f30922f4cc2bf8ae95052",
+        "0935ce7b3f2e0f0ba37bcc2de85144e6",
+        "08b87fd0d9bda1133c64289c1d0fe2c4",
+        "fa176ab797acbf71e1a8692d1decdac6",
+        "8e46c670fd604907eeda75a12155b54d",
+        "d99405e777065b95f437893aaa113ba6"
+      ],
+      "intermediate_answers": [],
+      "table_id": "c551d833166bf3435e91ca89a69e091f"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "2c08f14a07d398234b952339b0de6455",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "13e63321ce83fe61ef784987272f0794",
+    "question": "How many referees are on the field in this photo from the 2004 NFL season?",
+    "answers": [
+      {
+        "answer": "two",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "3cf59c460286fb52bdcb8df9af52a8c3",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "2004 NFL season",
+          "wiki_title": "2004 NFL season",
+          "url": "https://en.wikipedia.org/wiki/2004_NFL_season"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "3cf59c460286fb52bdcb8df9af52a8c3",
+        "fa414ac2db6b3677d27325e5f184b8e3",
+        "115e9a9f892b51c87529447d327f54b3",
+        "653e7a9347fee024a5ae421735cd4fc7",
+        "f1bf98c3427433bed3e6bf629099146e",
+        "3f69cd396566b100b8245c5e3ddf021d",
+        "0921b2328444829c7798cc22e6f6de9a",
+        "a26a3a974c0f04d04db68f0f15f1fa0d",
+        "ecbcb39bb287ce6166195de872d82254",
+        "d19d1da052ddb481b4309b1f043390cd",
+        "20f55a7a8b3c7c34ed0727b71f24e6e4",
+        "7b52760a9627a3eb17cd00a6de2a7a92",
+        "69e5dd820dab44fc9408d00af152987c",
+        "2c08f14a07d398234b952339b0de6455"
+      ],
+      "text_doc_ids": [
+        "8b2a066285ac88ea1bcbbad59a428a0e",
+        "442cc1c07c3abc03015f3b6c9114a479",
+        "0d32ef03a5ba43c887ec20b11e34d4e3",
+        "2bf36e4c2f3b07fc2c750959a879c47a",
+        "26c45edfd68a7edec42ffe3bef73ee0a",
+        "98b486451ba3d285e73777f4691c6573",
+        "bcbe7e15f09d7c648520de9c4ce220d7",
+        "52ce16a1b087f8e5d61babadec9607a9",
+        "ce2b434733d8b87e5c3ac8de5337192b",
+        "5e09f08875f936726ec069bd7ff905e2"
+      ],
+      "intermediate_answers": [],
+      "table_id": "65bef4fd94c65ea2db3b840b054c1182"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "3cf59c460286fb52bdcb8df9af52a8c3",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "9e874a63c813a942b203cf34ef5892fd",
+    "question": "During the 2010 NFL season, the Rams home uniforms colors were yellow and what?",
+    "answers": [
+      {
+        "answer": "blue",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "fa414ac2db6b3677d27325e5f184b8e3",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "2010 NFL season",
+          "wiki_title": "2010 NFL season",
+          "url": "https://en.wikipedia.org/wiki/2010_NFL_season"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "fa414ac2db6b3677d27325e5f184b8e3",
+        "115e9a9f892b51c87529447d327f54b3",
+        "653e7a9347fee024a5ae421735cd4fc7",
+        "3cf59c460286fb52bdcb8df9af52a8c3",
+        "3f69cd396566b100b8245c5e3ddf021d",
+        "f1bf98c3427433bed3e6bf629099146e",
+        "0921b2328444829c7798cc22e6f6de9a",
+        "a26a3a974c0f04d04db68f0f15f1fa0d",
+        "ecbcb39bb287ce6166195de872d82254",
+        "d19d1da052ddb481b4309b1f043390cd",
+        "20f55a7a8b3c7c34ed0727b71f24e6e4",
+        "7b52760a9627a3eb17cd00a6de2a7a92",
+        "69e5dd820dab44fc9408d00af152987c",
+        "2c08f14a07d398234b952339b0de6455"
+      ],
+      "text_doc_ids": [
+        "43c3afce166ecc5a17ba73b3fda38833",
+        "acb570d9159f5af7139a67c1c54da3ad",
+        "4383822339f7898a6c6ec51e2b58b5db",
+        "95d80ac4bf58acf1a660430959b20a3c",
+        "729a2983ea4afc665e4038f54f12a299",
+        "bde5496c824aa7110a29a77dde410a33",
+        "2d9a73fce324c9e689f42e1d8423f178",
+        "232a7aec0434c1dba336ad0a33ddb55a",
+        "7b9814d2abb9a813bf4f383c4ad8662c",
+        "f8879ffb0a374e57e96e8a333c079a16"
+      ],
+      "intermediate_answers": [],
+      "table_id": "65bef4fd94c65ea2db3b840b054c1182"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "fa414ac2db6b3677d27325e5f184b8e3",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "579c5f025dd919659e869e5eb4047897",
+    "question": "What kind of building is this 1999 NFL season game played in?",
+    "answers": [
+      {
+        "answer": "stadium",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "4e13d6f96d479400abde4c6eba6839d3",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "1999 NFL season",
+          "wiki_title": "1999 NFL season",
+          "url": "https://en.wikipedia.org/wiki/1999_NFL_season"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "4e13d6f96d479400abde4c6eba6839d3",
+        "653e7a9347fee024a5ae421735cd4fc7",
+        "3cf59c460286fb52bdcb8df9af52a8c3",
+        "3f69cd396566b100b8245c5e3ddf021d",
+        "70520266092d16e032e70fbcce5d7a78",
+        "2c3444923878400add3f1f6db9a875cb",
+        "4b614de46850d641b062b4045484d8ad",
+        "a26a3a974c0f04d04db68f0f15f1fa0d",
+        "7b52760a9627a3eb17cd00a6de2a7a92",
+        "899f5890396f911608f2a59a1f688bbb",
+        "20f55a7a8b3c7c34ed0727b71f24e6e4",
+        "6fdedd5bced7bb0e87a9b4fd7aa1087c",
+        "554dbe806142b6a5bbd097b2f2451eea",
+        "2c08f14a07d398234b952339b0de6455",
+        "f5226eb9ef6735375dec537558d9fd13"
+      ],
+      "text_doc_ids": [
+        "6c17539e65988ae682c360a82093b329",
+        "6954cb2d2645f8a0206e68e122846ef7",
+        "99af906fdcb48a451623b42f28d52a5a",
+        "d718ce8be889b2e943ab8afa6def653d",
+        "9dcb1d4146bff188e6085b2aa1beb5d5",
+        "f8734a0ca41005cbc06f3a79a3f4b87c",
+        "7341d5fbacf64989931630e20b032edb",
+        "0a0f39b2e92bc526acabc8967a6a873a",
+        "ac52afa9d7ac2aac2a86ced5f4e400f0",
+        "cfa40f84b90b66fbcc0d7d7107b078de"
+      ],
+      "intermediate_answers": [],
+      "table_id": "379be812f1bf8c7136180c04ae02df62"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "4e13d6f96d479400abde4c6eba6839d3",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "1f4ee05fe2b1dedd53ae999adf091943",
+    "question": "How many referees are on the field in this photo from the 2001 NFL season?",
+    "answers": [
+      {
+        "answer": "two",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "554dbe806142b6a5bbd097b2f2451eea",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "2001 NFL season",
+          "wiki_title": "2001 NFL season",
+          "url": "https://en.wikipedia.org/wiki/2001_NFL_season"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "554dbe806142b6a5bbd097b2f2451eea",
+        "653e7a9347fee024a5ae421735cd4fc7",
+        "3cf59c460286fb52bdcb8df9af52a8c3",
+        "3f69cd396566b100b8245c5e3ddf021d",
+        "4e13d6f96d479400abde4c6eba6839d3",
+        "70520266092d16e032e70fbcce5d7a78",
+        "2c3444923878400add3f1f6db9a875cb",
+        "4b614de46850d641b062b4045484d8ad",
+        "a26a3a974c0f04d04db68f0f15f1fa0d",
+        "7b52760a9627a3eb17cd00a6de2a7a92",
+        "20f55a7a8b3c7c34ed0727b71f24e6e4",
+        "6fdedd5bced7bb0e87a9b4fd7aa1087c",
+        "2c08f14a07d398234b952339b0de6455",
+        "899f5890396f911608f2a59a1f688bbb",
+        "f5226eb9ef6735375dec537558d9fd13"
+      ],
+      "text_doc_ids": [
+        "354d626ab0ef98a06bcffef5420d876e",
+        "b6734d39939da582e694151cb6a992bb",
+        "aff05e5a71c771d62f300abb0e1480b7",
+        "11e55836a01b3b836831664e342eb38d",
+        "2f9d553e401bdac317aa559468f01bfd",
+        "26c45edfd68a7edec42ffe3bef73ee0a",
+        "cdfe712346c60fa9dd222b9c838298c1",
+        "bcbe7e15f09d7c648520de9c4ce220d7",
+        "310c7a0428ebed9de65ebd2adb5006fe",
+        "ce2b434733d8b87e5c3ac8de5337192b"
+      ],
+      "intermediate_answers": [],
+      "table_id": "379be812f1bf8c7136180c04ae02df62"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "554dbe806142b6a5bbd097b2f2451eea",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "21bda50df745c6607b7622c7ca20f635",
+    "question": "What are the players looking down at in this photo from the 2002 NFL season?",
+    "answers": [
+      {
+        "answer": "coin",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "7b52760a9627a3eb17cd00a6de2a7a92",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "2002 NFL season",
+          "wiki_title": "2002 NFL season",
+          "url": "https://en.wikipedia.org/wiki/2002_NFL_season"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "7b52760a9627a3eb17cd00a6de2a7a92",
+        "653e7a9347fee024a5ae421735cd4fc7",
+        "3cf59c460286fb52bdcb8df9af52a8c3",
+        "3f69cd396566b100b8245c5e3ddf021d",
+        "4e13d6f96d479400abde4c6eba6839d3",
+        "70520266092d16e032e70fbcce5d7a78",
+        "2c3444923878400add3f1f6db9a875cb",
+        "4b614de46850d641b062b4045484d8ad",
+        "a26a3a974c0f04d04db68f0f15f1fa0d",
+        "20f55a7a8b3c7c34ed0727b71f24e6e4",
+        "899f5890396f911608f2a59a1f688bbb",
+        "6fdedd5bced7bb0e87a9b4fd7aa1087c",
+        "554dbe806142b6a5bbd097b2f2451eea",
+        "2c08f14a07d398234b952339b0de6455",
+        "f5226eb9ef6735375dec537558d9fd13"
+      ],
+      "text_doc_ids": [
+        "b1f8c070643bba5348cb267059ea5ff6",
+        "2bf36e4c2f3b07fc2c750959a879c47a",
+        "f7ae2a60685401ea9ab96f24f4f753d5",
+        "d20efe420cef2e9dfba27ab8a9954e52",
+        "697312af38394a247eb700793ddf09fa",
+        "442cc1c07c3abc03015f3b6c9114a479",
+        "310c7a0428ebed9de65ebd2adb5006fe",
+        "55c5e257e460a092312b95e008071df7",
+        "f86c1ff0393bc22cf0881cd12da43151",
+        "b6734d39939da582e694151cb6a992bb"
+      ],
+      "intermediate_answers": [],
+      "table_id": "379be812f1bf8c7136180c04ae02df62"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "7b52760a9627a3eb17cd00a6de2a7a92",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "de9558be32b870132ad87973cf0cb2e6",
+    "question": "What branch of military is the man in the middle part of in this photo from the 2003 NFL season?",
+    "answers": [
+      {
+        "answer": "marines",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "a26a3a974c0f04d04db68f0f15f1fa0d",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "2003 NFL season",
+          "wiki_title": "2003 NFL season",
+          "url": "https://en.wikipedia.org/wiki/2003_NFL_season"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "a26a3a974c0f04d04db68f0f15f1fa0d",
+        "653e7a9347fee024a5ae421735cd4fc7",
+        "3cf59c460286fb52bdcb8df9af52a8c3",
+        "3f69cd396566b100b8245c5e3ddf021d",
+        "4e13d6f96d479400abde4c6eba6839d3",
+        "70520266092d16e032e70fbcce5d7a78",
+        "2c3444923878400add3f1f6db9a875cb",
+        "4b614de46850d641b062b4045484d8ad",
+        "7b52760a9627a3eb17cd00a6de2a7a92",
+        "899f5890396f911608f2a59a1f688bbb",
+        "20f55a7a8b3c7c34ed0727b71f24e6e4",
+        "6fdedd5bced7bb0e87a9b4fd7aa1087c",
+        "554dbe806142b6a5bbd097b2f2451eea",
+        "2c08f14a07d398234b952339b0de6455",
+        "f5226eb9ef6735375dec537558d9fd13"
+      ],
+      "text_doc_ids": [
+        "1e9c4e240fd5918955efcecf5c26b56d",
+        "144efc819a6d2284adc607c1c6d2ab55",
+        "3fded7b326c86ec38cfe0891958686a8",
+        "052d4e88c82b07202a53e151c1b7611e",
+        "4ce042b679c4f4fbf68480f455ce3ae5",
+        "9e6a38a4b235a842915604d2af3ebf3d",
+        "899abfb0aa2579ee6bbf48505d0bcf50",
+        "608d179a9e94634c95d4e9241d82197a",
+        "6bda2b31fd9567fe3b72ea09f0da3184",
+        "2606ac79125874b576c8f5aadb513b53"
+      ],
+      "intermediate_answers": [],
+      "table_id": "379be812f1bf8c7136180c04ae02df62"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "a26a3a974c0f04d04db68f0f15f1fa0d",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "7d2e0f8749207b08db05fcf24f45a1a7",
+    "question": "What color pants are the players with white jerseys wearing during the 2004 NFL season?",
+    "answers": [
+      {
+        "answer": "gold",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "3cf59c460286fb52bdcb8df9af52a8c3",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "2004 NFL season",
+          "wiki_title": "2004 NFL season",
+          "url": "https://en.wikipedia.org/wiki/2004_NFL_season"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "3cf59c460286fb52bdcb8df9af52a8c3",
+        "653e7a9347fee024a5ae421735cd4fc7",
+        "3f69cd396566b100b8245c5e3ddf021d",
+        "4e13d6f96d479400abde4c6eba6839d3",
+        "70520266092d16e032e70fbcce5d7a78",
+        "2c3444923878400add3f1f6db9a875cb",
+        "4b614de46850d641b062b4045484d8ad",
+        "a26a3a974c0f04d04db68f0f15f1fa0d",
+        "7b52760a9627a3eb17cd00a6de2a7a92",
+        "899f5890396f911608f2a59a1f688bbb",
+        "20f55a7a8b3c7c34ed0727b71f24e6e4",
+        "6fdedd5bced7bb0e87a9b4fd7aa1087c",
+        "554dbe806142b6a5bbd097b2f2451eea",
+        "2c08f14a07d398234b952339b0de6455",
+        "f5226eb9ef6735375dec537558d9fd13"
+      ],
+      "text_doc_ids": [
+        "aaf68797ca7344569b6ef6b8a0d64215",
+        "de67d5fa2aa7b75ff532cf2e67782978",
+        "8a3f012f2a37cceeb263d18ce3b4f45f",
+        "d2e79ccb1639ae503bda0565bde38c0b",
+        "26e4ca3a1ad7fd38f06eabdc4668e0f2",
+        "d806579cd7526e3140d7ac485eff94c1",
+        "41d2df9c5ad36f01962bcfed1f53956d",
+        "a2548452138c0096b79086a57c562d1c",
+        "f504099def70f5e0878f0e2d2c8b09dc",
+        "088bff01917425b5368b2cbee12e5046"
+      ],
+      "intermediate_answers": [],
+      "table_id": "379be812f1bf8c7136180c04ae02df62"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "3cf59c460286fb52bdcb8df9af52a8c3",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "17c22fcedac52d6376ef16a844b63392",
+    "question": "What white substance is covering the ground in this photo from the 2006 NFL season?",
+    "answers": [
+      {
+        "answer": "snow",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "3f69cd396566b100b8245c5e3ddf021d",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "2006 NFL season",
+          "wiki_title": "2006 NFL season",
+          "url": "https://en.wikipedia.org/wiki/2006_NFL_season"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "3f69cd396566b100b8245c5e3ddf021d",
+        "653e7a9347fee024a5ae421735cd4fc7",
+        "3cf59c460286fb52bdcb8df9af52a8c3",
+        "4e13d6f96d479400abde4c6eba6839d3",
+        "70520266092d16e032e70fbcce5d7a78",
+        "2c3444923878400add3f1f6db9a875cb",
+        "4b614de46850d641b062b4045484d8ad",
+        "a26a3a974c0f04d04db68f0f15f1fa0d",
+        "7b52760a9627a3eb17cd00a6de2a7a92",
+        "899f5890396f911608f2a59a1f688bbb",
+        "20f55a7a8b3c7c34ed0727b71f24e6e4",
+        "6fdedd5bced7bb0e87a9b4fd7aa1087c",
+        "554dbe806142b6a5bbd097b2f2451eea",
+        "2c08f14a07d398234b952339b0de6455",
+        "f5226eb9ef6735375dec537558d9fd13"
+      ],
+      "text_doc_ids": [
+        "2bf36e4c2f3b07fc2c750959a879c47a",
+        "c1620cb1405b1bf6aa446db2a5bd6715",
+        "3fd63348cb9ec1b3137979f07f59aa77",
+        "442cc1c07c3abc03015f3b6c9114a479",
+        "dbaa1cda1a5f82b0da2d5783d431b992",
+        "0d32ef03a5ba43c887ec20b11e34d4e3",
+        "08b87fd0d9bda1133c64289c1d0fe2c4",
+        "8e46c670fd604907eeda75a12155b54d",
+        "a2891b5792b80128e77b64e9ecea6077",
+        "310c7a0428ebed9de65ebd2adb5006fe"
+      ],
+      "intermediate_answers": [],
+      "table_id": "379be812f1bf8c7136180c04ae02df62"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "3f69cd396566b100b8245c5e3ddf021d",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "9b1685dfc18f69c0353e0a5c2f506dd4",
+    "question": "Who are the two guys on the field that each have one arm in the air in 2007 NFL season?",
+    "answers": [
+      {
+        "answer": "referees",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "2c08f14a07d398234b952339b0de6455",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "2007 NFL season",
+          "wiki_title": "2007 NFL season",
+          "url": "https://en.wikipedia.org/wiki/2007_NFL_season"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "2c08f14a07d398234b952339b0de6455",
+        "653e7a9347fee024a5ae421735cd4fc7",
+        "3cf59c460286fb52bdcb8df9af52a8c3",
+        "3f69cd396566b100b8245c5e3ddf021d",
+        "4e13d6f96d479400abde4c6eba6839d3",
+        "70520266092d16e032e70fbcce5d7a78",
+        "2c3444923878400add3f1f6db9a875cb",
+        "4b614de46850d641b062b4045484d8ad",
+        "a26a3a974c0f04d04db68f0f15f1fa0d",
+        "7b52760a9627a3eb17cd00a6de2a7a92",
+        "20f55a7a8b3c7c34ed0727b71f24e6e4",
+        "6fdedd5bced7bb0e87a9b4fd7aa1087c",
+        "554dbe806142b6a5bbd097b2f2451eea",
+        "899f5890396f911608f2a59a1f688bbb",
+        "f5226eb9ef6735375dec537558d9fd13"
+      ],
+      "text_doc_ids": [
+        "668e8856e1c3e99565a5258c6478b183",
+        "03dfae99266bea335b57e84b4b87cedd",
+        "bcfea9cb567f57bf9d73f6cb9cbf0945",
+        "d9e61efd5fb14f5d62fbdbfddf8f16fe",
+        "49fa91b14d6e0397a9effcb5fb18758b",
+        "8b08ad8243f2cb6cdc556a9c51070105",
+        "4507ee12b425782bb06efd3f0ca8e54d",
+        "f0bed955569db97075201ad4b0ceebcb",
+        "f27f0cf75c238a9abba811b392687293",
+        "e89b009492fd40e66f5f690995a33b06"
+      ],
+      "intermediate_answers": [],
+      "table_id": "379be812f1bf8c7136180c04ae02df62"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "2c08f14a07d398234b952339b0de6455",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "64eda689f55ff773742427c53ad886a8",
+    "question": "What are the men in white shirts wearing on their ears in this photo from the 2008 NFL season?",
+    "answers": [
+      {
+        "answer": "headphones",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "653e7a9347fee024a5ae421735cd4fc7",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "2008 NFL season",
+          "wiki_title": "2008 NFL season",
+          "url": "https://en.wikipedia.org/wiki/2008_NFL_season"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "653e7a9347fee024a5ae421735cd4fc7",
+        "3cf59c460286fb52bdcb8df9af52a8c3",
+        "3f69cd396566b100b8245c5e3ddf021d",
+        "4e13d6f96d479400abde4c6eba6839d3",
+        "70520266092d16e032e70fbcce5d7a78",
+        "2c3444923878400add3f1f6db9a875cb",
+        "4b614de46850d641b062b4045484d8ad",
+        "a26a3a974c0f04d04db68f0f15f1fa0d",
+        "7b52760a9627a3eb17cd00a6de2a7a92",
+        "899f5890396f911608f2a59a1f688bbb",
+        "20f55a7a8b3c7c34ed0727b71f24e6e4",
+        "6fdedd5bced7bb0e87a9b4fd7aa1087c",
+        "554dbe806142b6a5bbd097b2f2451eea",
+        "2c08f14a07d398234b952339b0de6455",
+        "f5226eb9ef6735375dec537558d9fd13"
+      ],
+      "text_doc_ids": [
+        "103045aa53d0bfd50f43c043abc9f9ca",
+        "6fa8a9eb9098a82bc6d5670e56ed77f2",
+        "bee8a0f2382917730e44e631dec06889",
+        "567d2fd3a5bb1134dc17629f10038d9d",
+        "7750201b477040ad43c64289763456e6",
+        "8709787753ddf606fc8928ef86f5b5b0",
+        "8d0241ed3de16051292f5735dff45126",
+        "acca56303d86f4b047299c4a40ebba11",
+        "413c0001817204a5d9f7fcfc10509028",
+        "b859e6867f768117e07717d049286b8f"
+      ],
+      "intermediate_answers": [],
+      "table_id": "379be812f1bf8c7136180c04ae02df62"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "653e7a9347fee024a5ae421735cd4fc7",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "a9fbefa36a12679a3efa2711b6431430",
+    "question": "Is there litter all over the ground in this photo of a stadium from the 2005 NFL season?",
+    "answers": [
+      {
+        "answer": "yes",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "20f55a7a8b3c7c34ed0727b71f24e6e4",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "2005 NFL season",
+          "wiki_title": "2005 NFL season",
+          "url": "https://en.wikipedia.org/wiki/2005_NFL_season"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "20f55a7a8b3c7c34ed0727b71f24e6e4",
+        "fa414ac2db6b3677d27325e5f184b8e3",
+        "81ae52311d5c0b1065c864933662aaf6",
+        "653e7a9347fee024a5ae421735cd4fc7",
+        "a1c1c7a07a7186acc76dac54ca5469f2",
+        "3f69cd396566b100b8245c5e3ddf021d",
+        "1a87baa6fc2817e108b25c86e6866a63",
+        "1b7512426c52c6486c369da79a5bb0d4",
+        "5d36940fc4458525728fd7f856a10c62",
+        "52158d2aeb34037db113615dee432752",
+        "d19d1da052ddb481b4309b1f043390cd",
+        "153009e1c6f0c7bde001d01948435f7e",
+        "90243f8ae26c6fe2168b20c6abc75aa7",
+        "2c08f14a07d398234b952339b0de6455"
+      ],
+      "text_doc_ids": [
+        "c1620cb1405b1bf6aa446db2a5bd6715",
+        "427175e43b722bd0ad223724857acaec",
+        "494d9b5b96f60cb4a7ec91286f76f7cf",
+        "6de9698cd8373d7079aa4fb9007dbdca",
+        "0d32ef03a5ba43c887ec20b11e34d4e3",
+        "310c7a0428ebed9de65ebd2adb5006fe",
+        "febdd53bf328429ea1da61539470aedc",
+        "dbaa1cda1a5f82b0da2d5783d431b992",
+        "d06d7299fce8b481dd8252f1be364bd2",
+        "d9a645fb399c202fc8bbf11d23537135"
+      ],
+      "intermediate_answers": [],
+      "table_id": "d011c94d26f8202db6d24cd54acb04d0"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "20f55a7a8b3c7c34ed0727b71f24e6e4",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "cefcea2041e2cc2ea88bb215499bfdfb",
+    "question": "Did 2006 NFL season games take place in spite of snow storms?",
+    "answers": [
+      {
+        "answer": "yes",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "3f69cd396566b100b8245c5e3ddf021d",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "2006 NFL season",
+          "wiki_title": "2006 NFL season",
+          "url": "https://en.wikipedia.org/wiki/2006_NFL_season"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "3f69cd396566b100b8245c5e3ddf021d",
+        "fa414ac2db6b3677d27325e5f184b8e3",
+        "81ae52311d5c0b1065c864933662aaf6",
+        "653e7a9347fee024a5ae421735cd4fc7",
+        "a1c1c7a07a7186acc76dac54ca5469f2",
+        "1a87baa6fc2817e108b25c86e6866a63",
+        "1b7512426c52c6486c369da79a5bb0d4",
+        "5d36940fc4458525728fd7f856a10c62",
+        "52158d2aeb34037db113615dee432752",
+        "d19d1da052ddb481b4309b1f043390cd",
+        "20f55a7a8b3c7c34ed0727b71f24e6e4",
+        "153009e1c6f0c7bde001d01948435f7e",
+        "90243f8ae26c6fe2168b20c6abc75aa7",
+        "2c08f14a07d398234b952339b0de6455"
+      ],
+      "text_doc_ids": [
+        "0e056ba75a428dfedfde64c89404e0fc",
+        "39cc4e2571df383f9a74a9d6fe49e9f8",
+        "cfbe126dcf473a7ec0e94178a2330b65",
+        "d4670e3af5dc4cfe3854b50c1bf562ae",
+        "bcf8e49aa7c6432fb4dd78d15047495c",
+        "6e4b87e6e373cc11e7da893b7a69ae9b",
+        "8f1dcf7a177054b31adf9f569c62edaa",
+        "35c26127842258c7e9e0582972ea0494",
+        "8609412866d5f45b18b99c377f601fa5",
+        "e6100bf99b4d64ec6ecfdae4e1660723"
+      ],
+      "intermediate_answers": [],
+      "table_id": "d011c94d26f8202db6d24cd54acb04d0"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "3f69cd396566b100b8245c5e3ddf021d",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "fc10af46346df53df9eeb6085709c06e",
+    "question": "Which arm are the referrees raising in this photo of the 2007 NFL season?",
+    "answers": [
+      {
+        "answer": "right",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "2c08f14a07d398234b952339b0de6455",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "2007 NFL season",
+          "wiki_title": "2007 NFL season",
+          "url": "https://en.wikipedia.org/wiki/2007_NFL_season"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "2c08f14a07d398234b952339b0de6455",
+        "fa414ac2db6b3677d27325e5f184b8e3",
+        "653e7a9347fee024a5ae421735cd4fc7",
+        "a1c1c7a07a7186acc76dac54ca5469f2",
+        "3f69cd396566b100b8245c5e3ddf021d",
+        "1a87baa6fc2817e108b25c86e6866a63",
+        "1b7512426c52c6486c369da79a5bb0d4",
+        "5d36940fc4458525728fd7f856a10c62",
+        "52158d2aeb34037db113615dee432752",
+        "d19d1da052ddb481b4309b1f043390cd",
+        "20f55a7a8b3c7c34ed0727b71f24e6e4",
+        "153009e1c6f0c7bde001d01948435f7e",
+        "90243f8ae26c6fe2168b20c6abc75aa7",
+        "81ae52311d5c0b1065c864933662aaf6"
+      ],
+      "text_doc_ids": [
+        "b50d8ae79032faeef63e0efc854e7027",
+        "d9e61efd5fb14f5d62fbdbfddf8f16fe",
+        "af5f7f8ae04f6cc6bf68ba9a37a62ade",
+        "d99405e777065b95f437893aaa113ba6",
+        "da2a1d47ffee7e12504884c9ff991430",
+        "ed803fc73d0f91ebf8f54e6a2a2a463d",
+        "1a30a7bb98754cf7f7ade6004f6bd075",
+        "028b0ed3946de886004646698243b69e",
+        "290e3fdfd60e4018605222f508246176",
+        "442cc1c07c3abc03015f3b6c9114a479"
+      ],
+      "intermediate_answers": [],
+      "table_id": "d011c94d26f8202db6d24cd54acb04d0"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "2c08f14a07d398234b952339b0de6455",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "441403a40d0c1fde073a02cb993910a3",
+    "question": "How many people are shown in this announcing booth during the 2008 NFL season?",
+    "answers": [
+      {
+        "answer": "five",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "653e7a9347fee024a5ae421735cd4fc7",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "2008 NFL season",
+          "wiki_title": "2008 NFL season",
+          "url": "https://en.wikipedia.org/wiki/2008_NFL_season"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "653e7a9347fee024a5ae421735cd4fc7",
+        "fa414ac2db6b3677d27325e5f184b8e3",
+        "81ae52311d5c0b1065c864933662aaf6",
+        "a1c1c7a07a7186acc76dac54ca5469f2",
+        "1a87baa6fc2817e108b25c86e6866a63",
+        "3f69cd396566b100b8245c5e3ddf021d",
+        "1b7512426c52c6486c369da79a5bb0d4",
+        "5d36940fc4458525728fd7f856a10c62",
+        "52158d2aeb34037db113615dee432752",
+        "d19d1da052ddb481b4309b1f043390cd",
+        "20f55a7a8b3c7c34ed0727b71f24e6e4",
+        "153009e1c6f0c7bde001d01948435f7e",
+        "90243f8ae26c6fe2168b20c6abc75aa7",
+        "2c08f14a07d398234b952339b0de6455"
+      ],
+      "text_doc_ids": [
+        "65789b8bcf0d97212631eba246d2f8cd",
+        "35b502d5c6026bffadb776fee295649b",
+        "93816495c6935542bb8c4a13043e9a92",
+        "c4b1e4a41bb1fcd6faf92d685b6e8aa7",
+        "c6ede4980fdc1a0505c6e4e066d421be",
+        "65fc7bd0c8f8adf2364108c2b62069ae",
+        "5279bffbec2fe540a975d48820adad1a",
+        "fe664877ac78c2aa2a58ceb1b5c2be90",
+        "8d0241ed3de16051292f5735dff45126",
+        "7e03eccdbcbf0b764d92ab974361c6ac"
+      ],
+      "intermediate_answers": [],
+      "table_id": "d011c94d26f8202db6d24cd54acb04d0"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "653e7a9347fee024a5ae421735cd4fc7",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "62c7334d4b55de978e30c7ebc25deaa7",
+    "question": "Other than players, who else is on the field during this game of the 2004 NFL season?",
+    "answers": [
+      {
+        "answer": "referee",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "3cf59c460286fb52bdcb8df9af52a8c3",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "2004 NFL season",
+          "wiki_title": "2004 NFL season",
+          "url": "https://en.wikipedia.org/wiki/2004_NFL_season"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "3cf59c460286fb52bdcb8df9af52a8c3",
+        "fa414ac2db6b3677d27325e5f184b8e3",
+        "194c57196f762e916c790469e5b0abba",
+        "4b66fb1ee0dfa96b1a11864c73a75b72",
+        "653e7a9347fee024a5ae421735cd4fc7",
+        "3f69cd396566b100b8245c5e3ddf021d",
+        "0fd825da597e6205cc76de85905ec02a",
+        "13723f8ef5463c337dc16a0854460c72",
+        "5e994d685e7bde8bea6edbce9c5c45cc",
+        "b3f482ccbc69955473df541e17c7e2ce",
+        "d19d1da052ddb481b4309b1f043390cd",
+        "20f55a7a8b3c7c34ed0727b71f24e6e4",
+        "fd385f1c637cb25ff589071667b795ae",
+        "2c08f14a07d398234b952339b0de6455",
+        "1c7e8ec5983003dacd256feebd809d98"
+      ],
+      "text_doc_ids": [
+        "41d2df9c5ad36f01962bcfed1f53956d",
+        "ac16bb8586e68406f350a0af1dfc4fb5",
+        "e6100bf99b4d64ec6ecfdae4e1660723",
+        "e893d38dcf9ae54c8684cc3e770efa9f",
+        "74b7f04ac3c2fece7da9f711525041cd",
+        "98b486451ba3d285e73777f4691c6573",
+        "98b24ac020c312c2618974c47aa8afe3",
+        "8b2a066285ac88ea1bcbbad59a428a0e",
+        "19ac7c64149f45a5d360b6643ef1b5ea",
+        "b5adc628d78c173393c73ffc5a2cefa1"
+      ],
+      "intermediate_answers": [],
+      "table_id": "f8637876fe3e89085673652f20ace64f"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "3cf59c460286fb52bdcb8df9af52a8c3",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "454b7dc5b0207d9d9de40f11980e61e7",
+    "question": "How many stripes are visible on the yellow pants in this photo of the 2010 NFL season?",
+    "answers": [
+      {
+        "answer": "three",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "fa414ac2db6b3677d27325e5f184b8e3",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "2010 NFL season",
+          "wiki_title": "2010 NFL season",
+          "url": "https://en.wikipedia.org/wiki/2010_NFL_season"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "fa414ac2db6b3677d27325e5f184b8e3",
+        "194c57196f762e916c790469e5b0abba",
+        "4b66fb1ee0dfa96b1a11864c73a75b72",
+        "653e7a9347fee024a5ae421735cd4fc7",
+        "3cf59c460286fb52bdcb8df9af52a8c3",
+        "3f69cd396566b100b8245c5e3ddf021d",
+        "0fd825da597e6205cc76de85905ec02a",
+        "13723f8ef5463c337dc16a0854460c72",
+        "5e994d685e7bde8bea6edbce9c5c45cc",
+        "b3f482ccbc69955473df541e17c7e2ce",
+        "d19d1da052ddb481b4309b1f043390cd",
+        "20f55a7a8b3c7c34ed0727b71f24e6e4",
+        "fd385f1c637cb25ff589071667b795ae",
+        "2c08f14a07d398234b952339b0de6455",
+        "1c7e8ec5983003dacd256feebd809d98"
+      ],
+      "text_doc_ids": [
+        "4007092b927502ac31775e64ebd3c66f",
+        "2bf36e4c2f3b07fc2c750959a879c47a",
+        "2f9d553e401bdac317aa559468f01bfd",
+        "4540bc34d53125c6c72aa6170479b8d2",
+        "f504099def70f5e0878f0e2d2c8b09dc",
+        "d7d3156e775d0b438d667b00bb84dedb",
+        "300e37ef4a10f746ec4f99604ed5e812",
+        "c17d276288771567757cbb0abca3663f",
+        "de2fe90990c4e4b757d5ff58d3a1ede3",
+        "1afccc4d6bca100ea071ccb79cc31d4b"
+      ],
+      "intermediate_answers": [],
+      "table_id": "f8637876fe3e89085673652f20ace64f"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "fa414ac2db6b3677d27325e5f184b8e3",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "f731ffe453e5f67aca26a4d793376f55",
+    "question": "What is this man wearing around his neck in this photo from the 2016 NFL season?",
+    "answers": [
+      {
+        "answer": "tie",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "1c7e8ec5983003dacd256feebd809d98",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "2016 NFL season",
+          "wiki_title": "2016 NFL season",
+          "url": "https://en.wikipedia.org/wiki/2016_NFL_season"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "1c7e8ec5983003dacd256feebd809d98",
+        "fa414ac2db6b3677d27325e5f184b8e3",
+        "194c57196f762e916c790469e5b0abba",
+        "4b66fb1ee0dfa96b1a11864c73a75b72",
+        "653e7a9347fee024a5ae421735cd4fc7",
+        "3cf59c460286fb52bdcb8df9af52a8c3",
+        "3f69cd396566b100b8245c5e3ddf021d",
+        "0fd825da597e6205cc76de85905ec02a",
+        "13723f8ef5463c337dc16a0854460c72",
+        "5e994d685e7bde8bea6edbce9c5c45cc",
+        "b3f482ccbc69955473df541e17c7e2ce",
+        "d19d1da052ddb481b4309b1f043390cd",
+        "20f55a7a8b3c7c34ed0727b71f24e6e4",
+        "fd385f1c637cb25ff589071667b795ae",
+        "2c08f14a07d398234b952339b0de6455"
+      ],
+      "text_doc_ids": [
+        "12734d1982db4a0e6bd6f6827d9092ec",
+        "13c141a3259cfd62134c615419ac206e",
+        "4a36d5a7c0773ac3867e1dfbf2dc38b1",
+        "9030e8b4bd7815c34a7150e0fe523cab",
+        "8510e89a8b8bc667e9cf4fe84a544e4f",
+        "b0f663c616ca0033fdd47cdc32176d0c",
+        "b33cbd71a79743357b8695ac50521766",
+        "efd6f95f3455b6f28052606bc05f205b",
+        "019e418d5c8d4799c68dc849174354fc",
+        "76602700ac7abb56f86c03b0a1e42017"
+      ],
+      "intermediate_answers": [],
+      "table_id": "f8637876fe3e89085673652f20ace64f"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "1c7e8ec5983003dacd256feebd809d98",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "e8e6c88c4d4e87672f327f06de287c4d",
+    "question": "Are the stands filled with fans in this photo of the 1999 NFL season?",
+    "answers": [
+      {
+        "answer": "yes",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "4e13d6f96d479400abde4c6eba6839d3",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "1999 NFL season",
+          "wiki_title": "1999 NFL season",
+          "url": "https://en.wikipedia.org/wiki/1999_NFL_season"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "4e13d6f96d479400abde4c6eba6839d3",
+        "653e7a9347fee024a5ae421735cd4fc7",
+        "3cf59c460286fb52bdcb8df9af52a8c3",
+        "3f69cd396566b100b8245c5e3ddf021d",
+        "1db0c2139d5e219bed565d37ad440859",
+        "9da2aad180f636cd9c41560c20ca7e75",
+        "f8034d3f7b7d4eb7ef6db921dd83d778",
+        "897a4d4f22f34d395e185918fe1954de",
+        "69a9c368c18e08e206793fabe240021a",
+        "a26a3a974c0f04d04db68f0f15f1fa0d",
+        "d19d1da052ddb481b4309b1f043390cd",
+        "7b52760a9627a3eb17cd00a6de2a7a92",
+        "20f55a7a8b3c7c34ed0727b71f24e6e4",
+        "554dbe806142b6a5bbd097b2f2451eea",
+        "2c08f14a07d398234b952339b0de6455"
+      ],
+      "text_doc_ids": [
+        "98297b6715a7ec74068ae8466abfe30b",
+        "da390e678531458c1fff9ddf6fa14437",
+        "bddcd972a47b306c452106d7d2c7189f",
+        "bcbe7e15f09d7c648520de9c4ce220d7",
+        "b0f663c616ca0033fdd47cdc32176d0c",
+        "37f61084cb0d55d8a327abdd060b53d0",
+        "a7f5a9368cefbb12f77b22007e49cdcb",
+        "714776624e9b7cc76c1580fd777b1a02",
+        "b6734d39939da582e694151cb6a992bb",
+        "0d56693a10b71153e374a701dff24f7a"
+      ],
+      "intermediate_answers": [],
+      "table_id": "9f4467eaf1fee88be3a92c04c2e2f06e"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "4e13d6f96d479400abde4c6eba6839d3",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "40187d2928a30df67d95de9a60ebe7ce",
+    "question": "Are the players on the field for this 2001 NFL season game?",
+    "answers": [
+      {
+        "answer": "yes",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "554dbe806142b6a5bbd097b2f2451eea",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "2001 NFL season",
+          "wiki_title": "2001 NFL season",
+          "url": "https://en.wikipedia.org/wiki/2001_NFL_season"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "554dbe806142b6a5bbd097b2f2451eea",
+        "653e7a9347fee024a5ae421735cd4fc7",
+        "3cf59c460286fb52bdcb8df9af52a8c3",
+        "3f69cd396566b100b8245c5e3ddf021d",
+        "1db0c2139d5e219bed565d37ad440859",
+        "4e13d6f96d479400abde4c6eba6839d3",
+        "9da2aad180f636cd9c41560c20ca7e75",
+        "f8034d3f7b7d4eb7ef6db921dd83d778",
+        "897a4d4f22f34d395e185918fe1954de",
+        "69a9c368c18e08e206793fabe240021a",
+        "a26a3a974c0f04d04db68f0f15f1fa0d",
+        "d19d1da052ddb481b4309b1f043390cd",
+        "7b52760a9627a3eb17cd00a6de2a7a92",
+        "20f55a7a8b3c7c34ed0727b71f24e6e4",
+        "2c08f14a07d398234b952339b0de6455"
+      ],
+      "text_doc_ids": [
+        "8fc5698c409ce8089e3af32f2d31dda1",
+        "da390e678531458c1fff9ddf6fa14437",
+        "3c22c26d0267304fc67ed178b42e8492",
+        "c817082da59c01b1ee34ba594f232109",
+        "a8774e817f75795ffc4ce58e275ca269",
+        "d238faf67c8c2ebe470195009a9e20d7",
+        "25dec491e1077735879d19483a128b1f",
+        "714f76dfcf289698d67be2d7ef44687a",
+        "c392e547bd8d09c8a962a6158c8d936e",
+        "b10c38db44b9cac073abf9a660c7f373"
+      ],
+      "intermediate_answers": [],
+      "table_id": "9f4467eaf1fee88be3a92c04c2e2f06e"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "554dbe806142b6a5bbd097b2f2451eea",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "0fb98d5bf1955c3ce782072ebcfec09e",
+    "question": "What weather condition are these players playing in in the 2006 NFL season",
+    "answers": [
+      {
+        "answer": "snow",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "3f69cd396566b100b8245c5e3ddf021d",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "2006 NFL season",
+          "wiki_title": "2006 NFL season",
+          "url": "https://en.wikipedia.org/wiki/2006_NFL_season"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "3f69cd396566b100b8245c5e3ddf021d",
+        "653e7a9347fee024a5ae421735cd4fc7",
+        "3cf59c460286fb52bdcb8df9af52a8c3",
+        "1db0c2139d5e219bed565d37ad440859",
+        "4e13d6f96d479400abde4c6eba6839d3",
+        "9da2aad180f636cd9c41560c20ca7e75",
+        "f8034d3f7b7d4eb7ef6db921dd83d778",
+        "897a4d4f22f34d395e185918fe1954de",
+        "69a9c368c18e08e206793fabe240021a",
+        "a26a3a974c0f04d04db68f0f15f1fa0d",
+        "d19d1da052ddb481b4309b1f043390cd",
+        "7b52760a9627a3eb17cd00a6de2a7a92",
+        "20f55a7a8b3c7c34ed0727b71f24e6e4",
+        "554dbe806142b6a5bbd097b2f2451eea",
+        "2c08f14a07d398234b952339b0de6455"
+      ],
+      "text_doc_ids": [
+        "23c842e1b5406c4809b7b66c1963b1f0",
+        "8f1dcf7a177054b31adf9f569c62edaa",
+        "d4670e3af5dc4cfe3854b50c1bf562ae",
+        "39baee21f5a2b5ee2355f97dd66c52b8",
+        "cfbe126dcf473a7ec0e94178a2330b65",
+        "acdada9d4d62bf965c5cef9eb2c2a29d",
+        "0e056ba75a428dfedfde64c89404e0fc",
+        "e6100bf99b4d64ec6ecfdae4e1660723",
+        "0f4c270e8d01b3ac84afa2ddfc4fd086",
+        "6e4b87e6e373cc11e7da893b7a69ae9b"
+      ],
+      "intermediate_answers": [],
+      "table_id": "9f4467eaf1fee88be3a92c04c2e2f06e"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "3f69cd396566b100b8245c5e3ddf021d",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "aefb66afd4a264f5c6233e37c5670c4c",
+    "question": "Does the team in the light or dark tops have the ball currently in this picture from the 2007–08 NFL playoffs?",
+    "answers": [
+      {
+        "answer": "dark",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "da47909760526725e7ec149769211ef0",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "2007–08 NFL playoffs",
+          "wiki_title": "2007–08 NFL playoffs",
+          "url": "https://en.wikipedia.org/wiki/2007–08_NFL_playoffs"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "da47909760526725e7ec149769211ef0",
+        "c8cd6787b15226c9b0165899c4d7e45c",
+        "00a42b856e481580689927e49a29a0f8",
+        "65faa5096d62044a38da4855b6048391",
+        "427b0cc009e0d20afefa860a347bedc5",
+        "8ee9468acd55d9efacfb16bcadc12c79",
+        "6224d032dab7f8046e0ad62632d9f95d",
+        "3323dc9b1368af7794da171065e843c6",
+        "01188be5b7197aebbcede85eab1f9c9e",
+        "eb3572a43a93f1ccd23aa9fc89de3f56",
+        "22eae0b8b32fb55d984ed930b87b613e",
+        "072746eebbf8ae2b97be30ff2d9b4f82",
+        "575ac72f96aafe5e2d875ea2cad7be7a",
+        "f55da5fa1526abd4e21af9f7db62782d",
+        "cc20d2c535c706acc697953e73a511ee"
+      ],
+      "text_doc_ids": [
+        "aba398be3a1cd376f288e438c2887f4e",
+        "d21a2d370b0ea825f2e1746768e5b3b0",
+        "c17d276288771567757cbb0abca3663f",
+        "a237bb98a1f6aa9b721f0d3c5fef3a8f",
+        "5db6ffce59f74408de9f56def13406ca",
+        "7495ee4ca185e9fcf67685f0daaf24df",
+        "e1c872f6bd470d2604a6aa1561bf993e",
+        "ffb9ae68b00f03b88f2a481b3ce48c2e",
+        "08b87fd0d9bda1133c64289c1d0fe2c4",
+        "d9e61efd5fb14f5d62fbdbfddf8f16fe"
+      ],
+      "intermediate_answers": [],
+      "table_id": "d275e3a75a0d0b4f3eda0770646bdb56"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "da47909760526725e7ec149769211ef0",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "0bb737f2e2c759ab53a13d073d87163e",
+    "question": "Were any games in the 2006 NFL season played in the snow?",
+    "answers": [
+      {
+        "answer": "yes",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "3f69cd396566b100b8245c5e3ddf021d",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "2006 NFL season",
+          "wiki_title": "2006 NFL season",
+          "url": "https://en.wikipedia.org/wiki/2006_NFL_season"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "3f69cd396566b100b8245c5e3ddf021d",
+        "fa414ac2db6b3677d27325e5f184b8e3",
+        "194c57196f762e916c790469e5b0abba",
+        "4b66fb1ee0dfa96b1a11864c73a75b72",
+        "02a7a0374b133dec9a2c3f831773de7a",
+        "538b7e06a567551ba6e7180a9417a899",
+        "653e7a9347fee024a5ae421735cd4fc7",
+        "3cf59c460286fb52bdcb8df9af52a8c3",
+        "d0baf1b5366fec101e78a18c4c1d8d3d",
+        "a26a3a974c0f04d04db68f0f15f1fa0d",
+        "fd385f1c637cb25ff589071667b795ae",
+        "d19d1da052ddb481b4309b1f043390cd",
+        "20f55a7a8b3c7c34ed0727b71f24e6e4",
+        "58b9783c6ca65b1e9c30c60a115cb542",
+        "2c08f14a07d398234b952339b0de6455"
+      ],
+      "text_doc_ids": [
+        "2455ff3f0f99b066829a81b3fb188201",
+        "0e056ba75a428dfedfde64c89404e0fc",
+        "c71f8e744a2fac23cab493b818be71b2",
+        "6e4b87e6e373cc11e7da893b7a69ae9b",
+        "e6100bf99b4d64ec6ecfdae4e1660723",
+        "53516171e51964dc8f066218ecd65c5f",
+        "cfbe126dcf473a7ec0e94178a2330b65",
+        "d4670e3af5dc4cfe3854b50c1bf562ae",
+        "bcf8e49aa7c6432fb4dd78d15047495c",
+        "8f1dcf7a177054b31adf9f569c62edaa"
+      ],
+      "intermediate_answers": [],
+      "table_id": "229272ac91d83683af213312a908659a"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "3f69cd396566b100b8245c5e3ddf021d",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "4551a3e1117e77343ad259e3e9b0a1ed",
+    "question": "What color are the seats in the lower half of the stands in this photo of the 2001 NFL season?",
+    "answers": [
+      {
+        "answer": "blue",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "554dbe806142b6a5bbd097b2f2451eea",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "2001 NFL season",
+          "wiki_title": "2001 NFL season",
+          "url": "https://en.wikipedia.org/wiki/2001_NFL_season"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "554dbe806142b6a5bbd097b2f2451eea",
+        "e6e05aff07817eb184bde19fce824c2d",
+        "3cf59c460286fb52bdcb8df9af52a8c3",
+        "4e13d6f96d479400abde4c6eba6839d3",
+        "1c3782542fa5f0bcd8996349f576c93d",
+        "83731b5fe3c5f5cc6330d96538ee79e6",
+        "f8c2868b7df9032c5484f59e20952dde",
+        "2ce6c1696bc163f5d6b0ece349f432ae",
+        "a26a3a974c0f04d04db68f0f15f1fa0d",
+        "7b52760a9627a3eb17cd00a6de2a7a92",
+        "758de949b51be3184db33d25b3d91ab6",
+        "690adee0947e4c3e6a076b998a1fcd8a",
+        "1b8779a86e035785e9d5c59acbb5f6fb",
+        "ea72f0dda6e6901f3746da7c5cf37fcc",
+        "06577ef529667b81c518a1e58dc28019"
+      ],
+      "text_doc_ids": [
+        "da390e678531458c1fff9ddf6fa14437",
+        "2f9d553e401bdac317aa559468f01bfd",
+        "bcbe7e15f09d7c648520de9c4ce220d7",
+        "310c7a0428ebed9de65ebd2adb5006fe",
+        "aff05e5a71c771d62f300abb0e1480b7",
+        "494d9b5b96f60cb4a7ec91286f76f7cf",
+        "b6734d39939da582e694151cb6a992bb",
+        "febdd53bf328429ea1da61539470aedc",
+        "85a1b20bcca740bfd1a1150939a6c956",
+        "d6321739ba059938b2277a9d3604250b"
+      ],
+      "intermediate_answers": [],
+      "table_id": "1deccbed9b45dd34ace2ad20b5c872cb"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "554dbe806142b6a5bbd097b2f2451eea",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "e2bb594c281f04ac40d737753313db4d",
+    "question": "What does this player from the 2013 NFL season have on his right arm?",
+    "answers": [
+      {
+        "answer": "tattoo",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "194c57196f762e916c790469e5b0abba",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "2013 NFL season",
+          "wiki_title": "2013 NFL season",
+          "url": "https://en.wikipedia.org/wiki/2013_NFL_season"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "194c57196f762e916c790469e5b0abba",
+        "68c698a2756a4faa4567deaab6b602eb",
+        "4b66fb1ee0dfa96b1a11864c73a75b72",
+        "6bc707beaac79c809eaea13328472f45",
+        "57a85e96c4608c5f90deb5ff7c7596cf",
+        "fd385f1c637cb25ff589071667b795ae",
+        "1c7e8ec5983003dacd256feebd809d98"
+      ],
+      "text_doc_ids": [
+        "408c33964a8fa47e22bfcf51f51594fe",
+        "765f5e662aa4f4bb52e6af68a9fd13b4",
+        "2e84bcd10dafbd093329932669ad5b48",
+        "21668312b78b3c332c0d92a2e7efadcf",
+        "a5dd1c6e1b3d433ea74ba6e2275a7e0b",
+        "a2440a1991b6d507dd664f4c04a83d7a",
+        "d1757f7fcd69dd6b7ba1d7ed4066f254",
+        "f5f7cb62937129f78a1c4bd7c8449e05",
+        "76fb3a468f7a5c66e246d3eefa519c5d",
+        "668e8856e1c3e99565a5258c6478b183"
+      ],
+      "intermediate_answers": [],
+      "table_id": "ea495d650ef81283a5302ace1808de84"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "194c57196f762e916c790469e5b0abba",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "a91dba0a7b82d6673a101d0e6cbf2d1d",
+    "question": "Did this man wear a tie during the 2016 NFL season?",
+    "answers": [
+      {
+        "answer": "yes",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "1c7e8ec5983003dacd256feebd809d98",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "2016 NFL season",
+          "wiki_title": "2016 NFL season",
+          "url": "https://en.wikipedia.org/wiki/2016_NFL_season"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "1c7e8ec5983003dacd256feebd809d98",
+        "194c57196f762e916c790469e5b0abba",
+        "68c698a2756a4faa4567deaab6b602eb",
+        "4b66fb1ee0dfa96b1a11864c73a75b72",
+        "6bc707beaac79c809eaea13328472f45",
+        "57a85e96c4608c5f90deb5ff7c7596cf",
+        "fd385f1c637cb25ff589071667b795ae"
+      ],
+      "text_doc_ids": [
+        "a1ce4d668f257db7dcefc1f22d228ab9",
+        "b49772075c512b813020659b741bebbf",
+        "d5cb52fed45c77ce86454253c3e7ac1f",
+        "6f50931ca1f4f13d76e92d4057907856",
+        "5a4c2efb9d8dfe642f71e446be4e62b4",
+        "63fdbd5135139439ba869fc71b5283e1",
+        "9dc14b12753109888e3b899a547464f8",
+        "7a322cc2290b9fc6b6b1aa34ddd46c3a",
+        "8510e89a8b8bc667e9cf4fe84a544e4f",
+        "afde3d75043b3252f6de464a10036a02"
+      ],
+      "intermediate_answers": [],
+      "table_id": "ea495d650ef81283a5302ace1808de84"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "1c7e8ec5983003dacd256feebd809d98",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "3945bc75fcc95f4b48ae2ecaf6ac8cd1",
+    "question": "Are the stands completely filled with fans in this photo of the 1999 NFL season?",
+    "answers": [
+      {
+        "answer": "yes",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "4e13d6f96d479400abde4c6eba6839d3",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "1999 NFL season",
+          "wiki_title": "1999 NFL season",
+          "url": "https://en.wikipedia.org/wiki/1999_NFL_season"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "4e13d6f96d479400abde4c6eba6839d3",
+        "e6e05aff07817eb184bde19fce824c2d",
+        "653e7a9347fee024a5ae421735cd4fc7",
+        "3cf59c460286fb52bdcb8df9af52a8c3",
+        "3f69cd396566b100b8245c5e3ddf021d",
+        "5dfd01788a6d4cdbcc3a3c1b39ee08a3",
+        "1c3782542fa5f0bcd8996349f576c93d",
+        "2c08f14a07d398234b952339b0de6455",
+        "897a4d4f22f34d395e185918fe1954de",
+        "69a9c368c18e08e206793fabe240021a",
+        "a26a3a974c0f04d04db68f0f15f1fa0d",
+        "7b52760a9627a3eb17cd00a6de2a7a92",
+        "20f55a7a8b3c7c34ed0727b71f24e6e4",
+        "554dbe806142b6a5bbd097b2f2451eea",
+        "bb303804914b2df3c16bfa782c5333da"
+      ],
+      "text_doc_ids": [
+        "a7f5a9368cefbb12f77b22007e49cdcb",
+        "bddcd972a47b306c452106d7d2c7189f",
+        "b6734d39939da582e694151cb6a992bb",
+        "da390e678531458c1fff9ddf6fa14437",
+        "98297b6715a7ec74068ae8466abfe30b",
+        "acca56303d86f4b047299c4a40ebba11",
+        "81f76ed656eed79b37e884b892313a2f",
+        "35fbf834cf997d9664550a368cb98f18",
+        "0d56693a10b71153e374a701dff24f7a",
+        "bcbe7e15f09d7c648520de9c4ce220d7"
+      ],
+      "intermediate_answers": [],
+      "table_id": "1cb093188ab8e484d40ef7e1dd42cb41"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "4e13d6f96d479400abde4c6eba6839d3",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "497d9c523d65db9035a6f819137b91ef",
+    "question": "Are there fans in the stands in this photo from the 2001 NFL season",
+    "answers": [
+      {
+        "answer": "yes",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "554dbe806142b6a5bbd097b2f2451eea",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "2001 NFL season",
+          "wiki_title": "2001 NFL season",
+          "url": "https://en.wikipedia.org/wiki/2001_NFL_season"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "554dbe806142b6a5bbd097b2f2451eea",
+        "e6e05aff07817eb184bde19fce824c2d",
+        "653e7a9347fee024a5ae421735cd4fc7",
+        "3cf59c460286fb52bdcb8df9af52a8c3",
+        "3f69cd396566b100b8245c5e3ddf021d",
+        "5dfd01788a6d4cdbcc3a3c1b39ee08a3",
+        "4e13d6f96d479400abde4c6eba6839d3",
+        "1c3782542fa5f0bcd8996349f576c93d",
+        "897a4d4f22f34d395e185918fe1954de",
+        "69a9c368c18e08e206793fabe240021a",
+        "a26a3a974c0f04d04db68f0f15f1fa0d",
+        "7b52760a9627a3eb17cd00a6de2a7a92",
+        "20f55a7a8b3c7c34ed0727b71f24e6e4",
+        "2c08f14a07d398234b952339b0de6455",
+        "bb303804914b2df3c16bfa782c5333da"
+      ],
+      "text_doc_ids": [
+        "85a1b20bcca740bfd1a1150939a6c956",
+        "da390e678531458c1fff9ddf6fa14437",
+        "494d9b5b96f60cb4a7ec91286f76f7cf",
+        "310c7a0428ebed9de65ebd2adb5006fe",
+        "f82d90cbfe26f1a7546505cb92d263f5",
+        "442cc1c07c3abc03015f3b6c9114a479",
+        "a7f5a9368cefbb12f77b22007e49cdcb",
+        "b6734d39939da582e694151cb6a992bb",
+        "f7ae2a60685401ea9ab96f24f4f753d5",
+        "697ba00a8eabfdb22682f2d1ab318a3f"
+      ],
+      "intermediate_answers": [],
+      "table_id": "1cb093188ab8e484d40ef7e1dd42cb41"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "554dbe806142b6a5bbd097b2f2451eea",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "60b9806e429b11948b10d30a00fe8ede",
+    "question": "What are the players looking down at in this photo of the 2002 NFL season?",
+    "answers": [
+      {
+        "answer": "coin",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "7b52760a9627a3eb17cd00a6de2a7a92",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "2002 NFL season",
+          "wiki_title": "2002 NFL season",
+          "url": "https://en.wikipedia.org/wiki/2002_NFL_season"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "7b52760a9627a3eb17cd00a6de2a7a92",
+        "e6e05aff07817eb184bde19fce824c2d",
+        "653e7a9347fee024a5ae421735cd4fc7",
+        "3cf59c460286fb52bdcb8df9af52a8c3",
+        "3f69cd396566b100b8245c5e3ddf021d",
+        "4e13d6f96d479400abde4c6eba6839d3",
+        "1c3782542fa5f0bcd8996349f576c93d",
+        "2c08f14a07d398234b952339b0de6455",
+        "897a4d4f22f34d395e185918fe1954de",
+        "69a9c368c18e08e206793fabe240021a",
+        "a26a3a974c0f04d04db68f0f15f1fa0d",
+        "20f55a7a8b3c7c34ed0727b71f24e6e4",
+        "5dfd01788a6d4cdbcc3a3c1b39ee08a3",
+        "554dbe806142b6a5bbd097b2f2451eea",
+        "bb303804914b2df3c16bfa782c5333da"
+      ],
+      "text_doc_ids": [
+        "f86c1ff0393bc22cf0881cd12da43151",
+        "bcbe7e15f09d7c648520de9c4ce220d7",
+        "55c5e257e460a092312b95e008071df7",
+        "f7ae2a60685401ea9ab96f24f4f753d5",
+        "d6321739ba059938b2277a9d3604250b",
+        "310c7a0428ebed9de65ebd2adb5006fe",
+        "2bf36e4c2f3b07fc2c750959a879c47a",
+        "d20efe420cef2e9dfba27ab8a9954e52",
+        "b6734d39939da582e694151cb6a992bb",
+        "697312af38394a247eb700793ddf09fa"
+      ],
+      "intermediate_answers": [],
+      "table_id": "1cb093188ab8e484d40ef7e1dd42cb41"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "7b52760a9627a3eb17cd00a6de2a7a92",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "b16098b5465331f10b2103fa77c684d2",
+    "question": "How many peolple are shown here in this picture for the 2003 NFL season?",
+    "answers": [
+      {
+        "answer": "three",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "a26a3a974c0f04d04db68f0f15f1fa0d",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "2003 NFL season",
+          "wiki_title": "2003 NFL season",
+          "url": "https://en.wikipedia.org/wiki/2003_NFL_season"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "a26a3a974c0f04d04db68f0f15f1fa0d",
+        "e6e05aff07817eb184bde19fce824c2d",
+        "653e7a9347fee024a5ae421735cd4fc7",
+        "3cf59c460286fb52bdcb8df9af52a8c3",
+        "3f69cd396566b100b8245c5e3ddf021d",
+        "5dfd01788a6d4cdbcc3a3c1b39ee08a3",
+        "4e13d6f96d479400abde4c6eba6839d3",
+        "1c3782542fa5f0bcd8996349f576c93d",
+        "2c08f14a07d398234b952339b0de6455",
+        "897a4d4f22f34d395e185918fe1954de",
+        "69a9c368c18e08e206793fabe240021a",
+        "7b52760a9627a3eb17cd00a6de2a7a92",
+        "20f55a7a8b3c7c34ed0727b71f24e6e4",
+        "554dbe806142b6a5bbd097b2f2451eea",
+        "bb303804914b2df3c16bfa782c5333da"
+      ],
+      "text_doc_ids": [
+        "38dd834eb9c85153b76896d4b2ebf4fb",
+        "65b0b79ba6ef65dec447f25a8694f512",
+        "9b3f2a3a3912f98944a851b8c1af5f05",
+        "c817082da59c01b1ee34ba594f232109",
+        "26c45edfd68a7edec42ffe3bef73ee0a",
+        "b8442a322397937f1dce50aae09bc332",
+        "93816495c6935542bb8c4a13043e9a92",
+        "ce2b434733d8b87e5c3ac8de5337192b",
+        "98b486451ba3d285e73777f4691c6573",
+        "830c7fc1e318575701522b8f6b242d21"
+      ],
+      "intermediate_answers": [],
+      "table_id": "1cb093188ab8e484d40ef7e1dd42cb41"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "a26a3a974c0f04d04db68f0f15f1fa0d",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "23bbb59230fd49336d404549a5174143",
+    "question": "What is covering the ground of the 2006 NFL season?",
+    "answers": [
+      {
+        "answer": "snow",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "3f69cd396566b100b8245c5e3ddf021d",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "2006 NFL season",
+          "wiki_title": "2006 NFL season",
+          "url": "https://en.wikipedia.org/wiki/2006_NFL_season"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "3f69cd396566b100b8245c5e3ddf021d",
+        "e6e05aff07817eb184bde19fce824c2d",
+        "653e7a9347fee024a5ae421735cd4fc7",
+        "3cf59c460286fb52bdcb8df9af52a8c3",
+        "5dfd01788a6d4cdbcc3a3c1b39ee08a3",
+        "4e13d6f96d479400abde4c6eba6839d3",
+        "1c3782542fa5f0bcd8996349f576c93d",
+        "2c08f14a07d398234b952339b0de6455",
+        "897a4d4f22f34d395e185918fe1954de",
+        "69a9c368c18e08e206793fabe240021a",
+        "a26a3a974c0f04d04db68f0f15f1fa0d",
+        "7b52760a9627a3eb17cd00a6de2a7a92",
+        "20f55a7a8b3c7c34ed0727b71f24e6e4",
+        "554dbe806142b6a5bbd097b2f2451eea",
+        "bb303804914b2df3c16bfa782c5333da"
+      ],
+      "text_doc_ids": [
+        "f37df424b6b6b581284b7ed657eb17b3",
+        "3fd63348cb9ec1b3137979f07f59aa77",
+        "0e056ba75a428dfedfde64c89404e0fc",
+        "6e4b87e6e373cc11e7da893b7a69ae9b",
+        "dc91b0680089d9d256313b881779904e",
+        "8f1dcf7a177054b31adf9f569c62edaa",
+        "84101334ccac915480728236214be4af",
+        "d4670e3af5dc4cfe3854b50c1bf562ae",
+        "493d068ea81556ebb116e0b43a535a5f",
+        "ebf479e8a01481f1c5f1af3793869c72"
+      ],
+      "intermediate_answers": [],
+      "table_id": "1cb093188ab8e484d40ef7e1dd42cb41"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "3f69cd396566b100b8245c5e3ddf021d",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "00b88882f728077319185575dd54acf2",
+    "question": "How many people are in this booth announcing for the 2008 NFL season?",
+    "answers": [
+      {
+        "answer": "five",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "653e7a9347fee024a5ae421735cd4fc7",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "2008 NFL season",
+          "wiki_title": "2008 NFL season",
+          "url": "https://en.wikipedia.org/wiki/2008_NFL_season"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "653e7a9347fee024a5ae421735cd4fc7",
+        "e6e05aff07817eb184bde19fce824c2d",
+        "3cf59c460286fb52bdcb8df9af52a8c3",
+        "3f69cd396566b100b8245c5e3ddf021d",
+        "5dfd01788a6d4cdbcc3a3c1b39ee08a3",
+        "4e13d6f96d479400abde4c6eba6839d3",
+        "1c3782542fa5f0bcd8996349f576c93d",
+        "2c08f14a07d398234b952339b0de6455",
+        "897a4d4f22f34d395e185918fe1954de",
+        "69a9c368c18e08e206793fabe240021a",
+        "a26a3a974c0f04d04db68f0f15f1fa0d",
+        "7b52760a9627a3eb17cd00a6de2a7a92",
+        "20f55a7a8b3c7c34ed0727b71f24e6e4",
+        "554dbe806142b6a5bbd097b2f2451eea",
+        "bb303804914b2df3c16bfa782c5333da"
+      ],
+      "text_doc_ids": [
+        "83161b96385725fd9b82b5458fd57eb3",
+        "a116a5fd987c5fba84a3f57774ddf0a2",
+        "c6ede4980fdc1a0505c6e4e066d421be",
+        "7e03eccdbcbf0b764d92ab974361c6ac",
+        "6d1e90747be2daa04a21243d82ff4f3b",
+        "8d0241ed3de16051292f5735dff45126",
+        "65fc7bd0c8f8adf2364108c2b62069ae",
+        "8a8a6709fa1ed023eccb229b592568a9",
+        "35b502d5c6026bffadb776fee295649b",
+        "5279bffbec2fe540a975d48820adad1a"
+      ],
+      "intermediate_answers": [],
+      "table_id": "1cb093188ab8e484d40ef7e1dd42cb41"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "653e7a9347fee024a5ae421735cd4fc7",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "093311c2df321bd427fd96d54a762786",
+    "question": "What color is the tall pole on the side of the field during this 2001 NFL season game?",
+    "answers": [
+      {
+        "answer": "yellow",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "554dbe806142b6a5bbd097b2f2451eea",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "2001 NFL season",
+          "wiki_title": "2001 NFL season",
+          "url": "https://en.wikipedia.org/wiki/2001_NFL_season"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "554dbe806142b6a5bbd097b2f2451eea",
+        "653e7a9347fee024a5ae421735cd4fc7",
+        "3cf59c460286fb52bdcb8df9af52a8c3",
+        "3f69cd396566b100b8245c5e3ddf021d",
+        "3323dc9b1368af7794da171065e843c6",
+        "a26a3a974c0f04d04db68f0f15f1fa0d",
+        "6f460871c56085043acfa14ddb75a342",
+        "20f55a7a8b3c7c34ed0727b71f24e6e4",
+        "7b52760a9627a3eb17cd00a6de2a7a92",
+        "2c08f14a07d398234b952339b0de6455"
+      ],
+      "text_doc_ids": [
+        "310c7a0428ebed9de65ebd2adb5006fe",
+        "60b773c008a1579d98aaa3701329620b",
+        "47e52ef05d6c1930102c49bc46e4d8e8",
+        "0d50ca5b6a3fae13fc733687d9f7c03c",
+        "70dd001cdbd6c175c14c17d6e5fb2907",
+        "22d35d1769927837708656c619b0b556",
+        "ce2b434733d8b87e5c3ac8de5337192b",
+        "5b1871f4e3b480b7183687e8e906bca3",
+        "ffb9ae68b00f03b88f2a481b3ce48c2e",
+        "8fc5698c409ce8089e3af32f2d31dda1"
+      ],
+      "intermediate_answers": [],
+      "table_id": "bf1e929838c379952963251dc329dc46"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "554dbe806142b6a5bbd097b2f2451eea",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "f8dfaff72239a6ce81fe92fbe18822b2",
+    "question": "How many players are on the picture from 2002 NFL season?",
+    "answers": [
+      {
+        "answer": "five",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "7b52760a9627a3eb17cd00a6de2a7a92",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "2002 NFL season",
+          "wiki_title": "2002 NFL season",
+          "url": "https://en.wikipedia.org/wiki/2002_NFL_season"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "7b52760a9627a3eb17cd00a6de2a7a92",
+        "653e7a9347fee024a5ae421735cd4fc7",
+        "3cf59c460286fb52bdcb8df9af52a8c3",
+        "3f69cd396566b100b8245c5e3ddf021d",
+        "3323dc9b1368af7794da171065e843c6",
+        "a26a3a974c0f04d04db68f0f15f1fa0d",
+        "6f460871c56085043acfa14ddb75a342",
+        "20f55a7a8b3c7c34ed0727b71f24e6e4",
+        "554dbe806142b6a5bbd097b2f2451eea",
+        "2c08f14a07d398234b952339b0de6455"
+      ],
+      "text_doc_ids": [
+        "26c45edfd68a7edec42ffe3bef73ee0a",
+        "310c7a0428ebed9de65ebd2adb5006fe",
+        "6085549a0ee19141cc29be64b554c38c",
+        "de85acd0e2f455a3f93c82fca3fc4f67",
+        "354d626ab0ef98a06bcffef5420d876e",
+        "32234c0f1987403db366bdd2eb9e90f1",
+        "0452ff1ac22cfa89194282e3d6eb61dc",
+        "91001c96b46c5e66d5adfb2a6fbf61c4",
+        "2a4402491286d9681830034f86783174",
+        "c817082da59c01b1ee34ba594f232109"
+      ],
+      "intermediate_answers": [],
+      "table_id": "bf1e929838c379952963251dc329dc46"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "7b52760a9627a3eb17cd00a6de2a7a92",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "efc8a9c5734d82ab1d9e1c3483a8382d",
+    "question": "Is the dome on this 2005 NFL season stadium fully painted and maintained?",
+    "answers": [
+      {
+        "answer": "no",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "20f55a7a8b3c7c34ed0727b71f24e6e4",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "2005 NFL season",
+          "wiki_title": "2005 NFL season",
+          "url": "https://en.wikipedia.org/wiki/2005_NFL_season"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "20f55a7a8b3c7c34ed0727b71f24e6e4",
+        "653e7a9347fee024a5ae421735cd4fc7",
+        "3cf59c460286fb52bdcb8df9af52a8c3",
+        "3f69cd396566b100b8245c5e3ddf021d",
+        "3323dc9b1368af7794da171065e843c6",
+        "a26a3a974c0f04d04db68f0f15f1fa0d",
+        "6f460871c56085043acfa14ddb75a342",
+        "7b52760a9627a3eb17cd00a6de2a7a92",
+        "554dbe806142b6a5bbd097b2f2451eea",
+        "2c08f14a07d398234b952339b0de6455"
+      ],
+      "text_doc_ids": [
+        "84101334ccac915480728236214be4af",
+        "e2f472e852897d1767eb8df406998cdb",
+        "498522f189af0d4b4d436b5e2c9820e0",
+        "5736b68588275c1fe79879ec31fc208f",
+        "776528cfe65ca87bc8641500aed8e79d",
+        "7bfabedcd61857a9d1ad28329390437a",
+        "8f2ea74c7c2da113ecb95df6e1e972bc",
+        "e0212a079e131d03b0bacb42088cdd39",
+        "11d2f3bb0484f93d210e9244d3ff097d",
+        "fb2af3a82950770c72ca735874895496"
+      ],
+      "intermediate_answers": [],
+      "table_id": "bf1e929838c379952963251dc329dc46"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "20f55a7a8b3c7c34ed0727b71f24e6e4",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "5c25ab1c44f350db8bf51e9be1e74067",
+    "question": "What sport is played during the 2007 NFL season ?",
+    "answers": [
+      {
+        "answer": "football",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "2c08f14a07d398234b952339b0de6455",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "2007 NFL season",
+          "wiki_title": "2007 NFL season",
+          "url": "https://en.wikipedia.org/wiki/2007_NFL_season"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "2c08f14a07d398234b952339b0de6455",
+        "653e7a9347fee024a5ae421735cd4fc7",
+        "3cf59c460286fb52bdcb8df9af52a8c3",
+        "3f69cd396566b100b8245c5e3ddf021d",
+        "3323dc9b1368af7794da171065e843c6",
+        "a26a3a974c0f04d04db68f0f15f1fa0d",
+        "6f460871c56085043acfa14ddb75a342",
+        "20f55a7a8b3c7c34ed0727b71f24e6e4",
+        "7b52760a9627a3eb17cd00a6de2a7a92",
+        "554dbe806142b6a5bbd097b2f2451eea"
+      ],
+      "text_doc_ids": [
+        "607bb4300b8b095272c812a502a79f1e",
+        "7de59c5124973147949b7b9c9c550b64",
+        "a56125e2dbf2682f2ccdf60e37f12280",
+        "605427edc2fb2557ab78e11756ddb410",
+        "fe664877ac78c2aa2a58ceb1b5c2be90",
+        "6e8fff7d3f44149efbb90ef699d364ff",
+        "6e4b87e6e373cc11e7da893b7a69ae9b",
+        "a9c50fef761c7d1eecabce3966162b71",
+        "3a569b6cd9f537897d88eb0160d8911a",
+        "0935ce7b3f2e0f0ba37bcc2de85144e6"
+      ],
+      "intermediate_answers": [],
+      "table_id": "bf1e929838c379952963251dc329dc46"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "2c08f14a07d398234b952339b0de6455",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "1faf0a35e6cafbf03fcc93c14355df8b",
+    "question": "What are the announcers wearing over their ears in this photo from the 2008 NFL season?",
+    "answers": [
+      {
+        "answer": "headphones",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "653e7a9347fee024a5ae421735cd4fc7",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "2008 NFL season",
+          "wiki_title": "2008 NFL season",
+          "url": "https://en.wikipedia.org/wiki/2008_NFL_season"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "653e7a9347fee024a5ae421735cd4fc7",
+        "3cf59c460286fb52bdcb8df9af52a8c3",
+        "3f69cd396566b100b8245c5e3ddf021d",
+        "3323dc9b1368af7794da171065e843c6",
+        "a26a3a974c0f04d04db68f0f15f1fa0d",
+        "6f460871c56085043acfa14ddb75a342",
+        "20f55a7a8b3c7c34ed0727b71f24e6e4",
+        "7b52760a9627a3eb17cd00a6de2a7a92",
+        "554dbe806142b6a5bbd097b2f2451eea",
+        "2c08f14a07d398234b952339b0de6455"
+      ],
+      "text_doc_ids": [
+        "5279bffbec2fe540a975d48820adad1a",
+        "0c1abf682054f43880b3285eac168063",
+        "413c0001817204a5d9f7fcfc10509028",
+        "c6ede4980fdc1a0505c6e4e066d421be",
+        "65fc7bd0c8f8adf2364108c2b62069ae",
+        "24f32f6684da71051fcdffcfab6dd1d8",
+        "a343fc411270dc4dbb275aeeabd05f27",
+        "8d0241ed3de16051292f5735dff45126",
+        "a7f5a9368cefbb12f77b22007e49cdcb",
+        "47374995a9dc70f9269b508d56fdb624"
+      ],
+      "intermediate_answers": [],
+      "table_id": "bf1e929838c379952963251dc329dc46"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "653e7a9347fee024a5ae421735cd4fc7",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "c9f99ee4a0e4b8ce6324584cfe95737b",
+    "question": "Where is the blue and red NFL logo placed on the 2017 New York Jets season jerseys?",
+    "answers": [
+      {
+        "answer": "collar",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "2a323fda998fdfbb96a5f17e68580e2e",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "2017 New York Jets season",
+          "wiki_title": "2017 New York Jets season",
+          "url": "https://en.wikipedia.org/wiki/2017_New_York_Jets_season"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "2a323fda998fdfbb96a5f17e68580e2e",
+        "68c698a2756a4faa4567deaab6b602eb",
+        "ad45e7baaaeddb2ef3fa06c311a6390e",
+        "e021dce492fbbcf02340e0778c0c6213",
+        "f746565eeb0e4fd2b52c7666cb07ec3e",
+        "1c3d749cfe8b4d5cda44f88eedaced4e",
+        "eb427ad673a778c8d2ba2df2969aa52d",
+        "389d2573f9df1db7f8fcf7d028bcc33c",
+        "9511f67bd4fd4873492c0cd7ae23f10c",
+        "5e994d685e7bde8bea6edbce9c5c45cc",
+        "2ba0d52e1c722e679de4a0bd9c660e33",
+        "0af43d695e0fa436b1c1dfc150d48182",
+        "e1be2843a921004e3ea510d8f9037e7b",
+        "a8f95f8f1db8f37754ded180a22b4438",
+        "f763a897f80e3339efa5bedadc01b985"
+      ],
+      "text_doc_ids": [
+        "f504099def70f5e0878f0e2d2c8b09dc",
+        "05840fda7957fc2b6fe4514fb4704a3f",
+        "3e256abc23cab75e51ef31e1af444915",
+        "a95ab7b4e8cf9646d230518634305aa0",
+        "1ac8c93c3c78b080dd79b379c8447386",
+        "174de79962996ed2501c83ccfa660b7d",
+        "9b289f4b9ca3394e4c53c60dcf8072de",
+        "caf68cdaff0b984201283413fa2aa008",
+        "849058702fd6241db0eb6091f15618ba",
+        "81fcf685547c4d379d7641d24fed806d"
+      ],
+      "intermediate_answers": [],
+      "table_id": "c0a1fd892ba5b4cd1a97a265ca1716a5"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "2a323fda998fdfbb96a5f17e68580e2e",
+        "doc_part": "image"
+      }
+    ]
+  },
+  {
+    "qid": "46517f93e4a4a9d3d612040dd8ac0f5c",
+    "question": "How many referees are on the field in this image from the 2007-08 NFL playoffs?",
+    "answers": [
+      {
+        "answer": "two",
+        "type": "string",
+        "modality": "image",
+        "text_instances": [],
+        "table_indices": [],
+        "image_instances": [
+          {
+            "doc_id": "da47909760526725e7ec149769211ef0",
+            "doc_part": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "type": "ImageQ",
+      "modalities": [
+        "image"
+      ],
+      "wiki_entities_in_question": [
+        {
+          "text": "2007-08 NFL playoffs",
+          "wiki_title": "2007–08 NFL playoffs",
+          "url": "https://en.wikipedia.org/wiki/2007–08_NFL_playoffs"
+        }
+      ],
+      "wiki_entities_in_answers": [],
+      "image_doc_ids": [
+        "da47909760526725e7ec149769211ef0",
+        "bdafd7303ca28428e458e8d79a9894ef",
+        "6224d032dab7f8046e0ad62632d9f95d",
+        "575ac72f96aafe5e2d875ea2cad7be7a",
+        "00a42b856e481580689927e49a29a0f8",
+        "01188be5b7197aebbcede85eab1f9c9e",
+        "cd5f01fd877f579b79e39c7ce2823de0",
+        "cc20d2c535c706acc697953e73a511ee",
+        "072746eebbf8ae2b97be30ff2d9b4f82",
+        "b9330042886b02afefbc254f59eb3dc2",
+        "65faa5096d62044a38da4855b6048391",
+        "c8cd6787b15226c9b0165899c4d7e45c",
+        "f55da5fa1526abd4e21af9f7db62782d"
+      ],
+      "text_doc_ids": [
+        "d6df2fc83786ff4c98082f78df2f4084",
+        "8d0241ed3de16051292f5735dff45126",
+        "fe664877ac78c2aa2a58ceb1b5c2be90",
+        "5efd3f6a93914b2330aca216e957d237",
+        "ebf479e8a01481f1c5f1af3793869c72",
+        "93816495c6935542bb8c4a13043e9a92",
+        "aa1c515a3703d2fee5a371badc7be642",
+        "6a5baa22caedc0bd25d26765c5bb6ecf",
+        "65fc7bd0c8f8adf2364108c2b62069ae",
+        "d1cb3ea9524880be2420e8cc794af8b7"
+      ],
+      "intermediate_answers": [],
+      "table_id": "7b41c110d9e4ae44f56d567b0dffa805"
+    },
+    "supporting_context": [
+      {
+        "doc_id": "da47909760526725e7ec149769211ef0",
+        "doc_part": "image"
+      }
+    ]
+  }
+]
