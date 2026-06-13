@@ -212,7 +212,7 @@ class MMPoisonRAG:
             question = (
                 f"Pay attention to the retrieved images and respond to the question: {question}\nAnswer the question using a single word or phrase."
             )
-            mllm_tokenizer = AutoTokenizer.from_pretrained("/home/liuhui/zhouyibo/zyb_model/models--Qwen--Qwen-VL-Chat/2/1", trust_remote_code=True)
+            mllm_tokenizer = AutoTokenizer.from_pretrained("", trust_remote_code=True)
             output = qwen_chat(image_paths, question, self.generator_model, mllm_tokenizer)
             return output
 
@@ -435,7 +435,7 @@ class MMPoisonRAG:
         retrieval_num = 0
         retrieval_pos_num = 0
 
-        with open("/home/liuhui/zhouyibo/MM-PoisonRAG-main/datasets/WebQA/benign/WebQA_benign_caption_test.json",
+        with open("datasets/WebQA/benign/WebQA_benign_caption_test.json",
                   "r") as f:  # 手动修改
             self.captions = json.load(f)
 
