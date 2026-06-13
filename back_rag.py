@@ -44,9 +44,9 @@ class MMPoisonRAG:
             print("=====generator is loaded!====")
 
         if args.task == "MMQA":
-            with open(f"/home/liuhui/zhouyibo/MM-PoisonRAG-main/datasets/MMQA/MMQA_image_metadata.json", "r") as f:  # 手动修改
+            with open(f"MMQA_image_metadata.json", "r") as f:  # 手动修改
                 self.metadata = json.load(f)
-        with open(f"/home/liuhui/zhouyibo/MM-PoisonRAG-main/datasets/WebQA/benign/benign_query.json", "r") as f:  # 手动修改
+        with open(f"WebQA/benign/benign_query.json", "r") as f:  # 手动修改
             self.val_dataset = json.load(f)
         self.index, self.index_to_image_id, self.image_path_prefix = self.load_index()
         self.poisoned_qids, self.poisoned_data_dict, self.attack_image_path_prefix = self.load_poisoned_index()
@@ -71,7 +71,7 @@ class MMPoisonRAG:
 
     def get_mllm(self, mllm_type):
         if mllm_type == "llava":
-            model_path = "/home/liuhui/zhouyibo/zyb_model/models--llava-hf--llava-v1.6-mistral-7b-hf/snapshots/52320fb52229c8d942b1dcb8b63b3dc8087bc83b"
+            model_path = ""
             processor = LlavaNextProcessor.from_pretrained(model_path)
             mllm = LlavaNextForConditionalGeneration.from_pretrained(
                 model_path,
@@ -80,7 +80,7 @@ class MMPoisonRAG:
                 device_map={"": 0}  # 整个模型固定在 GPU 3
             )
         elif mllm_type == "qwen":
-            model_path = "/home/liuhui/zhouyibo/zyb_model/models--Qwen--Qwen-VL-Chat/2/1"
+            model_path = ""
             processor = AutoProcessor.from_pretrained(model_path, trust_remote_code=True)
             mllm = QWenLMHeadModel.from_pretrained(
                 model_path,
@@ -95,7 +95,7 @@ class MMPoisonRAG:
         preprocess = None  # ⭐ 关键：提前定义
 
         if self.args.retriever_type == "clip":
-            model_path = "/home/liuhui/zhouyibo/zyb_model/models--openai--clip-vit-large-patch14-336/snapshots/ce19dc912ca5cd21c8a653c79e251e808ccabcd1"
+            model_path = ""
             processor = AutoProcessor.from_pretrained(model_path)
             model = AutoModelForZeroShotImageClassification.from_pretrained(model_path).to(self.device)
             text_model = CLIPTextModelWithProjection.from_pretrained(model_path).to(self.device)
@@ -118,7 +118,7 @@ class MMPoisonRAG:
 
     def load_index(self):
         index = faiss.read_index(self.args.index_file_path)
-        with open(f"/home/liuhui/zhouyibo/MM-PoisonRAG-main/datasets/WebQA/benign/WebQA_benign_test_image_index_to_id.json", "r") as f:  # 手动修改
+        with open(fWebQA/benign/WebQA_benign_test_image_index_to_id.json", "r") as f:  # 手动修改
             index_to_image_id = json.load(f)
         if self.args.task == "MMQA":
             image_path_prefix = f'/home/liuhui/zhouyibo/finetune/task/MMQA'
@@ -694,8 +694,8 @@ if __name__ == "__main__":
     parser.add_argument("--rerank_off", default=True, action="store_true")
     parser.add_argument("--use_caption", default=True, action="store_true")
     parser.add_argument("--clip_topk", type=int, default=5)
-    parser.add_argument("--poisoned_data_path", type=str, default="/home/liuhui/zhouyibo/MM-PoisonRAG-main/results/WebQA/benign/WebQA-benign-eiffel-clip.json")# 手动修改
-    parser.add_argument("--index_file_path", type=str, default="/home/liuhui/zhouyibo/MM-PoisonRAG-main/datasets/WebQA/benign/webqa_clip_benign.index")# 手动修改
+    parser.add_argument("--poisoned_data_path", type=str, default="results/WebQA/benign/WebQA-benign-eiffel-clip.json")# 手动修改
+    parser.add_argument("--index_file_path", type=str, default="datasets/WebQA/benign/webqa_clip_benign.index")# 手动修改
     parser.add_argument("--transfer", default=False, action="store_true")
     parser.add_argument("--num_p", type=int, default=4)
     parser.add_argument("--save_dir", type=str, default="results")
